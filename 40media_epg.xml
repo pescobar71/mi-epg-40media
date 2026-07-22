@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="40media Group EPG - Solo Canales">
+  
+  <!-- ========================================== -->
+  <!-- CANALES DE MÚSICA (Total Music)            -->
+  <!-- ========================================== -->
+
+  <channel id="TOTALMUSIC.CL">
+    <display-name>TOTALMUSIC</display-name>
+    <display-name>Total Music</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_main.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+  <channel id="TOTALMUSIC80S.CL">
+    <display-name>TOTALMUSIC 80s</display-name>
+    <display-name>Total Music 80s</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_80s.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+  <channel id="TOTALMUSICconcerts.CL">
+    <display-name>TOTALMUSIC CONCERTS</display-name>
+    <display-name>Total Music Concerts</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_concerts.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+  <channel id="TOTALMUSIC2000s.CL">
+    <display-name>TOTALMUSIC 2000s</display-name>
+    <display-name>Total Music 2000s</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_00s.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+  <channel id="TOTALMUSICDance.CL">
+    <display-name>TOTALMUSIC DANCE</display-name>
+    <display-name>Total Music Dance</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_dance.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+  <!-- ========================================== -->
+  <!-- CANALES DE ENTRETENIMIENTO (ENT)           -->
+  <!-- ========================================== -->
+
+  <channel id="ENT_CHANNEL">
+    <display-name>ENT CHANNEL</display-name>
+    <display-name>ENT Channel</display-name>
+    <icon src="https://static.elektamedia.com/ch/entch.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+  <channel id="ENT_FAMILY">
+    <display-name>ENT FAMILY</display-name>
+    <display-name>ENT Family</display-name>
+    <icon src="https://static.elektamedia.com/ch/entf.png" />
+    <url>https://www.40mediagroup.com</url>
+  </channel>
+
+</tv>
