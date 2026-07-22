@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="40media Group EPG - Solo Canales">
+<tv generator-info-name="40media Group EPG - Canales con descripción">
   
   <!-- ========================================== -->
   <!-- CANALES DE MÚSICA (Total Music)            -->
@@ -10,6 +10,7 @@
     <display-name>Total Music</display-name>
     <icon src="https://static.elektamedia.com/ch/tmc_main.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
   </channel>
 
   <channel id="TOTALMUSIC80S.CL">
@@ -17,6 +18,7 @@
     <display-name>Total Music 80s</display-name>
     <icon src="https://static.elektamedia.com/ch/tmc_80s.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
   </channel>
 
   <channel id="TOTALMUSICconcerts.CL">
@@ -24,6 +26,7 @@
     <display-name>Total Music Concerts</display-name>
     <icon src="https://static.elektamedia.com/ch/tmc_concerts.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
   </channel>
 
   <channel id="TOTALMUSIC2000s.CL">
@@ -31,6 +34,7 @@
     <display-name>Total Music 2000s</display-name>
     <icon src="https://static.elektamedia.com/ch/tmc_00s.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
   </channel>
 
   <channel id="TOTALMUSICDance.CL">
@@ -38,6 +42,7 @@
     <display-name>Total Music Dance</display-name>
     <icon src="https://static.elektamedia.com/ch/tmc_dance.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
   </channel>
 
   <!-- ========================================== -->
@@ -49,6 +54,7 @@
     <display-name>ENT Channel</display-name>
     <icon src="https://static.elektamedia.com/ch/entch.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
   </channel>
 
   <channel id="ENT_FAMILY">
@@ -56,6 +62,7 @@
     <display-name>ENT Family</display-name>
     <icon src="https://static.elektamedia.com/ch/entf.png" />
     <url>https://www.40mediagroup.com</url>
+    <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
   </channel>
 
 </tv>
