@@ -13,7 +13,7 @@
     <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="TOTALMUSIC.CL">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="TOTALMUSIC.CL">
     <title>🎵 TOTALMUSIC - La señal musical principal</title>
     <desc>Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
   </programme>
@@ -28,7 +28,7 @@
     <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="TOTALMUSIC80S.CL">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="TOTALMUSIC80S.CL">
     <title>🎵 TOTALMUSIC 80s - El destino nostálgico</title>
     <desc>Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
   </programme>
@@ -43,7 +43,7 @@
     <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="TOTALMUSICconcerts.CL">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="TOTALMUSICconcerts.CL">
     <title>🎵 TOTALMUSIC CONCERTS - Presentaciones en vivo</title>
     <desc>Presentaciones en vivo de los artistas más grandes del mundo.</desc>
   </programme>
@@ -58,7 +58,7 @@
     <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="TOTALMUSIC2000s.CL">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="TOTALMUSIC2000s.CL">
     <title>🎵 TOTALMUSIC 2000s - Grandes éxitos</title>
     <desc>Videos icónicos de la década de los 2000 para la generación millennial.</desc>
   </programme>
@@ -73,7 +73,7 @@
     <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="TOTALMUSICDance.CL">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="TOTALMUSICDance.CL">
     <title>🎵 TOTALMUSIC DANCE - Energía pura</title>
     <desc>Sets y videoclips de electrónica y dance las 24 horas para audiencias jóvenes.</desc>
   </programme>
@@ -90,7 +90,7 @@
     <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="ENT_CHANNEL">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="ENT_CHANNEL">
     <title>🎬 ENT CHANNEL - Cine icónico</title>
     <desc>Películas icónicas que han marcado generaciones. Programación 24/7.</desc>
   </programme>
@@ -105,7 +105,7 @@
     <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
   </channel>
 
-  <programme start="20260721000000 +0000" stop="20260721235959 +0000" channel="ENT_FAMILY">
+  <programme start="20260722000000 +0000" stop="20260722235959 +0000" channel="ENT_FAMILY">
     <title>👨‍👩‍👧‍👦 ENT FAMILY - Contenido para toda la familia</title>
     <desc>Contenidos multigeneracionales para un consumo seguro durante todo el día.</desc>
   </programme>
