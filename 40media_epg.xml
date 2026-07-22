@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ExtractorEPG" generator-info-url="https://localhost">
 
+  <!-- ==================== DEFINICIÓN DE CANALES ==================== -->
   <channel id="TOTALMUSIC.CL">
-    <display-name lang="es">TOTALMUSIC</display-name>
-    <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC.CL">
-      <title lang="es">TOTALMUSIC</title>
-      <sub-title/>
-      <desc lang="es">Lo mejor de la música pop y rock internacional las 24 horas.</desc>
-      <episode-num system="xmltv_ns"/>
-    </programme>
+    <display-name>TOTALMUSIC</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_main.png" />
   </channel>
 
   <channel id="TOTALMUSIC80S.CL">
-    <display-name lang="es">TOTALMUSIC 80s</display-name>
-    <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC80S.CL">
-      <title lang="es">TOTALMUSIC 80s</title>
-      <sub-title/>
-      <desc lang="es">Los grandes clásicos y éxitos de la década de los 80.</desc>
-      <episode-num system="xmltv_ns"/>
-    </programme>
+    <display-name>TOTALMUSIC 80s</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_80s.png" />
   </channel>
+
+  <channel id="TOTALMUSICconcerts.CL">
+    <display-name>TOTALMUSIC CONCERTS</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_concerts.png" />
+  </channel>
+
+  <channel id="TOTALMUSIC2000s.CL">
+    <display-name>TOTALMUSIC 2000s</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_00s.png" />
+  </channel>
+
+  <channel id="TOTALMUSICDance.CL">
+    <display-name>TOTALMUSIC DANCE</display-name>
+  </channel>
+
+  <!-- ==================== PROGRAMACIÓN ==================== -->
+
+  <!-- TOTALMUSIC -->
+  <programme start="20260722120000 -0300" stop="20260722160000 -0300" channel="TOTALMUSIC.CL">
+    <title lang="es">Hits de Selección</title>
+    <desc lang="es">Los mejores videos musicales del momento y éxitos globales.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20260722160000 -0300" stop="20260722200000 -0300" channel="TOTALMUSIC.CL">
+    <title lang="es">Especial Pop &amp; Rock</title>
+    <desc lang="es">Compilación con lo más destacado de la escena pop y rock internacional.</desc>
+    <category lang="es">Música</category>
+  </programme>
+
+  <!-- TOTALMUSIC 80s -->
+  <programme start="20260722120000 -0300" stop="20260722160000 -0300" channel="TOTALMUSIC80S.CL">
+    <title lang="es">Clásicos de los 80s</title>
+    <desc lang="es">Lo mejor del synth-pop, rock y baladas de la década de 1980.</desc>
+    <category lang="es">Música</category>
+  </programme>
+
+  <!-- TOTALMUSIC CONCERTS -->
+  <programme start="20260722120000 -0300" stop="20260722150000 -0300" channel="TOTALMUSICconcerts.CL">
+    <title lang="es">Concierto en Vivo: Selección Global</title>
+    <desc lang="es">Presentaciones estelares y recitales míticos en alta definición.</desc>
+    <category lang="es">Conciertos</category>
+  </programme>
+
+  <!-- TOTALMUSIC 2000s -->
+  <programme start="20260722120000 -0300" stop="20260722160000 -0300" channel="TOTALMUSIC2000s.CL">
+    <title lang="es">Generación Y: Hits 2000s</title>
+    <desc lang="es">El sonido del cambio de milenio, pop, nu metal y R&amp;B.</desc>
+    <category lang="es">Música</category>
+  </programme>
+
+  <!-- TOTALMUSIC DANCE -->
+  <programme start="20260722120000 -0300" stop="20260722160000 -0300" channel="TOTALMUSICDance.CL">
+    <title lang="es">Dance &amp; Electronic Sessions</title>
+    <desc lang="es">Los mejores tracks de música electrónica, house y dance actual.</desc>
+    <category lang="es">Música</category>
+  </programme>
 
 </tv>
