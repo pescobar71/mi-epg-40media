@@ -1,93 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="40media Group EPG" generator-info-url="https://github.com/pescobar71/mi-epg-40media">
+<tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
 
-  <!-- DEFINICIÓN DE CANALES -->
   <channel id="TOTALMUSIC.CL">
     <display-name lang="es">TOTALMUSIC</display-name>
-    <icon src="https://raw.githubusercontent.com/pescobar71/mi-epg-40media/main/logos/totalmusic.png" />
+    <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC.CL">
+      <title lang="es">TOTALMUSIC</title>
+      <sub-title/>
+      <desc lang="es">Lo mejor de la música pop y rock internacional las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
   </channel>
 
   <channel id="TOTALMUSIC80S.CL">
     <display-name lang="es">TOTALMUSIC 80s</display-name>
-    <icon src="https://raw.githubusercontent.com/pescobar71/mi-epg-40media/main/logos/totalmusic80s.png" />
+    <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC80S.CL">
+      <title lang="es">TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc lang="es">Los grandes clásicos y éxitos de la década de los 80.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
   </channel>
-
-  <channel id="TOTALMUSICconcerts.CL">
-    <display-name lang="es">TOTALMUSIC CONCERTS</display-name>
-  </channel>
-
-  <channel id="TOTALMUSIC2000s.CL">
-    <display-name lang="es">TOTALMUSIC 2000s</display-name>
-  </channel>
-
-  <channel id="TOTALMUSICDance.CL">
-    <display-name lang="es">TOTALMUSIC DANCE</display-name>
-  </channel>
-
-  <channel id="ENT_CHANNEL">
-    <display-name lang="es">ENT CHANNEL</display-name>
-  </channel>
-
-  <channel id="ENT_FAMILY">
-    <display-name lang="es">ENT FAMILY</display-name>
-  </channel>
-
-  <!-- PROGRAMACIÓN EN EMISIÓN PERMANENTE (2025 - 2030) -->
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC.CL">
-    <title lang="es">TOTALMUSIC</title>
-    <sub-title lang="es"/>
-    <desc lang="es">Lo mejor de la música pop y rock internacional las 24 horas.</desc>
-    <category lang="es">Música</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
-
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC80S.CL">
-    <title lang="es">TOTALMUSIC 80s</title>
-    <sub-title lang="es"/>
-    <desc lang="es">Los grandes clásicos y éxitos de la década de los 80.</desc>
-    <category lang="es">Música</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
-
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSICconcerts.CL">
-    <title lang="es">TOTALMUSIC CONCERTS</title>
-    <sub-title lang="es"/>
-    <desc lang="es">Conciertos en vivo y shows legendarios de tus artistas favoritos.</desc>
-    <category lang="es">Música</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
-
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSIC2000s.CL">
-    <title lang="es">TOTALMUSIC 2000s</title>
-    <sub-title lang="es"/>
-    <desc lang="es">Los hits inolvidables del nuevo milenio.</desc>
-    <category lang="es">Música</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
-
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="TOTALMUSICDance.CL">
-    <title lang="es">TOTALMUSIC DANCE</title>
-    <sub-title lang="es"/>
-    <desc lang="es">La mejor selección de música electrónica, dance y clubbing.</desc>
-    <category lang="es">Música</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
-
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="ENT_CHANNEL">
-    <title lang="es">ENT CHANNEL</title>
-    <sub-title lang="es"/>
-    <desc lang="es">Entretenimiento general, series y producciones especiales.</desc>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
-
-  <programme start="20250101000000 +0000" stop="20300101000000 +0000" channel="ENT_FAMILY">
-    <title lang="es">ENT FAMILY</title>
-    <sub-title lang="es"/>
-    <desc lang="es">Programación pensada para disfrutar en familia.</desc>
-    <category lang="es">Familiar</category>
-    <episode-num system="xmltv_ns"/>
-  </programme>
 
 </tv>
