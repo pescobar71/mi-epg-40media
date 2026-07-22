@@ -1,25 +1,1250 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
 
+  <!-- ========================================== -->
+  <!-- CANAL: TOTALMUSIC                          -->
+  <!-- ========================================== -->
+
   <channel id="TOTALMUSIC.CL">
     <display-name>TOTALMUSIC.CL</display-name>
     <icon src="https://static.elektamedia.com/ch/tmc_main.png"/>
+
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="TOTALMUSIC.CL">
+      <title>TOTALMUSIC</title>
+      <sub-title/>
+      <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
   </channel>
 
-  <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="TOTALMUSIC.CL">
-    <title>TOTALMUSIC</title>
-    <sub-title></sub-title>
-    <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
-    <episode-num system="xmltv_ns"></episode-num>
-  </programme>
+  <!-- ========================================== -->
+  <!-- CANAL: TOTALMUSIC 80s                      -->
+  <!-- ========================================== -->
 
-  <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="TOTALMUSIC.CL">
-    <title>TOTALMUSIC</title>
-    <sub-title></sub-title>
-    <desc>La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
-    <episode-num system="xmltv_ns"></episode-num>
-  </programme>
+  <channel id="TOTALMUSIC80S.CL">
+    <display-name>TOTALMUSIC80S.CL</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_80s.png"/>
 
-  <!-- Repetir para todos los canales y horas -->
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="TOTALMUSIC80S.CL">
+      <title>TOTALMUSIC 80s</title>
+      <sub-title/>
+      <desc>El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+  </channel>
+
+  <!-- ========================================== -->
+  <!-- CANAL: TOTALMUSIC CONCERTS                 -->
+  <!-- ========================================== -->
+
+  <channel id="TOTALMUSICconcerts.CL">
+    <display-name>TOTALMUSICconcerts.CL</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_concerts.png"/>
+
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="TOTALMUSICconcerts.CL">
+      <title>TOTALMUSIC CONCERTS</title>
+      <sub-title/>
+      <desc>Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+  </channel>
+
+  <!-- ========================================== -->
+  <!-- CANAL: TOTALMUSIC 2000s                    -->
+  <!-- ========================================== -->
+
+  <channel id="TOTALMUSIC2000s.CL">
+    <display-name>TOTALMUSIC2000s.CL</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_00s.png"/>
+
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="TOTALMUSIC2000s.CL">
+      <title>TOTALMUSIC 2000s</title>
+      <sub-title/>
+      <desc>Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+  </channel>
+
+  <!-- ========================================== -->
+  <!-- CANAL: TOTALMUSIC DANCE                    -->
+  <!-- ========================================== -->
+
+  <channel id="TOTALMUSICDance.CL">
+    <display-name>TOTALMUSICDance.CL</display-name>
+    <icon src="https://static.elektamedia.com/ch/tmc_dance.png"/>
+
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="TOTALMUSICDance.CL">
+      <title>TOTALMUSIC DANCE</title>
+      <sub-title/>
+      <desc>Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+  </channel>
+
+  <!-- ========================================== -->
+  <!-- CANAL: ENT CHANNEL                         -->
+  <!-- ========================================== -->
+
+  <channel id="ENT_CHANNEL">
+    <display-name>ENT_CHANNEL</display-name>
+    <icon src="https://static.elektamedia.com/ch/entch.png"/>
+
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="ENT_CHANNEL">
+      <title>ENT CHANNEL</title>
+      <sub-title/>
+      <desc>Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+  </channel>
+
+  <!-- ========================================== -->
+  <!-- CANAL: ENT FAMILY                         -->
+  <!-- ========================================== -->
+
+  <channel id="ENT_FAMILY">
+    <display-name>ENT_FAMILY</display-name>
+    <icon src="https://static.elektamedia.com/ch/entf.png"/>
+
+    <programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+    <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="ENT_FAMILY">
+      <title>ENT FAMILY</title>
+      <sub-title/>
+      <desc>Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+      <episode-num system="xmltv_ns"/>
+    </programme>
+
+  </channel>
 
 </tv>
