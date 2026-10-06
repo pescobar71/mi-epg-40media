@@ -40,55 +40,123 @@
   </channel>
 
   <!-- ========================================== -->
-  <!-- PROGRAMACIÓN PARA TODO SEPTIEMBRE 2026     -->
-  <!-- Inicio: 1 de septiembre 2026 - 00:00 (-0300) -->
-  <!-- Fin:     1 de octubre 2026 - 00:00 (-0300)   -->
+  <!-- PROGRAMACIÓN DIARIA (6 AL 9 DE OCTUBRE 2026)-->
   <!-- ========================================== -->
 
-  <!-- TOTALMUSIC -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="TOTALMUSIC.CL">
+  <!-- ==================== TOTALMUSIC ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="TOTALMUSIC.CL">
+    <title lang="es">🎵 TOTALMUSIC - 24/7</title>
+    <desc lang="es">La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="TOTALMUSIC.CL">
+    <title lang="es">🎵 TOTALMUSIC - 24/7</title>
+    <desc lang="es">La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="TOTALMUSIC.CL">
     <title lang="es">🎵 TOTALMUSIC - 24/7</title>
     <desc lang="es">La señal musical principal. Los mejores éxitos del siglo de todos los géneros en una programación las 24 horas.</desc>
     <category lang="es">Música</category>
   </programme>
 
-  <!-- TOTALMUSIC 80s -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="TOTALMUSIC80S.CL">
+  <!-- ==================== TOTALMUSIC 80s ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="TOTALMUSIC80S.CL">
+    <title lang="es">🎵 TOTALMUSIC 80s - 24/7</title>
+    <desc lang="es">El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="TOTALMUSIC80S.CL">
+    <title lang="es">🎵 TOTALMUSIC 80s - 24/7</title>
+    <desc lang="es">El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="TOTALMUSIC80S.CL">
     <title lang="es">🎵 TOTALMUSIC 80s - 24/7</title>
     <desc lang="es">El destino nostálgico por excelencia. Videoclips exclusivos de la década dorada con alto nivel de engagement.</desc>
     <category lang="es">Música</category>
   </programme>
 
-  <!-- TOTALMUSIC CONCERTS -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="TOTALMUSICconcerts.CL">
+  <!-- ==================== TOTALMUSIC CONCERTS ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="TOTALMUSICconcerts.CL">
+    <title lang="es">🎵 TOTALMUSIC CONCERTS - 24/7</title>
+    <desc lang="es">Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+    <category lang="es">Conciertos</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="TOTALMUSICconcerts.CL">
+    <title lang="es">🎵 TOTALMUSIC CONCERTS - 24/7</title>
+    <desc lang="es">Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
+    <category lang="es">Conciertos</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="TOTALMUSICconcerts.CL">
     <title lang="es">🎵 TOTALMUSIC CONCERTS - 24/7</title>
     <desc lang="es">Una propuesta diferencial: Presentaciones en vivo de los artistas más grandes del mundo.</desc>
     <category lang="es">Conciertos</category>
   </programme>
 
-  <!-- TOTALMUSIC 2000s -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="TOTALMUSIC2000s.CL">
+  <!-- ==================== TOTALMUSIC 2000s ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="TOTALMUSIC2000s.CL">
+    <title lang="es">🎵 TOTALMUSIC 2000s - 24/7</title>
+    <desc lang="es">Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="TOTALMUSIC2000s.CL">
+    <title lang="es">🎵 TOTALMUSIC 2000s - 24/7</title>
+    <desc lang="es">Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="TOTALMUSIC2000s.CL">
     <title lang="es">🎵 TOTALMUSIC 2000s - 24/7</title>
     <desc lang="es">Grandes éxitos y videos icónicos de la década de los 2000. Programación continua para la generación millennial.</desc>
     <category lang="es">Música</category>
   </programme>
 
-  <!-- TOTALMUSIC DANCE -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="TOTALMUSICDance.CL">
+  <!-- ==================== TOTALMUSIC DANCE ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="TOTALMUSICDance.CL">
+    <title lang="es">🎵 TOTALMUSIC DANCE - 24/7</title>
+    <desc lang="es">Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="TOTALMUSICDance.CL">
+    <title lang="es">🎵 TOTALMUSIC DANCE - 24/7</title>
+    <desc lang="es">Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
+    <category lang="es">Música</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="TOTALMUSICDance.CL">
     <title lang="es">🎵 TOTALMUSIC DANCE - 24/7</title>
     <desc lang="es">Energía pura para audiencias jóvenes. Sets y videoclips de electrónica y dance las 24 horas.</desc>
     <category lang="es">Música</category>
   </programme>
 
-  <!-- ENT CHANNEL -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="ENT_CHANNEL">
+  <!-- ==================== ENT CHANNEL ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="ENT_CHANNEL">
+    <title lang="es">🎬 ENT CHANNEL - 24/7</title>
+    <desc lang="es">Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="ENT_CHANNEL">
+    <title lang="es">🎬 ENT CHANNEL - 24/7</title>
+    <desc lang="es">Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="ENT_CHANNEL">
     <title lang="es">🎬 ENT CHANNEL - 24/7</title>
     <desc lang="es">Programación 24/7 con enfoque en contenido de alto reconocimiento. Películas icónicas que han marcado generaciones.</desc>
     <category lang="es">Cine</category>
   </programme>
 
-  <!-- ENT FAMILY -->
-  <programme start="20260901000000 -0300" stop="20261001000000 -0300" channel="ENT_FAMILY">
+  <!-- ==================== ENT FAMILY ==================== -->
+  <programme start="20261006000000 -0300" stop="20261007000000 -0300" channel="ENT_FAMILY">
+    <title lang="es">👨‍👩‍👧‍👦 ENT FAMILY - 24/7</title>
+    <desc lang="es">Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+    <category lang="es">Familiar</category>
+  </programme>
+  <programme start="20261007000000 -0300" stop="20261008000000 -0300" channel="ENT_FAMILY">
+    <title lang="es">👨‍👩‍👧‍👦 ENT FAMILY - 24/7</title>
+    <desc lang="es">Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
+    <category lang="es">Familiar</category>
+  </programme>
+  <programme start="20261008000000 -0300" stop="20261009000000 -0300" channel="ENT_FAMILY">
     <title lang="es">👨‍👩‍👧‍👦 ENT FAMILY - 24/7</title>
     <desc lang="es">Señal apta para todo público con contenidos multigeneracionales. Diseñada para un consumo seguro durante todo el día.</desc>
     <category lang="es">Familiar</category>
