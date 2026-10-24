@@ -33,26 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261024032545 +0000" stop="20261024040409 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Les dimos armas</sub-title>
-    <desc lang="es">Caine prepara al grupo para un juego brutal, en el que deben trabajar en parejas para buscar armas y sobrevivir a tres «muertes» para ganar.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/984abb51c65c0197569232d4c6146991?w=400" />
-  </programme>
-  <programme start="20261024040409 +0000" stop="20261024045842 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Medidas totales</sub-title>
-    <desc lang="es">Luego de liquidar a dos traficantes de su jefe, Walt se da cuenta de que Gus planea matarlo y reemplazarlo con su anterior asistente.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4350c2cd63153d3211c7d73b124caef7?w=400" />
-  </programme>
-  <programme start="20261024045842 +0000" stop="20261024065220 +0000" channel="entchannel">
-    <title lang="es">Los Ilegales</title>
-    <desc lang="es">Ambientada en el condado de Franklin, Virginia, en la época de la Depresión, una pandilla de contrabando es amenazada por las autoridades que quieren una reducción de sus ganancias.</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e6fdbdf09adf1dd1edbcd7dc13519dd6?w=400" />
-  </programme>
   <programme start="20261024065220 +0000" stop="20261024085951 +0000" channel="entchannel">
     <title lang="es">Francotirador</title>
     <desc lang="es">Chris Kyle es francotirador en Irak. A medida que el marine hace su trabajo con patriotismo y gran precisión, se convierte en un importante objetivo para el enemigo. Mientras tanto, su familia espera recibirlo en casa con vida.</desc>
@@ -728,24 +708,6 @@
     <desc lang="es">En la continuación del primer Especial de noche de brujas, tres historias más de horror.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/261cb0020e991e1b8be337ed5a5846b4?w=400" />
-  </programme>
-  <programme start="20261024025959 +0000" stop="20261024043950 +0000" channel="entfamily">
-    <title lang="es">Una Noche en el Museo 2: La Batalla del Smithsoniano</title>
-    <desc lang="es">El vigilante jurado Larry Daley se ve obligado a decir adiós a todos sus amigos cuando deciden hacer el Museo de Ciencias Naturales más "interactivo" y sustituyen todas las figuras por hologramas. Sus amigos históricos son empaquetados y enviados a los archivos del famoso Smit...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ba2b5f10f1bdfeb2ae265bb4e2fd2292?w=400" />
-  </programme>
-  <programme start="20261024043950 +0000" stop="20261024062712 +0000" channel="entfamily">
-    <title lang="es">Cars 2</title>
-    <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e8173ab5ae9aa409f07e90c3a4052a20?w=400" />
-  </programme>
-  <programme start="20261024062712 +0000" stop="20261024075841 +0000" channel="entfamily">
-    <title lang="es">La conquista del planeta de los simios</title>
-    <desc lang="es">En un mundo futurista que ha abrazado la esclavitud de los simios, César, el hijo de los difuntos simios Cornelius y Zira, sale a la superficie después de casi veinte años de esconderse de las autoridades, y se prepara para una revuelta de esclavos contra la humanidad.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ba33c298ceb1358c59ea9b0ba211277d?w=400" />
   </programme>
   <programme start="20261024075841 +0000" stop="20261024101751 +0000" channel="entfamily">
     <title lang="es">Apolo 13</title>
@@ -2585,18 +2547,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261024025959 +0000" stop="20261024045107 +0000" channel="entmovies">
-    <title lang="es">Taxi Driver</title>
-    <desc lang="es">Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/57f05e08e1aa8db2c92fb0ea35d3e1c8?w=400" />
-  </programme>
-  <programme start="20261024045107 +0000" stop="20261024065847 +0000" channel="entmovies">
-    <title lang="es">Ted 2</title>
-    <desc lang="es">Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente recibe...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/43a203fd1bdcc728b92665e1ca50bb5f?w=400" />
-  </programme>
   <programme start="20261024065847 +0000" stop="20261024085925 +0000" channel="entmovies">
     <title lang="es">Sin lugar para los débiles</title>
     <desc lang="es">Un cazador de tesoros se encuentra en una espiral de violencia después de tropezar con una bolsa de dinero en medio del desierto texano. Perseguido por un despiadado asesino, se desencadena una serie de eventos mortales que ponen a prueba su astucia y su supervivencia en un ju...</desc>
@@ -3101,18 +3051,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0bb3be0888d48a3a24323f0fb8c49ff6?w=400" />
   </programme>
-  <programme start="20261024025958 +0000" stop="20261024043407 +0000" channel="entdrama">
-    <title lang="es">300: El Nacimiento de un Imperio</title>
-    <desc lang="es">Este nuevo capítulo de la saga épica lleva la acción a un nuevo campo de batalla, en el mar, mientras el general griego Themistokles intenta unir toda Grecia liderando la carga que cambiará el curso de la guerra. "300: El Nacimiento de un Imperio" enfrenta a Themistokles contr...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3535257b8bc9d2cb7c4ddb8eaf8a3b3f?w=400" />
-  </programme>
-  <programme start="20261024043407 +0000" stop="20261024063415 +0000" channel="entdrama">
-    <title lang="es">Marea roja</title>
-    <desc lang="es">El impulsivo Comandante del Alabama, el Capitán Frank Ramsey, y su lugarteniente, el reflexivo Teniente Coronel Ron Hunter, se encuentran en medio de un conflicto mundial. El submarino nuclear que dirigen se ve amenazado por un desequilibrado nacionalista ruso que quiere provo...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bc8d052280f7797ca5f745b5fead9371?w=400" />
-  </programme>
   <programme start="20261024063415 +0000" stop="20261024085925 +0000" channel="entdrama">
     <title lang="es">Tráfico</title>
     <desc lang="es">El juez Robert Wakefield es nombrado por el Presidente de los Estados Unidos supervisor de los grupos de lucha contra la droga y de su coordinación con las autoridades mexicanas. Sin embargo, su satisfacción inicial por su prestigioso cargo se esfumará cuando descubra que su h...</desc>
@@ -3610,18 +3548,6 @@
     <desc lang="es">Frank Drebin sale de su retiro para ayudar al Escuadrón Policial a infiltrarse en una banda de terroristas que planean detonar una bomba en los Premios de la Academia.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/58a2e0b1f42ff76ed43f53530824da11?w=400" />
-  </programme>
-  <programme start="20261024025957 +0000" stop="20261024045126 +0000" channel="entclassic">
-    <title lang="es">Traición al Amanecer (Tequila Sunrise)</title>
-    <desc lang="es">En una ciudad costera de California, los mejores amigos Mac y Nick están en lados opuestos de la ley. Mac es un ex traficante de drogas que intenta limpiar su acto, mientras que Nick es un detective de alto perfil que intenta derribar a un narcotraficante mexicano llamado Carl...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8550869ca5920ccdc3192af0210bdec1?w=400" />
-  </programme>
-  <programme start="20261024045126 +0000" stop="20261024065809 +0000" channel="entclassic">
-    <title lang="es">Avión Presidencial</title>
-    <desc lang="es">El Presidente de los EE.UU., James Marshall, regresa de un viaje oficial a Rusia a bordo del Boing 747 Presidencial, el famoso Air Force One. Un grupo terrorista ruso se apodera del avión y toma como rehenes a la familia y a los miembros del equipo presidencial.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b9ee0012f437f66a1b61aa9def51f516?w=400" />
   </programme>
   <programme start="20261024065809 +0000" stop="20261024085958 +0000" channel="entclassic">
     <title lang="es">The Birdcage</title>
@@ -4357,18 +4283,6 @@
     <category lang="es">Romance</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9951597e4b47be62be297f9eca3f410f?w=400" />
   </programme>
-  <programme start="20261024025959 +0000" stop="20261024043604 +0000" channel="entlife">
-    <title lang="es">Drive: El escape</title>
-    <desc lang="es">Un misterioso doble de acción de Hollywood se pone a trabajar como conductor de huida y se encuentra en problemas cuando ayuda a su vecina.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/23da67045a1e5fabc0f06e692e92f373?w=400" />
-  </programme>
-  <programme start="20261024043604 +0000" stop="20261024062128 +0000" channel="entlife">
-    <title lang="es">Un santa no tan santo</title>
-    <desc lang="es">Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d8ae72ca6afc128ef2f463f11bb2031c?w=400" />
-  </programme>
   <programme start="20261024062128 +0000" stop="20261024085939 +0000" channel="entlife">
     <title lang="es">Tipos de gentileza</title>
     <desc lang="es">Fábula en forma de tríptico que narra tres historias: la de un hombre atrapado que intenta tomar las riendas de su propia vida; la de un policía aterrado porque su mujer, que había desaparecido en el mar, ha vuelto y parece otra persona; y la de una mujer decidida a encontrar...</desc>
@@ -4963,18 +4877,6 @@
     <category lang="es">Documental</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3b902137be1333c6cee32fdc26723543?w=400" />
   </programme>
-  <programme start="20261024035951 +0000" stop="20261024054645 +0000" channel="entextreme">
-    <title lang="es">Terminator 3: La rebelión de las máquinas</title>
-    <desc lang="es">Ha pasado una década desde que John Connor -Nick Stahl- salvara a la humanidad de la destrucción. En la actualidad John tiene 25 años y vive en la clandestinidad: no hay ninguna prueba documental de su existencia. Así evita ser rastreado por Skynet -la sofisticada corporación...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0e3514fa8e0421f57111ac5f5d8f96e3?w=400" />
-  </programme>
-  <programme start="20261024054645 +0000" stop="20261024073349 +0000" channel="entextreme">
-    <title lang="es">Último turno</title>
-    <desc lang="es">Filmada al estilo de un documental, esta película sigue el día a día de dos jóvenes policías de Los Ángeles que son compañeros y amigos, y lo que sucede cuando se encuentran con fuerzas criminales más grandes que ellos.</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ad56ef329dffc1a5cddfd9ffd49f52c?w=400" />
-  </programme>
   <programme start="20261024073349 +0000" stop="20261024085930 +0000" channel="entextreme">
     <title lang="es">Infectados</title>
     <desc lang="es">Un virus terriblemente mortal se ha extendido por toda la Tierra aniquilando a la mayor parte de la población. Cuatro jóvenes, que todavía no han sido infectados, se dirigen a una apartada playa del Golfo de México con la intención de refugiarse hasta que pase la epidemia. Su...</desc>
@@ -5448,18 +5350,6 @@
     <desc lang="es">Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en torno a él para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se lleva a cabo con éxito, podría suponer el fin de los Guardianes tal y como los conocemos.</desc>
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da6f11902a34a64f3127dc7f61ba52f3?w=400" />
-  </programme>
-  <programme start="20261024025956 +0000" stop="20261024044044 +0000" channel="entcomedy">
-    <title lang="es">Una loca aventura medieval</title>
-    <desc lang="es">Cuando Belladona, la prometida de Fabious, es secuestrada por el malvado brujo Leezar, el rey da un ultimátum a su hijo menor Thadeous: si no consigue rescatarla, no podrá seguir viviendo como un libertino. Entonces emprenden así un peligroso viaje en compañía de Fabious y de...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/78041ca1b6f2d7fdf7e109907df6c826?w=400" />
-  </programme>
-  <programme start="20261024044044 +0000" stop="20261024062649 +0000" channel="entcomedy">
-    <title lang="es">Tango y Cash</title>
-    <desc lang="es">Ray Tango y Gabriel Cash son dos exitosos detectives de narcóticos que no se soportan. El señor del crimen Yves Perret, furioso por la pérdida de ingresos que ambos le han causado, trama contra ellos una elaborada venganza.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d86f923da949b85adcb91d94804b14b?w=400" />
   </programme>
   <programme start="20261024062649 +0000" stop="20261024085930 +0000" channel="entcomedy">
     <title lang="es">Tiempos Violentos</title>
