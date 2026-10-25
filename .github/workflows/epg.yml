@@ -1,4 +1,4 @@
-﻿name: epg
+name: epg
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -14,5 +14,6 @@ jobs:
       - run: |
           git config user.name "epg-bot"
           git config user.email "epg-bot@users.noreply.github.com"
-          git add 40media_epg.xml
+          gzip -kfn 40media_epg.xml
+          git add 40media_epg.xml 40media_epg.xml.gz
           git diff --cached --quiet || (git commit -m "EPG update" && git push)
