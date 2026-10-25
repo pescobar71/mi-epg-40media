@@ -33,19 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261025040310 +0000" stop="20261025045957 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Navaja</sub-title>
-    <desc lang="es">Después de luchar por sus vidas en una turbulenta situación, Walt y Jesse esperan con ansiedad la próxima jugada de Gus.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f75a0cb61f9e0d0a88118b836e105b70?w=400" />
-  </programme>
-  <programme start="20261025045957 +0000" stop="20261025063919 +0000" channel="entchannel">
-    <title lang="es">Parpadea dos veces</title>
-    <desc lang="es">Cuando el multimillonario tecnológico Slater King conoce a la camarera Frida en su gala de recaudación de fondos, la invita a unirse a él y a sus amigos en unas vacaciones de ensueño en su isla privada. Sin embargo empiezan a suceder cosas extrañas, así como Frida cuestiona su...</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5918fca292f6967081ad4d0ac81d7a93?w=400" />
-  </programme>
   <programme start="20261025063919 +0000" stop="20261025085957 +0000" channel="entchannel">
     <title lang="es">Furiosa: De la saga Mad Max</title>
     <desc lang="es">Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los...</desc>
@@ -729,24 +716,6 @@
     <desc lang="es">Homero se da cuenta, después de una nueva metedura de pata, que no le presta a Lisa la atención suficiente. Para redimirse, Homero le compra un pony.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d0c0cf5855eaf6830f63cb586437425f?w=400" />
-  </programme>
-  <programme start="20261025025940 +0000" stop="20261025043312 +0000" channel="entfamily">
-    <title lang="es">Abracadabra</title>
-    <desc lang="es">El 31 de octubre de 1693, durante los juicios por brujería de Salem, Thackery Binx ve a su hermana Emily adentrarse en el bosque dirigiéndose a la cabaña de tres brujas. Allí, las hermanas Sanderson, Winifred, Mary y Sarah, hacen un hechizo en Emily para absorber su juventud y...</desc>
-    <category lang="es">Fantasía</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6084386e04f7a4af6b0f847a9a643e3f?w=400" />
-  </programme>
-  <programme start="20261025043312 +0000" stop="20261025061404 +0000" channel="entfamily">
-    <title lang="es">Soul</title>
-    <desc lang="es">Joe Gardner, un maestro de música, le ofrecen una oportunidad para convertirse en un reconocido músico de jazz que tanto soñaba. Sin embargo, después de un pequeño accidente, termina en un lugar misterioso donde las nuevas almas reciben las personalidad, el carácter y los inte...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/24c357bfcb5276971bf9ee328c9bc349?w=400" />
-  </programme>
-  <programme start="20261025061404 +0000" stop="20261025080725 +0000" channel="entfamily">
-    <title lang="es">Los tres caballeros</title>
-    <desc lang="es">El gallo Panchito, el loro José Carioca y el Pato Donald protagonizan esta comedia musical en la que se combinan personajes reales con dibujos animados. Mucho ritmo, chicas guapas y diversión son los principales ingredientes.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/eba2a8fa8346b04077c4a7edab6b5b9d?w=400" />
   </programme>
   <programme start="20261025080725 +0000" stop="20261025094053 +0000" channel="entfamily">
     <title lang="es">Up: Una Aventura de Altura</title>
@@ -2586,25 +2555,7 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261025025957 +0000" stop="20261025044208 +0000" channel="entmovies">
-    <title lang="es">Ip Man</title>
-    <desc lang="es">Foshan, años treinta. Ip Man, respetado maestro de Wing Chun, combina el estudio de las artes marciales con los combates ocasionales a los que se ve forzado por parte de sus admiradores. Son tiempos de prosperidad a los que la guerra con Japón amenaza con poner fin. Con la ocu...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/11fffc61e0cb970b6b9785337589236c?w=400" />
-  </programme>
-  <programme start="20261025044208 +0000" stop="20261025065422 +0000" channel="entmovies">
-    <title lang="es">Crimen verdadero</title>
-    <desc lang="es">Desde su infancia, la joven Mary Giordano (Alicia Silverstone) está fascinada por los crímenes y el trabajo de detective. Avida lectora de la revista “Crimen verdadero”, se siente obsesionada desde hace años por el homicidio y mutilación de su compañera de clase de catorce año...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/08a3a6c8527bc5656a42e14310e86d1a?w=400" />
-  </programme>
-  <programme start="20261025065422 +0000" stop="20261025085947 +0000" channel="entmovies">
-    <title lang="es">Arde Mississippi</title>
-    <desc lang="es">Dos agentes del FBI ideológicamente opuestos investigan un escalofriante asesinato en una comunidad oprimida por el Ku Klux Klan. Aunque todos saben quien está implicado, nadie se atreve a comentar nada, y los agentes deciden actuar por separado.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bd57be1c8afb2e43a295e561b9b6651b?w=400" />
-  </programme>
-  <programme start="20261025085947 +0000" stop="20261025103615 +0000" channel="entmovies">
+  <programme start="20261025085735 +0000" stop="20261025103615 +0000" channel="entmovies">
     <title lang="es">Luna de miel para tres</title>
     <desc lang="es">Betsy es una maestra de escuela decidida a casarse con Jack, un investigador privado, cuya situación económica es bastante precaria. Durante un viaje a Las Vegas, un excéntrico millonario se encapricha de ella y le hace a la pareja una tentadora oferta.</desc>
     <category lang="es">Comedia</category>
@@ -3102,18 +3053,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/51bb1179643b5e49ee53bdcdc9c30847?w=400" />
   </programme>
-  <programme start="20261025025957 +0000" stop="20261025060855 +0000" channel="entdrama">
-    <title lang="es">La Lista de Schindler</title>
-    <desc lang="es">La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5d362123981a980eaecfe5e55426d3f5?w=400" />
-  </programme>
-  <programme start="20261025060855 +0000" stop="20261025085854 +0000" channel="entdrama">
-    <title lang="es">Gladiador</title>
-    <desc lang="es">En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hi...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/619ba9eb2a3ebedea84409708113ed43?w=400" />
-  </programme>
   <programme start="20261025085854 +0000" stop="20261025105142 +0000" channel="entdrama">
     <title lang="es">Vuelo a la libertad</title>
     <desc lang="es">Dos niños de 11 y 8 años deciden crear un mundo fantástico para escapar de las agresiones de su padrastro alcohólico. Ambos chicos, que sueñan con volar, deciden construir un avión de verdad...</desc>
@@ -3599,24 +3538,6 @@
     <desc lang="es">Una experta en animales responde a la llamada de ayuda de un viejo amigo y eso la pone en el camino de un ex en Navidad.</desc>
     <category lang="es">Película de TV</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4e67e143e82db02bb3ab60b68af6158b?w=400" />
-  </programme>
-  <programme start="20261025025959 +0000" stop="20261025050548 +0000" channel="entclassic">
-    <title lang="es">Los imperdonables</title>
-    <desc lang="es">William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cort...</desc>
-    <category lang="es">Western</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d74a01889ada07c8fa60fbb6042e5926?w=400" />
-  </programme>
-  <programme start="20261025050548 +0000" stop="20261025065918 +0000" channel="entclassic">
-    <title lang="es">2 policias en apuros</title>
-    <desc lang="es">Two street-wise Chicago cops have to shake off some rust after returning from a Key West vacation to pursue a drug dealer who nearly killed them in the past.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/261b39cf9bef2789f29a042ffa9b14c7?w=400" />
-  </programme>
-  <programme start="20261025065918 +0000" stop="20261025085959 +0000" channel="entclassic">
-    <title lang="es">Historia Americana X</title>
-    <desc lang="es">Derek, un joven «skin head» californiano de ideología neonazi, es encarcelado por asesinar a un negro que pretendía robarle su furgoneta. Cuando sale de prisión y regresa a su barrio dispuesto a alejarse del mundo de la violencia, se encuentra con que su hermano pequeño, para...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d95de41c6bf478f5489dc5b6c7b25c5e?w=400" />
   </programme>
   <programme start="20261025085959 +0000" stop="20261025104234 +0000" channel="entclassic">
     <title lang="es">Jumanji</title>
@@ -4352,25 +4273,7 @@
     <category lang="es">Romance</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/18437f2e59b3ee9429a71499de795b5e?w=400" />
   </programme>
-  <programme start="20261025025939 +0000" stop="20261025045204 +0000" channel="entlife">
-    <title lang="es">Pánico y locura en Las Vegas</title>
-    <desc lang="es">Raoul Duke y su abogado, el Dr. Gonzo, conducen un descapotable rojo a través del desierto de Mojave hasta Las Vegas con una maleta llena de drogas para cubrir una carrera de motos. A medida que su consumo de drogas aumenta a un ritmo alarmante, el dúo drogado destroza su habi...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2170309dd2f7a62cf5e1810c204f7763?w=400" />
-  </programme>
-  <programme start="20261025045204 +0000" stop="20261025070251 +0000" channel="entlife">
-    <title lang="es">Mente indomable</title>
-    <desc lang="es">Will Hunting, un conserje del M.I.T., tiene un don para las matemáticas, pero necesita la ayuda de un psicólogo para encontrar el rumbo de su vida.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/911e26583dcc5f348b6726d7b5401309?w=400" />
-  </programme>
-  <programme start="20261025070251 +0000" stop="20261025085956 +0000" channel="entlife">
-    <title lang="es">La Guerra de los Roses</title>
-    <desc lang="es">La desintegración de un matrimonio perfecto, tan modélico que resultan insultantes sus vidas tan cómodas como vacías, se produce cuando la esposa, madre y ama de casa perfecta, con una eficaz y oronda sirvienta alemana que completa el cuadro familiar, cae en la cuenta de que d...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a3c3af3e6736cf2a2788b484d886087?w=400" />
-  </programme>
-  <programme start="20261025085956 +0000" stop="20261025105708 +0000" channel="entlife">
+  <programme start="20261025085758 +0000" stop="20261025105708 +0000" channel="entlife">
     <title lang="es">A prueba de fuego</title>
     <desc lang="es">En Albania, el matrimonio de Caleb y Catherine Holt está en la crisis y deciden divorciarse. Sin embargo, el padre de Caleb, John, propone que su hijo retrase su proceso de separación durante cuarenta días y siga un procedimiento llamado «El Amor Se atreven» a hacerlos amar el...</desc>
     <category lang="es">Drama</category>
@@ -4977,24 +4880,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4527784966030d56c71f41e932700569?w=400" />
   </programme>
-  <programme start="20261025035848 +0000" stop="20261025054419 +0000" channel="entextreme">
-    <title lang="es">X</title>
-    <desc lang="es">En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e68bb5d3a2bfbbe0f0395be39513dce?w=400" />
-  </programme>
-  <programme start="20261025054419 +0000" stop="20261025072324 +0000" channel="entextreme">
-    <title lang="es">Presidio, la hora de los héroes</title>
-    <desc lang="es">Jay Austin, un policía de San Francisco debe investigar un asesinato cometido en una base militar. Para ello, cuenta con la ayuda del jefe de seguridad, un coronel con el que mantiene una tensa relación, que se agrava desde el momento en el que el policía se enamora de la hija...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c72e2a1c6b944902ad8372ba815dfc4?w=400" />
-  </programme>
-  <programme start="20261025072324 +0000" stop="20261025085959 +0000" channel="entextreme">
-    <title lang="es">Miedo</title>
-    <desc lang="es">Nicole Walker es una bella joven de 16 años que vive con su padre, su madrastra y su hermanastro. Una noche al salir a una fiesta con su mejor amiga, conoce a David en una discoteca, y desde esa noche comienzan una tórrida relación adolescente. En un comienzo todo va muy bien...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/de63a45d928d8bf3bc72f78171ce7f24?w=400" />
-  </programme>
   <programme start="20261025085959 +0000" stop="20261025110551 +0000" channel="entextreme">
     <title lang="es">Los secretos del poder</title>
     <desc lang="es">Thriller acerca de un congresista y un reportero que se ven envueltos en un caso de brutales asesinatos que, aparentemente, no tienen relación entre sí. Russell Crowe es Cal McCaffrey, un periodista de Washington D.C., cuyo olfato le lleva a desenmarañar los misteriosos asesin...</desc>
@@ -5463,25 +5348,7 @@
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2108e9fca04c4f779afc25a22a0e33ac?w=400" />
   </programme>
-  <programme start="20261025025959 +0000" stop="20261025043755 +0000" channel="entcomedy">
-    <title lang="es">El peso del talento</title>
-    <desc lang="es">Insatisfecho creativamente y en deudas de dinero, Nicolas Cage se ve forzado a aceptar 1 millón de dólares a cambio de asistir a la fiesta de cumpleaños de un obsesivo fanático: Javi. Las cosas cambian inesperadamente cuando Nicolas Cage es reclutado por la CIA para ayudar a a...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/32d735fb89353ceaeb3ac112bc28105e?w=400" />
-  </programme>
-  <programme start="20261025043755 +0000" stop="20261025064817 +0000" channel="entcomedy">
-    <title lang="es">3000 millas al infierno</title>
-    <desc lang="es">Era un plan bastante ingenioso: robe el cuarto de cuenta del Casino de Riviera durante una convención del imitador de Elvis. Pero Thomas Murphy decidió guardar todo el dinero para sí y pegó un tiro a todos sus compañeros, incluso la exestafa recientemente liberada Michael Zane...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d6884e10af2b4d6ab6589fd2cd63f1eb?w=400" />
-  </programme>
-  <programme start="20261025064817 +0000" stop="20261025085957 +0000" channel="entcomedy">
-    <title lang="es">El Vicepresidente: Más allá del poder</title>
-    <desc lang="es">George W. Bush, gobernador de Texas, elige como su mano derecha para las elecciones presidenciales del año 2000 a Dick Cheney, presidente ejecutivo de Halliburton Co. Esta es la historia de cómo Cheney llegó a disponer de un poder casi ilimitado.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1624d8c0cafbd56658eb080135b71d0c?w=400" />
-  </programme>
-  <programme start="20261025085957 +0000" stop="20261025103028 +0000" channel="entcomedy">
+  <programme start="20261025085812 +0000" stop="20261025103028 +0000" channel="entcomedy">
     <title lang="es">George de la Selva</title>
     <desc lang="es">En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la...</desc>
     <category lang="es">Aventura</category>
