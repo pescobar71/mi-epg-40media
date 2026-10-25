@@ -33,24 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261025063919 +0000" stop="20261025085957 +0000" channel="entchannel">
-    <title lang="es">Furiosa: De la saga Mad Max</title>
-    <desc lang="es">Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b581f0cf5c26aaaa23d4eea45b4881d3?w=400" />
-  </programme>
-  <programme start="20261025085957 +0000" stop="20261025110635 +0000" channel="entchannel">
-    <title lang="es">El Quinto Elemento</title>
-    <desc lang="es">Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/763ea1897c8acd01ff51990b5a423102?w=400" />
-  </programme>
-  <programme start="20261025110635 +0000" stop="20261025125743 +0000" channel="entchannel">
-    <title lang="es">Bourne: El ultimátum</title>
-    <desc lang="es">Jason Bourne esquiva a un despiadado oficial de la C.I.A. y a sus agentes de un nuevo programa de asesinatos mientras busca los orígenes de su vida como asesino entrenado.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d9827231e1663149e7d25f26eab8431b?w=400" />
-  </programme>
   <programme start="20261025125743 +0000" stop="20261025142259 +0000" channel="entchannel">
     <title lang="es">¿Y dónde está el policía? 2 1/2: El aroma del miedo</title>
     <desc lang="es">El teniente Frank Drebin descubre que el nuevo novio de su exnovia está implicado en un complot para secuestrar a un científico que aboga por la energía solar.</desc>
@@ -716,38 +698,6 @@
     <desc lang="es">Homero se da cuenta, después de una nueva metedura de pata, que no le presta a Lisa la atención suficiente. Para redimirse, Homero le compra un pony.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d0c0cf5855eaf6830f63cb586437425f?w=400" />
-  </programme>
-  <programme start="20261025080725 +0000" stop="20261025094053 +0000" channel="entfamily">
-    <title lang="es">Up: Una Aventura de Altura</title>
-    <desc lang="es">El vendedor de globos de 78 años, Carl Fredricksen, lleva a cabo el sueño de su vida al enganchar miles de globos a su casa y salir volando rumbo a Sudamérica. Sin embargo, descubre más tarde que no va solo, ya que también se ha embarcado en el viaje Russell, un optimista expl...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ccc20a40f7881c34f9785e65eeae6cef?w=400" />
-  </programme>
-  <programme start="20261025094053 +0000" stop="20261025115911 +0000" channel="entfamily">
-    <title lang="es">Rio mistico</title>
-    <desc lang="es">Una experta en animales responde a la llamada de ayuda de un viejo amigo y eso la pone en el camino de un ex en Navidad.</desc>
-    <category lang="es">Película de TV</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4e67e143e82db02bb3ab60b68af6158b?w=400" />
-  </programme>
-  <programme start="20261025115911 +0000" stop="20261025122917 +0000" channel="entfamily">
-    <title lang="es">Henry Monstruito</title>
-    <sub-title lang="es">La obra de teatro de Henry / El lío de los megamuelles</sub-title>
-    <desc lang="es">Henry siempre queda impresionado por las actuaciones de Summer, así que decide que le gustaría montar un espectáculo propio. Sin embargo, resulta ser más complicado de lo que esperaba. Cuando Cobby inventa el megamuelle, Henry y sus amigos lo disfrutan al máximo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da0827bd3ad40876f4ea3f657eb92bf5?w=400" />
-  </programme>
-  <programme start="20261025122917 +0000" stop="20261025125946 +0000" channel="entfamily">
-    <title lang="es">El Chavo</title>
-    <sub-title lang="es">El vendedor de globos</sub-title>
-    <desc lang="es">"'El Chavo del Ocho' confunde al señor Barriga con un globo."</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b48cf6d6a24274e43932822d1cc8f56e?w=400" />
-  </programme>
-  <programme start="20261025125946 +0000" stop="20261025132959 +0000" channel="entfamily">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">Una momia bastante egipcia</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6467978e16517a1ea3423120eb0aa955?w=400" />
   </programme>
   <programme start="20261025132959 +0000" stop="20261025135940 +0000" channel="entfamily">
     <title lang="es">ALF</title>
@@ -2555,18 +2505,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261025085735 +0000" stop="20261025103615 +0000" channel="entmovies">
-    <title lang="es">Luna de miel para tres</title>
-    <desc lang="es">Betsy es una maestra de escuela decidida a casarse con Jack, un investigador privado, cuya situación económica es bastante precaria. Durante un viaje a Las Vegas, un excéntrico millonario se encapricha de ella y le hace a la pareja una tentadora oferta.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b714a19b6ec40da7b857cb2b969230c8?w=400" />
-  </programme>
-  <programme start="20261025103615 +0000" stop="20261025122906 +0000" channel="entmovies">
-    <title lang="es">El rey león</title>
-    <desc lang="es">La nueva versión de acción real de EL REY LEÓN de Disney, del director Jon Favreau, nos lleva a la sabana africana donde un futuro rey ha nacido. Simba idolatra a su padre, el rey Mufasa, y está entusiasmado con su destino real. Pero no todos en el reino celebran la llegada de...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/83a410a1fafe4ba56ef1fe63d6f5d39b?w=400" />
-  </programme>
   <programme start="20261025122906 +0000" stop="20261025140504 +0000" channel="entmovies">
     <title lang="es">Grandes Héroes</title>
     <desc lang="es">Se desarrolla un vínculo especial entre el robot inflable de gran tamaño Baymax y el prodigio Hiro Hamada, quienes se unen a un grupo de amigos para formar una banda de héroes de alta tecnología.</desc>
@@ -3053,18 +2991,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/51bb1179643b5e49ee53bdcdc9c30847?w=400" />
   </programme>
-  <programme start="20261025085854 +0000" stop="20261025105142 +0000" channel="entdrama">
-    <title lang="es">Vuelo a la libertad</title>
-    <desc lang="es">Dos niños de 11 y 8 años deciden crear un mundo fantástico para escapar de las agresiones de su padrastro alcohólico. Ambos chicos, que sueñan con volar, deciden construir un avión de verdad...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e16292123c2c1c422a1f82f1becac7b5?w=400" />
-  </programme>
-  <programme start="20261025105142 +0000" stop="20261025125826 +0000" channel="entdrama">
-    <title lang="es">Talentos ocultos</title>
-    <desc lang="es">Narra la historia nunca contada de tres brillantes mujeres científicas afroamericanas que trabajaron en la NASA a comienzos de los años sesenta (en plena carrera espacial, y asimismo en mitad de la lucha por los derechos civiles de los negros estadounidenses) en el ambicioso p...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d0cebfca450b6c8b0759c41627809736?w=400" />
-  </programme>
   <programme start="20261025125826 +0000" stop="20261025151433 +0000" channel="entdrama">
     <title lang="es">La Última Pelea</title>
     <desc lang="es">Un veterano de guerra regresa a casa para ser entrenado por su padre, un boxeador retirado, para un torneo de artes marciales mixtas, lo que le lleva a redescubrir el vínculo con su padre mientras entra en conflicto con su hermano mayor.</desc>
@@ -3538,38 +3464,6 @@
     <desc lang="es">Una experta en animales responde a la llamada de ayuda de un viejo amigo y eso la pone en el camino de un ex en Navidad.</desc>
     <category lang="es">Película de TV</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4e67e143e82db02bb3ab60b68af6158b?w=400" />
-  </programme>
-  <programme start="20261025085959 +0000" stop="20261025104234 +0000" channel="entclassic">
-    <title lang="es">Jumanji</title>
-    <desc lang="es">Alan Parrish queda atrapado durante 25 años en un juego de mesa mágico y muy antiguo llamado Jumanji. Cuando por fin, es liberado por dos niños, una manada de animales exóticos queda también en libertad.</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/916a220efd3a8d80115738348ef0b28a?w=400" />
-  </programme>
-  <programme start="20261025104234 +0000" stop="20261025115909 +0000" channel="entclassic">
-    <title lang="es">Chicken Little</title>
-    <desc lang="es">Cuando el cielo se está cayendo y la cordura ha volado del nido, Chicken Little debe urdir un plan para salvar al planeta de la invasión alienígena y demostrar que el héroe más grande del mundo es un pollito.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b4b75f0337b7cf844723c619c8c3df3b?w=400" />
-  </programme>
-  <programme start="20261025115909 +0000" stop="20261025122932 +0000" channel="entclassic">
-    <title lang="es">El Chavo</title>
-    <sub-title lang="es">Bolsitas de papas / Los carpinteros / Cerbatana y chochitos [REPETICIÓN]</sub-title>
-    <desc lang="es">El Peterete intenta abrir una caja fuerte, pero el Chómpiras lo desconcentra al abrir varias bolsitas de papitas. / Los niños molestan a Don Ramón, que trabaja de carpintero. / El Chavo consigue una cerbatana y una porción de chochitos, pero la Chilindrina acaba usándolos para...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/059c51c02579294647286f8f07905a1d?w=400" />
-  </programme>
-  <programme start="20261025122932 +0000" stop="20261025125852 +0000" channel="entclassic">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">Vagos paralizados, Chantaje, Agua helada</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e03cb369b965b05f136cb167845afdc?w=400" />
-  </programme>
-  <programme start="20261025125852 +0000" stop="20261025132955 +0000" channel="entclassic">
-    <title lang="es">Dinosaurios</title>
-    <sub-title lang="es">Cómo Conquistar Chicas</sub-title>
-    <desc lang="es">Robbie se da cuenta de que no tiene idea de cómo hablar con las chicas. Desesperado, le pide ayuda a Spike, un alborotador que le va muy bien con las damas. Desafortunadamente, el consejo de Spike le causa más daño a Robbie que bien.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1ef69a7a2ecb042316c4d94681cc3318?w=400" />
   </programme>
   <programme start="20261025132955 +0000" stop="20261025135943 +0000" channel="entclassic">
     <title lang="es">ALF</title>
@@ -4273,26 +4167,7 @@
     <category lang="es">Romance</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/18437f2e59b3ee9429a71499de795b5e?w=400" />
   </programme>
-  <programme start="20261025085758 +0000" stop="20261025105708 +0000" channel="entlife">
-    <title lang="es">A prueba de fuego</title>
-    <desc lang="es">En Albania, el matrimonio de Caleb y Catherine Holt está en la crisis y deciden divorciarse. Sin embargo, el padre de Caleb, John, propone que su hijo retrase su proceso de separación durante cuarenta días y siga un procedimiento llamado «El Amor Se atreven» a hacerlos amar el...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c104fa90d87693330e24b9e90c264e72?w=400" />
-  </programme>
-  <programme start="20261025105708 +0000" stop="20261025125945 +0000" channel="entlife">
-    <title lang="es">La Teoría del Todo</title>
-    <desc lang="es">La película gira en torno a la vida de Stephen Hawking, el importante teórico y divulgador científico que cambió la historia de la ciencia y la tecnología moderna para siempre. La película se centrará en la relación que mantuvo el británico con Jane Wilde, su primera mujer, co...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/86b07ce7daeb66892b1dc8ad5a8792e0?w=400" />
-  </programme>
-  <programme start="20261025125945 +0000" stop="20261025134426 +0000" channel="entlife">
-    <title lang="es">Dr. House</title>
-    <sub-title lang="es">Autopsia</sub-title>
-    <desc lang="es">Andie es una niña de nueve años, enferma terminal de cáncer (rabdomiosarcoma alveolar), que está en su casa de muy buen humor, cantando y tomando su medicación, cuando la habitación empieza a temblar, los objetos caen por todas partes y se rompe el espejo en el que se está mir...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/792f7f67bfcd010e095ca3368eb2cb40?w=400" />
-  </programme>
-  <programme start="20261025134426 +0000" stop="20261025142916 +0000" channel="entlife">
+  <programme start="20261025134411 +0000" stop="20261025142916 +0000" channel="entlife">
     <title lang="es">Anatomía según Grey</title>
     <sub-title lang="es">Es el fin del mundo</sub-title>
     <desc lang="es">El presentimiento de Meredith acerca de que iba a tener un mal día se hace realidad cuando llega un caso médico que pone en peligro la vida de todos en el quirófano.</desc>
@@ -4880,18 +4755,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4527784966030d56c71f41e932700569?w=400" />
   </programme>
-  <programme start="20261025085959 +0000" stop="20261025110551 +0000" channel="entextreme">
-    <title lang="es">Los secretos del poder</title>
-    <desc lang="es">Thriller acerca de un congresista y un reportero que se ven envueltos en un caso de brutales asesinatos que, aparentemente, no tienen relación entre sí. Russell Crowe es Cal McCaffrey, un periodista de Washington D.C., cuyo olfato le lleva a desenmarañar los misteriosos asesin...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/91c9403264c8288c870fbac02ec07916?w=400" />
-  </programme>
-  <programme start="20261025110551 +0000" stop="20261025130821 +0000" channel="entextreme">
-    <title lang="es">Transformers: El despertar de las bestias</title>
-    <desc lang="es">Una aventura alrededor del mundo con los Autobots que introducirá una nueva facción de Transformers - los Maximals - en la batalla existente en la Tierra entre Autobots y Decepticons.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/df2b8c727dba2124be17defd4a363512?w=400" />
-  </programme>
   <programme start="20261025130821 +0000" stop="20261025151425 +0000" channel="entextreme">
     <title lang="es">El mundo perdido: Jurassic Park</title>
     <desc lang="es">Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada...</desc>
@@ -5347,38 +5210,6 @@
     <desc lang="es">El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo "venden" plazas para escapar del cataclismo. El escrito...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2108e9fca04c4f779afc25a22a0e33ac?w=400" />
-  </programme>
-  <programme start="20261025085812 +0000" stop="20261025103028 +0000" channel="entcomedy">
-    <title lang="es">George de la Selva</title>
-    <desc lang="es">En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ab7d037ae398622d5ec0402e0520e2c6?w=400" />
-  </programme>
-  <programme start="20261025103028 +0000" stop="20261025115901 +0000" channel="entcomedy">
-    <title lang="es">Las locuras de Dick y Jane</title>
-    <desc lang="es">Justo cuando están instalando una costosa piscina en casa, Dick es despedido de su bien pagado trabajo como ejecutivo, pero su mujer Jane, que es ama de casa, no se preocupa demasiado porque piensa que la situación será pasajera. Sin embargo, pronto resulta evidente que la pre...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0554c437a7894ca4c3f39d84746e660a?w=400" />
-  </programme>
-  <programme start="20261025115901 +0000" stop="20261025122849 +0000" channel="entcomedy">
-    <title lang="es">Dinosaurios</title>
-    <sub-title lang="es">Cómo Conquistar Chicas</sub-title>
-    <desc lang="es">Robbie se da cuenta de que no tiene idea de cómo hablar con las chicas. Desesperado, le pide ayuda a Spike, un alborotador que le va muy bien con las damas. Desafortunadamente, el consejo de Spike le causa más daño a Robbie que bien.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1ef69a7a2ecb042316c4d94681cc3318?w=400" />
-  </programme>
-  <programme start="20261025122849 +0000" stop="20261025125957 +0000" channel="entcomedy">
-    <title lang="es">La Niñera</title>
-    <sub-title lang="es">Vacaciones demoradas</sub-title>
-    <desc lang="es">Son las vacaciones, y los Sheffields parten hacia los trópicos, por lo que Nana Fine se invitó a sí misma. Todo parece ir bien, hasta que todos terminaron en la casa de los padres de Fran a causa de la nevada, incluyendo todos los Sheffields, Niles y C.C., que debía estar cena...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fe9755f49ce4315b6ac95fac6f51891a?w=400" />
-  </programme>
-  <programme start="20261025125957 +0000" stop="20261025132848 +0000" channel="entcomedy">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">Vagos paralizados, Chantaje, Agua helada</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e03cb369b965b05f136cb167845afdc?w=400" />
   </programme>
   <programme start="20261025132848 +0000" stop="20261025135915 +0000" channel="entcomedy">
     <title lang="es">ALF</title>
