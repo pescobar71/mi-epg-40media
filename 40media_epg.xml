@@ -33,64 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261025180825 +0000" stop="20261025202440 +0000" channel="entchannel">
-    <title lang="es">Argylle: Agente secreto</title>
-    <desc lang="es">Cuando las tramas de los libros ficticios de Elly Conway, la solitaria autora de una serie de novelas de espionaje bestseller comienzan a reflejar las acciones encubiertas de una organización de espías de la vida real, las noches tranquilas en casa se convierten en cosa del pa...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/66a72a24bb25fe3818ebe9b8c9252efb?w=400" />
-  </programme>
-  <programme start="20261025202440 +0000" stop="20261025223017 +0000" channel="entchannel">
-    <title lang="es">Papás por Siempre</title>
-    <desc lang="es">El cariñoso pero irresponsable Daniel Hillard, separado de su cónyuge exasperada, es aplastado por una orden judicial que permite visitas para ver a sus hijos sólo ciertos dias de la semana. Cuando Daniel aprende las necesidades de una ama de casa, consigue trabajo - disfrazad...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/76c9c84693d79d0a89a391999d0589ff?w=400" />
-  </programme>
-  <programme start="20261025223017 +0000" stop="20261026004616 +0000" channel="entchannel">
-    <title lang="es">Siete años en el Tíbet</title>
-    <desc lang="es">Heinrich Harrer fue un famoso alpinista austríaco que intentó la ascensión al Nanga Parbat; desgraciadamente, su aventura se vio bruscamente interrumpida por el estallido de la Segunda Guerra Mundial (1939-1945). Tanto él como su compañero, Peter Ausehnaiter, fueron recluidos...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7550b5d0f1541603ed4394f9f598bea7?w=400" />
-  </programme>
-  <programme start="20261026004616 +0000" stop="20261026022848 +0000" channel="entchannel">
-    <title lang="es">Super rápidos y mega furiosos</title>
-    <desc lang="es">Un policía se infiltra en una pandilla multirracial de ladrones de autos que se dedica a las carreras callejeras ilegales. Parodia de las películas tipo "Rápido y furioso", tras el proyecto fallido de "The Biggest Movie Of All Time 3D".</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3c26bd4b052f16d2be4b8e6876d97149?w=400" />
-  </programme>
-  <programme start="20261026022848 +0000" stop="20261026025958 +0000" channel="entchannel">
-    <title lang="es">Los Simpson</title>
-    <sub-title lang="es">El Patriotismo de Lisa</sub-title>
-    <desc lang="es">Lisa gana un viaje para toda la familia a Washington en un concurso de ensayos patrióticos del Reading Digest. Pero su fe en la democracia es severamente afectada cuando ve a un legislador aceptar un soborno.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/93d1def47073c41ccbcbe131af9ed47f?w=400" />
-  </programme>
-  <programme start="20261026025958 +0000" stop="20261026031113 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El viaje increíble</sub-title>
-    <desc lang="es">En este aclamado y galardonado episodio de "Smiling Friends", una rana que habla y camina cambiará tu vida y recalibrará tu cerebro.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f13c18d9f80bb5a49a52eb7278111fab?w=400" />
-  </programme>
-  <programme start="20261026031113 +0000" stop="20261026032958 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Hombre Topo</sub-title>
-    <desc lang="es">Al parecer, hay un personaje llamado "Hombre Topo" o algo así... Bueeeeeno, está bien. Allan y Glep se unen para emprender su propia aventura.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/072083cb81d550ac68ecde3b3484d6a4?w=400" />
-  </programme>
-  <programme start="20261026032958 +0000" stop="20261026040155 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">hjsakldfhlñ</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d9d1082c93f8226a8a633a3e9ccb14a3?w=400" />
-  </programme>
-  <programme start="20261026040155 +0000" stop="20261026045912 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Revólver calibre 38</sub-title>
-    <desc lang="es">Mientras Walt prepara su defensa contra Gus, Jesse hace frente a la presión renovando su amistad con Badger y Skinny Pete.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2e84d9ebdf698e9e2be8255a38a28348?w=400" />
-  </programme>
   <programme start="20261026045912 +0000" stop="20261026063401 +0000" channel="entchannel">
     <title lang="es">Presidio, la hora de los héroes</title>
     <desc lang="es">Jay Austin, un policía de San Francisco debe investigar un asesinato cometido en una base militar. Para ello, cuenta con la ayuda del jefe de seguridad, un coronel con el que mantiene una tensa relación, que se agrava desde el momento en el que el policía se enamora de la hija...</desc>
@@ -278,112 +220,105 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/221e2cd91b30494f4b454605f9204612?w=400" />
   </programme>
-  <programme start="20261028031133 +0000" stop="20261028032955 +0000" channel="entchannel">
+  <programme start="20261028031133 +0000" stop="20261028032954 +0000" channel="entchannel">
     <title lang="es">Smiling Friends</title>
     <sub-title lang="es">Shmaloogles</sub-title>
     <desc lang="es">Pim, Charlie y Flint descubren un nuevo reino lleno de personajes extravagantes. Pero algo sucede, y Pim ahora tiene su propia aventura... ¿Qué?</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d8c8ef69e5c46bfb247e19f39fe8a365?w=400" />
   </programme>
-  <programme start="20261028032955 +0000" stop="20261028035948 +0000" channel="entchannel">
+  <programme start="20261028032954 +0000" stop="20261028035948 +0000" channel="entchannel">
     <title lang="es">El asombroso circo digital</title>
     <sub-title lang="es">Piloto</sub-title>
     <desc lang="es">Atrapada en el Circo Digital y ansiosa por escapar, Pomni conoce a otras personas transformadas en caricaturas y a Caine, el excéntrico director del circo.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aa706a6f2d5c9d24dcf233855e516a3c?w=400" />
   </programme>
-  <programme start="20261028035948 +0000" stop="20261028045907 +0000" channel="entchannel">
+  <programme start="20261028035948 +0000" stop="20261028045959 +0000" channel="entchannel">
     <title lang="es">Breaking Bad</title>
     <sub-title lang="es">Puntos clave</sub-title>
     <desc lang="es">Mientras Skyler arma una historia elaborada para explicar las finanzas de los White, Walt, preocupado, descubre que Hank ha comenzado una nueva investigación.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ff519e0437a0f90c61bc9f6a1d136c54?w=400" />
   </programme>
-  <programme start="20261028045907 +0000" stop="20261028070002 +0000" channel="entchannel">
+  <programme start="20261028045959 +0000" stop="20261028070054 +0000" channel="entchannel">
     <title lang="es">Pollock: La vida de un creador</title>
     <desc lang="es">Nueva York, años 40. Jackson Pollock y Lee Krasner, pintores y amantes, se encuentran en el centro del mundo artístico neoyorquino. Cuando contraen matrimonio, se trasladan al campo; ella abandona su trabajo para entregarse en cuerpo y alma al arte de Pollock, que empieza a cr...</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/89f9b3b6ddb7e7ed2302b81563896dce?w=400" />
   </programme>
-  <programme start="20261028070002 +0000" stop="20261028085935 +0000" channel="entchannel">
+  <programme start="20261028070054 +0000" stop="20261028085859 +0000" channel="entchannel">
     <title lang="es">3:10 Misión peligrosa</title>
     <desc lang="es">Arizona. Con la esperanza de conseguir una recompensa que le permita evitar la ruina de su rancho, Dan Evans decide colaborar en el traslado del peligroso forajido Ben Wade hasta un pueblo, donde deberán coger el tren de las 3:10 para llegar a la prisión de Yuma. Remake del fi...</desc>
     <category lang="es">Western</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0089ecf898fb4b9d80bcefb1bc7795c6?w=400" />
   </programme>
-  <programme start="20261028085935 +0000" stop="20261028104527 +0000" channel="entchannel">
+  <programme start="20261028085859 +0000" stop="20261028104451 +0000" channel="entchannel">
     <title lang="es">Los Cazafantasmas 2</title>
     <desc lang="es">Han pasado cinco años desde que los cazafantasmas entraron por última vez en acción. El doctor Peter Venkman, notable parapsicólogo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisión donde se discuten fenómenos psíquicos. Ray Stan...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/700747555caa82324d743ae1e0f3db2b?w=400" />
   </programme>
-  <programme start="20261028104527 +0000" stop="20261028125325 +0000" channel="entchannel">
+  <programme start="20261028104451 +0000" stop="20261028125249 +0000" channel="entchannel">
     <title lang="es">El embajador del miedo</title>
     <desc lang="es">An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy.</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c5e100cf8853d708225568e13db69b85?w=400" />
   </programme>
-  <programme start="20261028125325 +0000" stop="20261028143759 +0000" channel="entchannel">
+  <programme start="20261028125249 +0000" stop="20261028143723 +0000" channel="entchannel">
     <title lang="es">Sing: ¡Ven y canta!</title>
     <desc lang="es">En una ciudad de animales antropomórficos, el intento de un empresario de teatro de salvar su teatro con un concurso de canto se convierte en algo más grande de lo que prevé, incluso cuando sus finalistas descubren que sus vidas nunca serán las mismas.</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da51077c24a895aada812e9187c8511a?w=400" />
   </programme>
-  <programme start="20261028143759 +0000" stop="20261028162410 +0000" channel="entchannel">
+  <programme start="20261028143723 +0000" stop="20261028162334 +0000" channel="entchannel">
     <title lang="es">Ip Man 3</title>
     <desc lang="es">Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dcdebbff2d7a70671bdcb28d6656596b?w=400" />
   </programme>
-  <programme start="20261028162410 +0000" stop="20261028180504 +0000" channel="entchannel">
+  <programme start="20261028162334 +0000" stop="20261028180428 +0000" channel="entchannel">
     <title lang="es">Zootopia 2</title>
     <desc lang="es">Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8521b333485c0a9a2e9f893f1e67edcb?w=400" />
   </programme>
-  <programme start="20261028180504 +0000" stop="20261028195123 +0000" channel="entchannel">
+  <programme start="20261028180428 +0000" stop="20261028195047 +0000" channel="entchannel">
     <title lang="es">Los Pitufos en la aldea perdida</title>
     <desc lang="es">A Pitufina le parece que todos los demás habitantes de la aldea tienen un propósito: Papá Pitufo, Pitufo Panadero, incluso Pitufo Gruñón; salvo ella. Así que, ¿qué puede hacer la única chica de la aldea? ¡Pues partir en busca del suyo, naturalmente! Cuando se cruza por casuali...</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/864e327c54bb5c2c1b269340451de8a2?w=400" />
   </programme>
-  <programme start="20261028195123 +0000" stop="20261028213823 +0000" channel="entchannel">
+  <programme start="20261028195047 +0000" stop="20261028213747 +0000" channel="entchannel">
     <title lang="es">¿... Y dónde están las rubias?</title>
     <desc lang="es">Dos hermanos y agentes del FBI, Kevin y Marcus, han desempeñado y fracasado torpemente en casos que se les han asignado y su jefe enojado les advierte que la próxima vez que hagan mal cualquier misión serán despedidos. Ambos se disponen a esforzarse por tratar de no volver a f...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e3180366eddb600ed44ba8230f948c57?w=400" />
   </programme>
-  <programme start="20261028213823 +0000" stop="20261028231108 +0000" channel="entchannel">
+  <programme start="20261028213747 +0000" stop="20261028231032 +0000" channel="entchannel">
     <title lang="es">Dentro o fuera</title>
     <desc lang="es">Un maestro del medio oeste estadounidense se cuestiona su sexualidad cuando un ex alumno hace un comentario sobre él en los premios de la Academia.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0c1515e585cf64ebb6a059f2e68aff55?w=400" />
   </programme>
-  <programme start="20261028231108 +0000" stop="20261029004622 +0000" channel="entchannel">
+  <programme start="20261028231032 +0000" stop="20261029004546 +0000" channel="entchannel">
     <title lang="es">Elf, el duende</title>
     <desc lang="es">Cuando Buddy joven cae al saco de regalo de Santa durante la Nochebuena, ha transportado atrás al Polo Norte y ha levantado como un elfo que hace el juguete por los ayudantes de Santa. Pero ya que se convierte en la adultez, no puede sacudir el fastidio sintiendo que no perten...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5fbff189df1f7f39e6a4d65fe1f8ad11?w=400" />
   </programme>
-  <programme start="20261029004622 +0000" stop="20261029022959 +0000" channel="entchannel">
+  <programme start="20261029004546 +0000" stop="20261029022931 +0000" channel="entchannel">
     <title lang="es">(500) días con ella</title>
     <desc lang="es">Tom aún sigue creyendo, incluso en este cínico mundo moderno, en la noción de un amor transformador, predestinado por el cosmos y que golpea como un rayo sólo una vez. Summer no cree lo mismo, para nada. La mecha se enciende desde el primer día, cuando Tom, un arquitecto en ci...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/06153f405ec90b51873438b6cb206411?w=400" />
   </programme>
-  <programme start="20261029022959 +0000" stop="20261029025958 +0000" channel="entchannel">
+  <programme start="20261029022931 +0000" stop="20261029025958 +0000" channel="entchannel">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">Homero al Diccionario</sub-title>
     <desc lang="es">De casualidad, Homero salva a la ciudad de una fusión nuclear y es tomado por un héroe.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a53867ec3175bac52a943c942c936744?w=400" />
-  </programme>
-  <programme start="20261029025958 +0000" stop="20261029031121 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El episodio de Glep</sub-title>
-    <desc lang="es">Por fin conocemos a Glep, el personaje verde que se sienta en el puf y escupe al suelo y cosas por el estilo. *Te gruñe*</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7aebcfb6f52cf6f0a8113d9872f82344?w=400" />
   </programme>
   <programme start="20261029031121 +0000" stop="20261029032945 +0000" channel="entchannel">
     <title lang="es">Smiling Friends</title>
@@ -681,37 +616,101 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d0c0cf5855eaf6830f63cb586437425f?w=400" />
   </programme>
-  <programme start="20261025195312 +0000" stop="20261025213327 +0000" channel="entfamily">
-    <title lang="es">Frozen: Una Aventura Congelada</title>
-    <desc lang="es">Cuando la recién coronada Reina Elsa accidentalmente usa su poder para convertir cosas en hielo y maldecir su hogar en un invierno infinito, su hermana Anna se une a un hombre de montaña, su juguetón reno y un muñeco de nieve para cambiar las condiciones climáticas.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/487d914eb26058f80831b539e914d166?w=400" />
+  <programme start="20261101031112 +0000" stop="20261101032959 +0000" channel="entchannel">
+    <title lang="es">Smiling Friends</title>
+    <sub-title lang="es">Amigos anti sonrisas</sub-title>
+    <desc lang="es">Para desgracia del jefe, una empresa rival se muda al otro lado de la calle. No hay nada más que agregar.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ddf1f0f9eedddae68429abdd69532d7?w=400" />
   </programme>
-  <programme start="20261025213327 +0000" stop="20261025230303 +0000" channel="entfamily">
-    <title lang="es">Las aventuras de Sharkboy y Lavagirl</title>
-    <desc lang="es">Todos siempre supieron que Max tenía una imaginación salvaje, pero nadie creía que sus creaciones más salvajes, un niño criado por grandes tiburones blancos vigilantes y una niña con la fuerza de un volcán, fueran reales. Ahora, estos dos maestros de acción del tamaño de una p...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/11ee96a8bdbc702bc4fe7503afd54277?w=400" />
+  <programme start="20261101032959 +0000" stop="20261101035935 +0000" channel="entchannel">
+    <title lang="es">El asombroso circo digital</title>
+    <sub-title lang="es">Sin título</sub-title>
+    <desc lang="es">Caine usa las ideas de la caja de sugerencias y guía a la pandilla a través de una serie de aventuras. Pomni está en una posición de poder.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3205dc501d4acdd50019b78d339ac76b?w=400" />
   </programme>
-  <programme start="20261025230303 +0000" stop="20261026010306 +0000" channel="entfamily">
-    <title lang="es">Viaje insólito</title>
-    <desc lang="es">El temperamental piloto Tuck Pendelton (Dennis Quaid) se presta voluntario para un experimento que consiste en miniaturizarlo en el interior de una cápsula que debe ser introducida en un conejo. Pero unos delincuentes intentan apropiarse del invento, y Pendelton acaba por casu...</desc>
+  <programme start="20261101035935 +0000" stop="20261101045958 +0000" channel="entchannel">
+    <title lang="es">Breaking Bad</title>
+    <sub-title lang="es">Hermanos</sub-title>
+    <desc lang="es">Cuando Hank presenta evidencia de que Gus es el narcotraficante de metanfetamina de Albuquerque, a Walt le preocupa que los maten a él y a Jesse por proteger a su jefe.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2bb1345fdc4599f33778f85ff915bd74?w=400" />
+  </programme>
+  <programme start="20261101045958 +0000" stop="20261101071443 +0000" channel="entchannel">
+    <title lang="es">Kill Bill: Vol. 2</title>
+    <desc lang="es">Tras eliminar a algunos miembros de la banda que intentaron asesinarla el día de su boda, «Mamba Negra» (Uma Thurman) intenta acabar con los demás, especialmente con Bill, su antiguo jefe (David Carradine), que la había dado por muerta.</desc>
     <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/975dbe27e173963b53ac1516f3d9ca3b?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5eaf073d7de40f4f42963685c578e7df?w=400" />
   </programme>
-  <programme start="20261026010306 +0000" stop="20261026025959 +0000" channel="entfamily">
-    <title lang="es">Mufasa: El rey león</title>
-    <desc lang="es">Mufasa era un cachorro huérfano, perdido y solo hasta que conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/92f01a902ad534af1eb98d145a9bf08c?w=400" />
-  </programme>
-  <programme start="20261026025959 +0000" stop="20261026043612 +0000" channel="entfamily">
-    <title lang="es">Socios y Sabuesos</title>
-    <desc lang="es">Scott Turner es un meticuloso detective que está investigando un difícil caso de homicidio. Un día encuentra en la calle a un perro desgarbado, vulgar y con muy malos modales, al que decide adoptar y que pronto se convierte en el mejor ayudante que nunca ha tenido.</desc>
+  <programme start="20261101071443 +0000" stop="20261101085956 +0000" channel="entchannel">
+    <title lang="es">Death Race: La carrera de la muerte</title>
+    <desc lang="es">Isla Terminal, Nueva York: 2020. El hacinamiento en el sistema penitenciario de los Estados Unidos ha llegado a un punto de quiebre. Las prisiones han sido entregadas a la corporación monolítica Weyland, la cual ve a las cárceles llenas de delincuentes como una oportunidad par...</desc>
     <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/35069088016c96b8adf84a8681998448?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d950914923e3b8cda858ef2d4fb7a965?w=400" />
   </programme>
-  <programme start="20261026043612 +0000" stop="20261026064728 +0000" channel="entfamily">
+  <programme start="20261101085956 +0000" stop="20261101105518 +0000" channel="entchannel">
+    <title lang="es">Los cazadores del arca perdida</title>
+    <desc lang="es">Año 1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde s...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e9096ed02bdfc8a8a2e9184706356a62?w=400" />
+  </programme>
+  <programme start="20261101105518 +0000" stop="20261101122308 +0000" channel="entchannel">
+    <title lang="es">El Hijo del Diablo</title>
+    <desc lang="es">Tras diez mil años de duro trabajo, Satanás está deseando retirarse, pero ninguno de sus hijos es lo bastante malvado para sustituirlo. Los mayores, Cassius y Adrian, cansados de la tiranía de su padre, deciden marcharse a Nueva York para instaurar su propio reino infernal. Ni...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e73ec8c53d80378c7f485a93590c6c70?w=400" />
+  </programme>
+  <programme start="20261101122308 +0000" stop="20261101143127 +0000" channel="entchannel">
+    <title lang="es">Maze Runner: Prueba de fuego</title>
+    <desc lang="es">Thomas y sus compañeros deben cruzar un agreste desierto para encontrar pistas que les ayuden a combatir a la malévola organización CRUEL. Durante su viaje encontrarán inimaginables obstáculos, conocerán a afectados por la enfermedad, y harán nuevos aliados.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c61c367848933f227c45517818d4820c?w=400" />
+  </programme>
+  <programme start="20261101143127 +0000" stop="20261101163408 +0000" channel="entchannel">
+    <title lang="es">Jurassic World 2: El Reino Caído</title>
+    <desc lang="es">Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático "Jurassic World". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinos...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5aa56fc1c12ee301a358e57f8c5967f1?w=400" />
+  </programme>
+  <programme start="20261101163408 +0000" stop="20261101181916 +0000" channel="entchannel">
+    <title lang="es">Dunkerque</title>
+    <desc lang="es">Soldados aliados de Bélgica, el Imperio Británico y Francia están rodeados por el ejército alemán y se intenta evacuarlos en una feroz batalla en Dunkerque, Francia, durante la Segunda Guerra Mundial.</desc>
+    <category lang="es">Bélica</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/348f6d3bcb0c71a48acce605f6933745?w=400" />
+  </programme>
+  <programme start="20261101181916 +0000" stop="20261101200808 +0000" channel="entchannel">
+    <title lang="es">Yo, Robot</title>
+    <desc lang="es">Chicago, año 2035. Vivimos en completa armonía con robots inteligentes. Cocinan para nosotros, conducen nuestros aviones, cuidan de nuestros hijos y confiamos plenamente en ellos debido a que se rigen por las Tres Leyes de la Robótica que nos protegen de cualquier daño. Inespe...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e028e1424bdea45496d9f975716994c7?w=400" />
+  </programme>
+  <programme start="20261101200808 +0000" stop="20261101214812 +0000" channel="entchannel">
+    <title lang="es">Furia de Titanes</title>
+    <desc lang="es">Adaptación libre del mito de Perseo, hijo de Zeus, el padre de los dioses griegos. Perseo y su madre Dánae, son encerrados en un baúl por Acrisio, su abuelo, y arrojados al mar. Arrastrados por la corriente, llegan a la isla de Sérifos, donde Perseo alcanza la madurez. Cuando...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8869fff7a7a8fdf2aca7bd61d5574acd?w=400" />
+  </programme>
+  <programme start="20261101214812 +0000" stop="20261101234807 +0000" channel="entchannel">
+    <title lang="es">La suerte de los Logan</title>
+    <desc lang="es">Intentando revertir una maldición familiar, tres hermanos, Jimmy (Channing Tatum), Mellie (Riley Keough) y Clyde Logan (Adam Driver), intentan llevar a cabo un gran asalto durante una importante carrera de coches Nascar en Concord, Carolina del Norte</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/470a5cf4fee2401af1ecc088d4327e0e?w=400" />
+  </programme>
+  <programme start="20261101234807 +0000" stop="20261102022957 +0000" channel="entchannel">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">En 1984, en plena Guerra Fría, Diana Prince, conocida como Wonder Woman, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9918c7a801391a45e3bab0577bf10f7e?w=400" />
+  </programme>
+  <programme start="20261102022957 +0000" stop="20261102025958 +0000" channel="entchannel">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Tardes de Trueno</sub-title>
+    <desc lang="es">Homero descubre en un test que es un mal padre. Intentando ser mejor padre, ayuda a Bart en la construcción de un carrito de carreras que usará en una carrera local. De esta forma, Homero empieza a conocer mucho mejor a su hijo.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1c85e531140cf00326ef28182b8c68f4?w=400" />
+  </programme>
+  <programme start="20261026044052 +0000" stop="20261026064728 +0000" channel="entfamily">
     <title lang="es">Las aventuras del Barón Munchausen</title>
     <desc lang="es">¿Quién es el Barón Münchausen? ¿Un farsante? ¿Un bribón? ¿Un loco? ¿O quizá el héroe más valiente que luchó y venció en los más disparatados combates? ¿Será cierto que cabalgó por los aires en una bala de cañón, que acabó con un dragón de tres cabezas, que viajó a la Luna y to...</desc>
     <category lang="es">Fantasía</category>
@@ -931,124 +930,118 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e02e19a86c3c5e22068007f88e71dad0?w=400" />
   </programme>
-  <programme start="20261028025959 +0000" stop="20261028043803 +0000" channel="entfamily">
+  <programme start="20261028025958 +0000" stop="20261028043803 +0000" channel="entfamily">
     <title lang="es">S.O.S. Vecinos al ataque</title>
     <desc lang="es">Cuando nuevos vecinos secretos se mudan a la casa de al lado, el suburbano Ray Peterson y sus amigos dejan que su paranoia se apodere de ellos cuando comienzan a sospechar de las malas acciones de los recién llegados y comienzan una investigación. Pero no es así como Ray, que...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a0d3115138205087c82ca28257f5024f?w=400" />
   </programme>
-  <programme start="20261028043803 +0000" stop="20261028061913 +0000" channel="entfamily">
+  <programme start="20261028043803 +0000" stop="20261028061912 +0000" channel="entfamily">
     <title lang="es">Robot salvaje</title>
     <desc lang="es">Un robot - ROZZUM unidad 7134, "Roz" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d3fc970810d6da7813fd915a7804841b?w=400" />
   </programme>
-  <programme start="20261028061913 +0000" stop="20261028074726 +0000" channel="entfamily">
+  <programme start="20261028061912 +0000" stop="20261028074725 +0000" channel="entfamily">
     <title lang="es">Shrek 4: Para Siempre</title>
     <desc lang="es">Rumpelstiltskin engaña a un Shrek agobiado por la crisis de la mediana edad para que se deje borrar de la existencia y sea trasladado a una oscura línea temporal alternativa en la que Rumpelstiltskin gobierna de forma suprema.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cc046caf3ca5234aa31b895b6f051634?w=400" />
   </programme>
-  <programme start="20261028074726 +0000" stop="20261028091728 +0000" channel="entfamily">
+  <programme start="20261028074725 +0000" stop="20261028091728 +0000" channel="entfamily">
     <title lang="es">Monsters, Inc.</title>
     <desc lang="es">Para alimentar la ciudad, los monstruos tienen que asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño pasa, dos monstruos se dan cuenta de que las cosas pueden no ser lo que ellos piensan.</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/db2ba761c200fee3593ee8ab2acd617d?w=400" />
   </programme>
-  <programme start="20261028091728 +0000" stop="20261028115950 +0000" channel="entfamily">
+  <programme start="20261028091728 +0000" stop="20261028115949 +0000" channel="entfamily">
     <title lang="es">África mía</title>
     <desc lang="es">La Baronesa Bixen (Meryl Streep), quien utiliza como escritora el seudónimo de Isak Denisen, se enamora del cazador británico Denys Finch Hatton (Robert Redford) a principios del siglo XX en Kenia.</desc>
     <category lang="es">Historia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/952c9fd4daae91e40e783afaa983183c?w=400" />
   </programme>
-  <programme start="20261028115950 +0000" stop="20261028122907 +0000" channel="entfamily">
+  <programme start="20261028115949 +0000" stop="20261028122907 +0000" channel="entfamily">
     <title lang="es">Henry Monstruito</title>
     <sub-title lang="es">Estornudos / El partido de rugibol</sub-title>
     <desc lang="es">Henry is taking care of his friend's monsterpet, Sneezo.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/faead74dab08da4a23f7f96922e45c99?w=400" />
   </programme>
-  <programme start="20261028122907 +0000" stop="20261028125857 +0000" channel="entfamily">
+  <programme start="20261028122907 +0000" stop="20261028125856 +0000" channel="entfamily">
     <title lang="es">El Chavo</title>
     <sub-title lang="es">La cuenta / El tendedero</sub-title>
     <desc lang="es">Los dos caquitos quieren salir del restaurante sin pagar la cuenta. Para eso, el Peterete tiene la gran idea de causar un pleito para que puedan huir. / Doña Florinda y Don Ramón pelean porque ella no quiere que los pantalones de él queden colgados en el tendedero.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/14872213cd691545bc876b98d7cdddb4?w=400" />
   </programme>
-  <programme start="20261028125857 +0000" stop="20261028132846 +0000" channel="entfamily">
+  <programme start="20261028125856 +0000" stop="20261028132846 +0000" channel="entfamily">
     <title lang="es">El Chapulín Colorado</title>
     <sub-title lang="es">El cofre del pirata</sub-title>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ac7ced0049c7149a34be5bd7f05318cd?w=400" />
   </programme>
-  <programme start="20261028132846 +0000" stop="20261028135947 +0000" channel="entfamily">
+  <programme start="20261028132846 +0000" stop="20261028135958 +0000" channel="entfamily">
     <title lang="es">ALF</title>
     <sub-title lang="es">Reunión de madre e hija</sub-title>
     <desc lang="es">Kate's mother, who is not on warm terms with Willie, arrives for a surprise visit that forces the Tanners to lock ALF in the garage for "a few days". The problem is that ALF just can't stand being not allowed to roam around in the...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2960c3eb99e1df87d0e72c03ace911ec?w=400" />
   </programme>
-  <programme start="20261028135947 +0000" stop="20261028142855 +0000" channel="entfamily">
+  <programme start="20261028135958 +0000" stop="20261028142957 +0000" channel="entfamily">
     <title lang="es">Dinosaurios</title>
     <sub-title lang="es">El Mundo Plano de Charline</sub-title>
     <desc lang="es">Cuando le mandan pensar en una idea original en la escuela, a Charlene se le ocurre la idea de que el mundo es redondo. Sin embargo, su descubrimiento le hace dar con sus huesos en la cárcel, y en juicio por herejía, lo cual deja abierta la pregunta sobre cómo de libres son lo...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4865645a3529f721b0984e8ade7dc5f7?w=400" />
   </programme>
-  <programme start="20261028142855 +0000" stop="20261028145950 +0000" channel="entfamily">
+  <programme start="20261028142957 +0000" stop="20261028145927 +0000" channel="entfamily">
     <title lang="es">El Zorro</title>
     <sub-title lang="es">La adivina</sub-title>
     <desc lang="es">El Sargento García recibe una suma de dinero de 1.500 pesos para cuidarla. Sin embargo la tarotista del pueblo intenta confundirlo para robarle el dinero.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3f9ded42b30aed971b004a56ad3acf71?w=400" />
   </programme>
-  <programme start="20261028145950 +0000" stop="20261028163636 +0000" channel="entfamily">
+  <programme start="20261028145927 +0000" stop="20261028163613 +0000" channel="entfamily">
     <title lang="es">Vecinos invasores</title>
     <desc lang="es">RJ, un mapache solitario, se ha metido en un problema muy grave al intentar robar el alimento de Vincent, un oso de cáracter antipático. Pues este ahora le manda, amenazándolo, a que se lo devuelva todo, en tan sólo una semana. De este modo, yendo en busca de los alimentos, se...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f08d8cb87aa79d5ac5119fb4fcb4660?w=400" />
   </programme>
-  <programme start="20261028163636 +0000" stop="20261028184317 +0000" channel="entfamily">
+  <programme start="20261028163613 +0000" stop="20261028184254 +0000" channel="entfamily">
     <title lang="es">La leyenda del tesoro perdido</title>
     <desc lang="es">El buscador de tesoros Benjamin Franklin Gates ha dedicado su vida a buscar el legendario tesoro de Los Caballeros Templarios, del que se decía que era el botín más increíble de todos los tiempos y que estaba escondido en algún lugar de América. Durante siete generaciones, los...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8a3a30916cba812bdc25648956d759b1?w=400" />
   </programme>
-  <programme start="20261028184317 +0000" stop="20261028201620 +0000" channel="entfamily">
+  <programme start="20261028184254 +0000" stop="20261028201557 +0000" channel="entfamily">
     <title lang="es">Red</title>
     <desc lang="es">Mei Lee es una niña china-canadiense de trece años que se debate entre ser la hija obediente de su madre y el caos de la adolescencia. Y, por si los cambios en sus intereses, relaciones y cuerpo no fueran suficientes, cada vez que se emociona o estresa demasiado, se convierte...</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/36e6839a9c6180f1d0f6a4648a8b87c8?w=400" />
   </programme>
-  <programme start="20261028201620 +0000" stop="20261028221856 +0000" channel="entfamily">
+  <programme start="20261028201557 +0000" stop="20261028221833 +0000" channel="entfamily">
     <title lang="es">Ella esta encantada</title>
     <desc lang="es">Ella vive en un mundo mágico en el cual dan a cada niño, en el momento de su nacimiento, un «regalo» virtuoso de una madrina de hadas. El llamado regalo de Ella, sin embargo, es la obediencia. Estos derechos de nacimiento se demuestran para ser completamente la maldición una v...</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ae1b4368bdfcda99cbb7a41485ed525e?w=400" />
   </programme>
-  <programme start="20261028221856 +0000" stop="20261029000326 +0000" channel="entfamily">
+  <programme start="20261028221833 +0000" stop="20261029000303 +0000" channel="entfamily">
     <title lang="es">Los Cazafantasmas</title>
     <desc lang="es">Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa "Los Cazafantasmas", dedicada a limpiar Nueva York de ectoplasmas. El aumento...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f02ca10126ce88aa5839401eab4d4277?w=400" />
   </programme>
-  <programme start="20261029000326 +0000" stop="20261029014432 +0000" channel="entfamily">
+  <programme start="20261029000303 +0000" stop="20261029014511 +0000" channel="entfamily">
     <title lang="es">Hannah Montana: La película</title>
     <desc lang="es">Como muchas adolescentes, Miley Stewart se la pasa entre su familia, sus amigos y la escuela, pero a diferencia de sus conocidos, ella tiene una personalidad secreta como la estrella de música llamada Hannah Montana. Cuando la creciente popularidad de Hannah amenaza con apoder...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/49fb49f57db9d6394794a73b7c0129e5?w=400" />
   </programme>
-  <programme start="20261029014432 +0000" stop="20261029025930 +0000" channel="entfamily">
+  <programme start="20261029014511 +0000" stop="20261029025954 +0000" channel="entfamily">
     <title lang="es">La cenicienta</title>
     <desc lang="es">Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a776a419d72cb13ac7efd89e30f1e3d?w=400" />
-  </programme>
-  <programme start="20261029025930 +0000" stop="20261029042225 +0000" channel="entfamily">
-    <title lang="es">Monster house: La casa de los sustos</title>
-    <desc lang="es">D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker,...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/177437625a0c5fdc179c82dff0bb6a02?w=400" />
   </programme>
   <programme start="20261029042225 +0000" stop="20261029061540 +0000" channel="entfamily">
     <title lang="es">Volver al Futuro 2</title>
@@ -1381,71 +1374,118 @@
     <category lang="es">Crimen</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7a21599e268a47eb572cabc803582f92?w=400" />
   </programme>
-  <programme start="20261024230000 +0000" stop="20261025080000 +0000" channel="totalmusic">
-    <title lang="es">TMC Dance: Extended!</title>
-    <desc lang="es">Videos musicales: Dance.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101025958 +0000" stop="20261101043643 +0000" channel="entfamily">
+    <title lang="es">Rocky Balboa</title>
+    <desc lang="es">Cuando pierde un partido de boxeo virtual muy publicitado con el ex campeón Rocky Balboa, actual campeón de los pesos pesados, Mason Dixon toma represalias al desafiar a Rocky a una pelea televisiva de 10 asaltos televisada a nivel nacional. Para sorpresa de su hijo y amigos,...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9267fd059f36de539a3fb9a2c0bea28c?w=400" />
   </programme>
-  <programme start="20261025080000 +0000" stop="20261025093000 +0000" channel="totalmusic">
-    <title lang="es">TMC Dance: After</title>
-    <desc lang="es">Videos musicales: Dance.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101043643 +0000" stop="20261101061056 +0000" channel="entfamily">
+    <title lang="es">Viaje al centro de la Tierra</title>
+    <desc lang="es">Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20de87796b5009be6dfffbd9ab5f5980?w=400" />
   </programme>
-  <programme start="20261025093000 +0000" stop="20261025110000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 2000s</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101061056 +0000" stop="20261101074713 +0000" channel="entfamily">
+    <title lang="es">Enredados</title>
+    <desc lang="es">La mágica Rapunzel de pelo largo ha pasado toda su vida en una torre, pero ahora que un ladrón fugitivo se ha topado con ella, está a punto de descubrir el mundo por primera vez, y quién es realmente.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/359a64982cc685a9dd8628eb3316196c?w=400" />
   </programme>
-  <programme start="20261025110000 +0000" stop="20261025123000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 60s &amp; 70s</title>
-    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101074713 +0000" stop="20261101094350 +0000" channel="entfamily">
+    <title lang="es">Los Descendientes</title>
+    <desc lang="es">Un reino idílico actual donde el benévolo hijo adolescente del Rey Adán y la Reina Belle ofrece una oportunidad de redención para los vástagos problemáticos de los villanos clásicos de Disney: Cruella De Vil (Carlos), Maléfica (Mal), la Reina Malvada (Evvie) y Jafar (Jay).</desc>
+    <category lang="es">Familia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/92df1e451163d3c65763a14c60167d9b?w=400" />
   </programme>
-  <programme start="20261025123000 +0000" stop="20261025160000 +0000" channel="totalmusic">
-    <title lang="es">Sunday Morning</title>
-    <desc lang="es">Videos musicales: Pop Hits II, 80s, 2000s y 90s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101094350 +0000" stop="20261101115949 +0000" channel="entfamily">
+    <title lang="es">El regreso del Jedi</title>
+    <desc lang="es">Para ir a Tatooine y liberar a Han Solo, Luke Skywalker y la princesa Leia deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bos...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/482c1fb4368cb0297de565644bf6694f?w=400" />
   </programme>
-  <programme start="20261025160000 +0000" stop="20261025173000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic Idol</title>
-    <desc lang="es">Videos musicales: J-Pop y K-Pop.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101115949 +0000" stop="20261101122906 +0000" channel="entfamily">
+    <title lang="es">Henry Monstruito</title>
+    <sub-title lang="es">Los monstruos salen a cenar / Enorme Henry</sub-title>
+    <desc lang="es">The Hugglemonsters take Momma out for a nice dinner.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c9f3601ab5f6b96987a59d15bf18530?w=400" />
   </programme>
-  <programme start="20261025173000 +0000" stop="20261025190000 +0000" channel="totalmusic">
-    <title lang="es">Pop Hits!</title>
-    <desc lang="es">Videos musicales: Pop Hits II.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101122906 +0000" stop="20261101125957 +0000" channel="entfamily">
+    <title lang="es">El Chavo</title>
+    <sub-title lang="es">La lagartija</sub-title>
+    <desc lang="es">El Chavo está cazando lagartijas y toda la vecindad se asusta con ellas.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/35ef263a1454343397dc1ea845e9e16d?w=400" />
   </programme>
-  <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 80s</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101125957 +0000" stop="20261101132958 +0000" channel="entfamily">
+    <title lang="es">El Chapulín Colorado</title>
+    <sub-title lang="es">El hombre invisible es tan antipático que nadie lo puede ver</sub-title>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fcde2dc4c5eb36a354de504533cdfd43?w=400" />
   </programme>
-  <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 2000s</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101132958 +0000" stop="20261101135956 +0000" channel="entfamily">
+    <title lang="es">ALF</title>
+    <sub-title lang="es">Cosa salvaje</sub-title>
+    <desc lang="es">ALF enters a phase where his erratic behavior and hunger for cats will, as he says, make him into a lunatic. He wants Willie to build a cage where he can be locked in until the phase is over. But ALF has the great ability to deceive.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ed68bcffb673ac3587f0a02addb67f03?w=400" />
   </programme>
-  <programme start="20261025200000 +0000" stop="20261025213000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 60s &amp; 70s</title>
-    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101135956 +0000" stop="20261101142847 +0000" channel="entfamily">
+    <title lang="es">Dinosaurios</title>
+    <sub-title lang="es">Permiso de Residencia</sub-title>
+    <desc lang="es">El Jefe Anciano aprueba una ley que prohíbe a lis dinosaurios cuadrúpedos vivir en Pangea y ordena que en 24 horas deben casarse con un dinosaurio bípedo o bien retirarse al otro lado del pantano. Monica es despedida y amenazada con la deportación hasta que Roy se le declara,...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/08314473a1ff2a207dd8270499524446?w=400" />
   </programme>
-  <programme start="20261025213000 +0000" stop="20261025230000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 90s</title>
-    <desc lang="es">Videos musicales: 90s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  <programme start="20261101142847 +0000" stop="20261101145927 +0000" channel="entfamily">
+    <title lang="es">El Zorro</title>
+    <sub-title lang="es">El sargento se enfurece</sub-title>
+    <desc lang="es">Una epidemia de sarampión azota a Los Ángeles dejando a muchas personas en cuarentena. Cuando un precioso cáliz llega al pueblo, el ayudante del cura intentará robarlo.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c750f127f922ff0bafa380cf3ccf5d1c?w=400" />
+  </programme>
+  <programme start="20261101145927 +0000" stop="20261101164107 +0000" channel="entfamily">
+    <title lang="es">Laberinto</title>
+    <desc lang="es">Cuento sobre la búsqueda de una chica por su hermano menor que está atrapado en el reino místico de un rey de duendes.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f10ab97c938cbdb7f33067f7e8e6bb5d?w=400" />
+  </programme>
+  <programme start="20261101164107 +0000" stop="20261101182415 +0000" channel="entfamily">
+    <title lang="es">Cars 2</title>
+    <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e8173ab5ae9aa409f07e90c3a4052a20?w=400" />
+  </programme>
+  <programme start="20261101182415 +0000" stop="20261101195025 +0000" channel="entfamily">
+    <title lang="es">31 Minutos: Calurosa Navidad</title>
+    <desc lang="es">Titirilquén, el pueblo de 31 Minutos, vive una Navidad tan infernalmente calurosa… ¡que Santa Claus debe suspender su visita! Pero no todo está perdido: El conejo Bodoque se ofrece heroicamente a ir por los regalos al Polo Norte. Para esperarlo, sus amigos improvisan un espect...</desc>
+    <category lang="es">Familia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/00e1d8a5399881a6447d8ff7a904ffb8?w=400" />
+  </programme>
+  <programme start="20261101195025 +0000" stop="20261101214116 +0000" channel="entfamily">
+    <title lang="es">Los Descendientes 3</title>
+    <desc lang="es">Mel, Ivy, Carlos y Jay vuelven a la Isla Perdido para encontrar a los nuevos niños de los malvados conocidos y tomarlos consigo para el estudio en la escuela Auradona. Mientras se encuentren en la Isla, hay una ruptura de la barrera, y Mel decide cerrarlo para siempre, temiend...</desc>
+    <category lang="es">Familia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5541080d3fd3bdbcf73329c490ca89a7?w=400" />
+  </programme>
+  <programme start="20261101214116 +0000" stop="20261101234552 +0000" channel="entfamily">
+    <title lang="es">La guerra de las galaxias</title>
+    <desc lang="es">La princesa Leia es capturada y retenida como rehén por las malvadas fuerzas imperiales en su afán por apoderarse del Imperio Galáctico. El audaz Luke Skywalker y el audaz capitán Han Solo se unen al encantador dúo de robots R2-D2 y C-3PO para rescatar a la bella princesa y re...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f4eb054708c5ccc79c9fa3409fb8e06a?w=400" />
+  </programme>
+  <programme start="20261101234552 +0000" stop="20261102012930 +0000" channel="entfamily">
+    <title lang="es">Wifi Ralph</title>
+    <desc lang="es">Seis años después de salvar el arcade del ataque de los Cybugs y de la venganza de Turbo,5​ la historia se centrará en las aventuras de Ralph en el espacio de datos de Internet cuando un enrutador Wi-Fi se conecta en la sala de juegos, ya que debe encontrar una pieza de reempl...</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b69801d1369ffb1920be0c5d5f87de92?w=400" />
+  </programme>
+  <programme start="20261102012930 +0000" stop="20261102025958 +0000" channel="entfamily">
+    <title lang="es">Elio</title>
+    <desc lang="es">Con una imaginación desbordante y una enorme obsesión por los extraterrestres, Elio, de 11 años, es transportado al espacio. Pero es identificado por error como el embajador galáctico de la tierra.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a36fb811fffb6d2a58505d321fd846c?w=400" />
   </programme>
   <programme start="20261025230000 +0000" stop="20261026060000 +0000" channel="totalmusic">
     <title lang="es">Pop Hits!</title>
@@ -1987,35 +2027,71 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
-  <programme start="20261025030000 +0000" stop="20261025070000 +0000" channel="totalmusic80s">
-    <title lang="es">Miami Night</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
+  <programme start="20261101080000 +0000" stop="20261101093000 +0000" channel="totalmusic">
+    <title lang="es">TMC Dance: After</title>
+    <desc lang="es">Videos musicales: Dance.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
-  <programme start="20261025070000 +0000" stop="20261025110000 +0000" channel="totalmusic80s">
-    <title lang="es">#Totalmusic80s</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
+  <programme start="20261101093000 +0000" stop="20261101110000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 2000s</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
-  <programme start="20261025110000 +0000" stop="20261025150000 +0000" channel="totalmusic80s">
-    <title lang="es">Golden Decade</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
+  <programme start="20261101110000 +0000" stop="20261101123000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 60s &amp; 70s</title>
+    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
-  <programme start="20261025150000 +0000" stop="20261025230000 +0000" channel="totalmusic80s">
-    <title lang="es">Totalmusic 80s Shuffle</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
+  <programme start="20261101123000 +0000" stop="20261101160000 +0000" channel="totalmusic">
+    <title lang="es">Sunday Morning</title>
+    <desc lang="es">Videos musicales: Pop Hits II, 80s, 2000s y 90s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
-  <programme start="20261025230000 +0000" stop="20261026030000 +0000" channel="totalmusic80s">
-    <title lang="es">Retro Hits</title>
+  <programme start="20261101160000 +0000" stop="20261101173000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic Idol</title>
+    <desc lang="es">Videos musicales: J-Pop y K-Pop.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261101173000 +0000" stop="20261101190000 +0000" channel="totalmusic">
+    <title lang="es">Pop Hits!</title>
+    <desc lang="es">Videos musicales: Pop Hits II.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101193000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 80s</title>
     <desc lang="es">Videos musicales: 80s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 2000s</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101213000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 60s &amp; 70s</title>
+    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261101213000 +0000" stop="20261101230000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 90s</title>
+    <desc lang="es">Videos musicales: 90s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102060000 +0000" channel="totalmusic">
+    <title lang="es">Pop Hits!</title>
+    <desc lang="es">Videos musicales: Pop Hits II.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
   <programme start="20261026030000 +0000" stop="20261026070000 +0000" channel="totalmusic80s">
     <title lang="es">Miami Night</title>
@@ -2197,41 +2273,35 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
   </programme>
-  <programme start="20261025030000 +0000" stop="20261025070000 +0000" channel="totalmusic00s">
-    <title lang="es">Pop Rewind</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
+  <programme start="20261101030000 +0000" stop="20261101070000 +0000" channel="totalmusic80s">
+    <title lang="es">Miami Night</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
   </programme>
-  <programme start="20261025070000 +0000" stop="20261025110000 +0000" channel="totalmusic00s">
-    <title lang="es">Replay 2000</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
+  <programme start="20261101070000 +0000" stop="20261101110000 +0000" channel="totalmusic80s">
+    <title lang="es">#Totalmusic80s</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
   </programme>
-  <programme start="20261025110000 +0000" stop="20261025150000 +0000" channel="totalmusic00s">
-    <title lang="es">Total Hits</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
+  <programme start="20261101110000 +0000" stop="20261101150000 +0000" channel="totalmusic80s">
+    <title lang="es">Golden Decade</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
   </programme>
-  <programme start="20261025150000 +0000" stop="20261025190000 +0000" channel="totalmusic00s">
-    <title lang="es">Totalmusic 2000s Shuffle</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
+  <programme start="20261101150000 +0000" stop="20261101230000 +0000" channel="totalmusic80s">
+    <title lang="es">Totalmusic 80s Shuffle</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
   </programme>
-  <programme start="20261025190000 +0000" stop="20261025230000 +0000" channel="totalmusic00s">
-    <title lang="es">Music Non-Stop</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
+  <programme start="20261101230000 +0000" stop="20261102030000 +0000" channel="totalmusic80s">
+    <title lang="es">Retro Hits</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
     <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
-  </programme>
-  <programme start="20261025230000 +0000" stop="20261026030000 +0000" channel="totalmusic00s">
-    <title lang="es">New Millennium</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/fallback-fb48522e438f.png" />
   </programme>
   <programme start="20261026030000 +0000" stop="20261026070000 +0000" channel="totalmusic00s">
     <title lang="es">Pop Rewind</title>
@@ -2449,37 +2519,43 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261025180613 +0000" stop="20261025201758 +0000" channel="entmovies">
-    <title lang="es">El Legado Bourne</title>
-    <desc lang="es">Una expansión del universo a partir de las novelas de Robert Ludlum, centrada en un nuevo héroe cuyo protagonismo se ha desencadenado por los acontecimientos de las tres películas anteriores.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1efa7b734f0eb38d2c0e0dcf084b3934?w=400" />
+  <programme start="20261101030000 +0000" stop="20261101070000 +0000" channel="totalmusic00s">
+    <title lang="es">Pop Rewind</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261025201758 +0000" stop="20261025221051 +0000" channel="entmovies">
-    <title lang="es">Cars</title>
-    <desc lang="es">El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bc9f75bc83e6ffb82dbbc3b5fd3b8fe0?w=400" />
+  <programme start="20261101070000 +0000" stop="20261101110000 +0000" channel="totalmusic00s">
+    <title lang="es">Replay 2000</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261025221051 +0000" stop="20261026010406 +0000" channel="entmovies">
-    <title lang="es">Avengers: Endgame</title>
-    <desc lang="es">Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b3e698cf69307b15ce924b9588ca3c39?w=400" />
+  <programme start="20261101110000 +0000" stop="20261101150000 +0000" channel="totalmusic00s">
+    <title lang="es">Total Hits</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261026010406 +0000" stop="20261026025958 +0000" channel="entmovies">
-    <title lang="es">Free Guy: Tomando el control</title>
-    <desc lang="es">Un hombre descubre que en realidad es un personaje dentro de un videojuego. Guy (Ryan Reynolds) trabaja como cajero de un banco, es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/979d486e6c78f929d37499c538185088?w=400" />
+  <programme start="20261101150000 +0000" stop="20261101190000 +0000" channel="totalmusic00s">
+    <title lang="es">Totalmusic 2000s Shuffle</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261026025958 +0000" stop="20261026045102 +0000" channel="entmovies">
-    <title lang="es">Marea roja</title>
-    <desc lang="es">El impulsivo Comandante del Alabama, el Capitán Frank Ramsey, y su lugarteniente, el reflexivo Teniente Coronel Ron Hunter, se encuentran en medio de un conflicto mundial. El submarino nuclear que dirigen se ve amenazado por un desequilibrado nacionalista ruso que quiere provo...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bc8d052280f7797ca5f745b5fead9371?w=400" />
+  <programme start="20261101190000 +0000" stop="20261101230000 +0000" channel="totalmusic00s">
+    <title lang="es">Music Non-Stop</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261026045102 +0000" stop="20261026065443 +0000" channel="entmovies">
+  <programme start="20261101230000 +0000" stop="20261102030000 +0000" channel="totalmusic00s">
+    <title lang="es">New Millennium</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
+  </programme>
+  <programme start="20261026045550 +0000" stop="20261026065443 +0000" channel="entmovies">
     <title lang="es">Constantine</title>
     <desc lang="es">Cuando John Constantine se une a una policía para resolver el misterioso suicidio de su hermana gemela, su investigación los lleva a través del mundo de demonios y ángeles que existe debajo del paisaje de Los Ángeles contemporáneo.</desc>
     <category lang="es">Fantasía</category>
@@ -2622,6 +2698,12 @@
     <desc lang="es">La tabla de Ahkmenrah, la que hace que las estatuas de los museos cobren vida, está perdiendo su magia. En un intento desesperado para proteger el valioso tesoro, Larry Daley viajará junto a sus amigos Theodore Roosevelt en su última película-, el faraón Ahkmenrah, Atila, Jebe...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c31694386e81ab52fa67755f676e40ab?w=400" />
+  </programme>
+  <programme start="20261028025959 +0000" stop="20261028043739 +0000" channel="entmovies">
+    <title lang="es">Mi vida es mi vida</title>
+    <desc lang="es">Robert Dupea spends his days doing various odd jobs, drinking and womanizing until an encounter with his sister makes him revisit his past.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/80304f913ee887c887de1d81d12d0eb1?w=400" />
   </programme>
   <programme start="20261028043739 +0000" stop="20261028064022 +0000" channel="entmovies">
     <title lang="es">Indiana Jones 2: El templo de la perdición</title>
@@ -2911,37 +2993,73 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/51bb1179643b5e49ee53bdcdc9c30847?w=400" />
   </programme>
-  <programme start="20261025185624 +0000" stop="20261025202327 +0000" channel="entdrama">
-    <title lang="es">Ace Ventura: Detective de Mascotas</title>
-    <desc lang="es">El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.</desc>
+  <programme start="20261101045521 +0000" stop="20261101071654 +0000" channel="entmovies">
+    <title lang="es">Escándalo Americano</title>
+    <desc lang="es">Estado de Nueva York, años setenta. Irving Rosenfeld, un brillante estafador, y su inteligente y seductora compañera Sydney Prosser se ven obligados a trabajar para un tempestuoso agente del FBI, Richie DiMaso, que sin querer los arrastra al peligroso mundo de la política y la...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b2fe0f61a7e490cb4b7c5f64610b3e49?w=400" />
+  </programme>
+  <programme start="20261101071654 +0000" stop="20261101085855 +0000" channel="entmovies">
+    <title lang="es">Analízame</title>
+    <desc lang="es">Paul Vitti (De Niro), uno de los capos de la mafia más poderosos de la ciudad sufre de inseguridad, y como se acerca una reunión de todos los capos donde se debe decidir quien será el nuevo jefe de todos los jefes, debe encontrar una solución para que no piensen que es un coba...</desc>
     <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d917373ec98030526e48831109673036?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/82e1b70b27fc07bf063a824d2ef94521?w=400" />
   </programme>
-  <programme start="20261025202327 +0000" stop="20261025223442 +0000" channel="entdrama">
-    <title lang="es">Fantasmas del pasado</title>
-    <desc lang="es">En la medianoche del 12 de junio de 1963, una bala acaba con la vida del activista en favor de los derechos civiles Medgar Evers, secretario de la Asociación Nacional para el Progreso de la Gente de Color en el estado sureño de Mississippi. Su asesino es el supremacista blanco...</desc>
+  <programme start="20261101085855 +0000" stop="20261101104547 +0000" channel="entmovies">
+    <title lang="es">Explorers</title>
+    <desc lang="es">En su improvisado laboratorio, unos chicos utilizan un descubrimiento inesperado y su ingenio para construir su propia nave espacial y emprender un fantástico viaje interplanetario.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/27ff135dd45b441ea40d1e83b54c5147?w=400" />
+  </programme>
+  <programme start="20261101104547 +0000" stop="20261101130647 +0000" channel="entmovies">
+    <title lang="es">El Día de la Independencia</title>
+    <desc lang="es">El 2 de julio, mothership extranjero gigantesco entra en la órbita alrededor de la Tierra y despliega varias docenas de naves espaciales del 'destructor' en forma de platillo que rápidamente ponen la basura a ciudades principales alrededor del planeta. El 3 de julio, los Estad...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3ec617314c4265489292d7b4e7554c16?w=400" />
+  </programme>
+  <programme start="20261101130647 +0000" stop="20261101153344 +0000" channel="entmovies">
+    <title lang="es">Lincoln</title>
+    <desc lang="es">En 1865, mientras la Guerra Civil Americana se acerca a su fin, el presidente Abraham Lincoln propone una enmienda que prohíba la esclavitud en los Estados Unidos. Sin embargo esto plantea un gran dilema: si la paz llega antes de que se apruebe la enmienda, el Sur tendrá poder...</desc>
+    <category lang="es">Historia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3f56c7a93b111fecdb12262facb8f2ff?w=400" />
+  </programme>
+  <programme start="20261101153344 +0000" stop="20261101172521 +0000" channel="entmovies">
+    <title lang="es">Terremoto: La Falla De San Andrés</title>
+    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco par...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bcbc26699e68bb29e1de2de813493309?w=400" />
+  </programme>
+  <programme start="20261101172521 +0000" stop="20261101200925 +0000" channel="entmovies">
+    <title lang="es">El curioso caso de Benjamin Button</title>
+    <desc lang="es">Un hombre nace con ochenta años y va rejuveneciendo a medida que pasa el tiempo; es decir, en lugar de cumplir años los descumple. Esta es la historia de un hombre extraordinario, de la gente que va conociendo, de sus amores y amistades, pero sobre todo de su relación con Dais...</desc>
     <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f5e552c2eb18c393047b4d326105e38?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da4bf6e4210a6f035d837087faf2f5c9?w=400" />
   </programme>
-  <programme start="20261025223442 +0000" stop="20261026012339 +0000" channel="entdrama">
-    <title lang="es">Interestelar</title>
-    <desc lang="es">Cooper y un grupo de exploradores utilizan un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias que implica un viaje interestelar.</desc>
+  <programme start="20261101200925 +0000" stop="20261101223717 +0000" channel="entmovies">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+    <desc lang="es">El Torneo de los Tres Magos llega a la escuela Hogwarts. Sin embargo, Harry Potter se convierte en un competidor, pero nunca presentó su nombre. A medida que avanza los juegos, poco a poco Harry descubre las intenciones detras de este torneo.</desc>
     <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/811e428fffa86899475ec04c5e3afa69?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d65ce38ef9004045aa48f92e0c2485c5?w=400" />
   </programme>
-  <programme start="20261026012339 +0000" stop="20261026025958 +0000" channel="entdrama">
-    <title lang="es">Rocky IV</title>
-    <desc lang="es">Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/74420c7497da60347ed78268846b8e92?w=400" />
+  <programme start="20261101223717 +0000" stop="20261102001021 +0000" channel="entmovies">
+    <title lang="es">Celular: Llamada desesperada</title>
+    <desc lang="es">Un joven recibe la llamada de una mujer que le dice que ha sido secuestrada y que la van a asesinar. Los captores buscan además a su marido y su hijo.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3936d982e1194f4345d066a40dbb2934?w=400" />
   </programme>
-  <programme start="20261026025958 +0000" stop="20261026043828 +0000" channel="entdrama">
-    <title lang="es">Gladiador: El desafío comienza</title>
-    <desc lang="es">Un chico de clase media se traslada a la dura zona sur de Chicago, donde se meterá como luchador en el mundo ilegal de las peleas de boxeo no autorizadas.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f5020045d3ed68989f31fcf56ae37ae8?w=400" />
+  <programme start="20261102001021 +0000" stop="20261102015424 +0000" channel="entmovies">
+    <title lang="es">Ron da error</title>
+    <desc lang="es">Ambientada en un mundo donde los robots se han convertido en los mejores amigos de los niños, Ron's Gone Wrong cuenta la historia de un niño de 11 años que descubre que su amigo robot no funciona del todo.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/63613a1d8564906efac7522a1e1abd9b?w=400" />
   </programme>
-  <programme start="20261026043828 +0000" stop="20261026062847 +0000" channel="entdrama">
+  <programme start="20261102015424 +0000" stop="20261102025957 +0000" channel="entmovies">
+    <title lang="es">Winnie the Pooh</title>
+    <desc lang="es">Mientras buscan miel, Pooh y sus amigos se embarcan en una aventura para encontrar la cola perdida de Igor y rescatar a Christopher Robin de un monstruo desconocido llamado Pronto.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c74a38d907d30d0e95723c7fea7f842c?w=400" />
+  </programme>
+  <programme start="20261026044222 +0000" stop="20261026062847 +0000" channel="entdrama">
     <title lang="es">No todo es lo que parece</title>
     <desc lang="es">Después de haber acumulado una considerable cantidad de dinero, un vendedor de cocaína londinense se dispone a abandonar Inglaterra y comenzar una nueva vida. Sin embargo, sus planes no coinciden con los de su jefe Jimmy Price, que quiere encargarle un último trabajo.</desc>
     <category lang="es">Drama</category>
@@ -3085,43 +3203,43 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/470a5cf4fee2401af1ecc088d4327e0e?w=400" />
   </programme>
-  <programme start="20261028025958 +0000" stop="20261028043018 +0000" channel="entdrama">
+  <programme start="20261028025957 +0000" stop="20261028043017 +0000" channel="entdrama">
     <title lang="es">El día del juicio final</title>
     <desc lang="es">Thriller psicológico que gira en torno al interrogatorio, por parte de un agente del FBI, a un sospechoso de terrorismo para que confiese la ubicación de tres bombas nucleares preparadas para detonar en los E.E.U.U.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bd6c0527d08df82171108a0a350ea77a?w=400" />
   </programme>
-  <programme start="20261028043018 +0000" stop="20261028065402 +0000" channel="entdrama">
+  <programme start="20261028043017 +0000" stop="20261028065401 +0000" channel="entdrama">
     <title lang="es">Diamante de Sangre</title>
     <desc lang="es">Un pescador, un contrabandista y un sindicato de empresarios coinciden en la posesión de un diamante de valor incalculable.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3bf70f70a65f66bc13437c0eead00e78?w=400" />
   </programme>
-  <programme start="20261028065402 +0000" stop="20261028085959 +0000" channel="entdrama">
+  <programme start="20261028065401 +0000" stop="20261028085959 +0000" channel="entdrama">
     <title lang="es">Culpable en la mafia</title>
     <desc lang="es">Tras años de investigación, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a veinte miembros de la familia Lucchese, conocida por sus conexiones con la mafia; se les acusaba de 76 delitos. El Gobierno de Estados Unidos se había propuesto a...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2adeb461a743d103108713c473cb7eaa?w=400" />
   </programme>
-  <programme start="20261028085959 +0000" stop="20261028105806 +0000" channel="entdrama">
+  <programme start="20261028085959 +0000" stop="20261028105805 +0000" channel="entdrama">
     <title lang="es">Colateral</title>
     <desc lang="es">Max es un taxista que emprende un viaje que cambiará todo cuando Vincent le ofrece una suma considerable en efectivo a cambio de hacer varias paradas a lo largo del trayecto. Pero lo que comienza como una velada auspiciosa pronto se convierte en una noche desesperada cuando Ma...</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f95adee594fa1f9308f7755288251de1?w=400" />
   </programme>
-  <programme start="20261028105806 +0000" stop="20261028130919 +0000" channel="entdrama">
+  <programme start="20261028105805 +0000" stop="20261028130918 +0000" channel="entdrama">
     <title lang="es">Fantasmas del pasado</title>
     <desc lang="es">En la medianoche del 12 de junio de 1963, una bala acaba con la vida del activista en favor de los derechos civiles Medgar Evers, secretario de la Asociación Nacional para el Progreso de la Gente de Color en el estado sureño de Mississippi. Su asesino es el supremacista blanco...</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f5e552c2eb18c393047b4d326105e38?w=400" />
   </programme>
-  <programme start="20261028130919 +0000" stop="20261028150336 +0000" channel="entdrama">
+  <programme start="20261028130918 +0000" stop="20261028150335 +0000" channel="entdrama">
     <title lang="es">Nueve reinas</title>
     <desc lang="es">Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timpo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un día para hacer una estafa que no puede fallar.</desc>
     <category lang="es">Crimen</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2c504020393682c290282b3ef55c02b7?w=400" />
   </programme>
-  <programme start="20261028150336 +0000" stop="20261028165602 +0000" channel="entdrama">
+  <programme start="20261028150335 +0000" stop="20261028165602 +0000" channel="entdrama">
     <title lang="es">Defending Your Life: El Cielo... próximamente</title>
     <desc lang="es">El día de su cumpleaños, cuando acaba de estrenar un magnífico coche, Daniel muere en el acto al chocar contra otro vehículo. Instantes después, se encuentra en La Ciudad del Juicio, rodeado de personas que también esperan la decisión de un tribunal que puede decidir enviarlos...</desc>
     <category lang="es">Romance</category>
@@ -3139,23 +3257,29 @@
     <category lang="es">Fantasía</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3e10c40dc53d22d13e88e7a4387a4834?w=400" />
   </programme>
-  <programme start="20261028205041 +0000" stop="20261028223521 +0000" channel="entdrama">
+  <programme start="20261028205041 +0000" stop="20261028223520 +0000" channel="entdrama">
     <title lang="es">Tras líneas enemigas</title>
     <desc lang="es">Un piloto se ve atrapado detrás de las líneas enemigas después de ser derribado en territorio hostil. Con la ayuda de un equipo de rescate, lucha por sobrevivir mientras es perseguido por fuerzas enemigas decididas a capturarlo o eliminarlo.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f6be70e2ca0fd9972e3226b663f410e7?w=400" />
   </programme>
-  <programme start="20261028223521 +0000" stop="20261029005254 +0000" channel="entdrama">
+  <programme start="20261028223520 +0000" stop="20261029005253 +0000" channel="entdrama">
     <title lang="es">La edad de la inocencia</title>
     <desc lang="es">Historia de la alta sociedad de Nueva York del siglo XIX en la que un joven abogado se enamora de una mujer separada de su esposo, mientras él está comprometido con la prima de la mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7fb177829ccc48e195becfe3dcd15d66?w=400" />
   </programme>
-  <programme start="20261029005254 +0000" stop="20261029025958 +0000" channel="entdrama">
+  <programme start="20261029005253 +0000" stop="20261029025957 +0000" channel="entdrama">
     <title lang="es">El Gran Pez</title>
     <desc lang="es">William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/13db1c4ef5c4ab37de17a7416d5d8972?w=400" />
+  </programme>
+  <programme start="20261029025958 +0000" stop="20261029044704 +0000" channel="entdrama">
+    <title lang="es">Donnie Darko</title>
+    <desc lang="es">Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus vision...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b021614b0dcba735557305bac3a2a571?w=400" />
   </programme>
   <programme start="20261029044704 +0000" stop="20261029063817 +0000" channel="entdrama">
     <title lang="es">Último turno</title>
@@ -3373,43 +3497,79 @@
     <category lang="es">Película de TV</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4e67e143e82db02bb3ab60b68af6158b?w=400" />
   </programme>
-  <programme start="20261025184843 +0000" stop="20261025203221 +0000" channel="entclassic">
-    <title lang="es">Tras líneas enemigas</title>
-    <desc lang="es">Un piloto se ve atrapado detrás de las líneas enemigas después de ser derribado en territorio hostil. Con la ayuda de un equipo de rescate, lucha por sobrevivir mientras es perseguido por fuerzas enemigas decididas a capturarlo o eliminarlo.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f6be70e2ca0fd9972e3226b663f410e7?w=400" />
+  <programme start="20261101045031 +0000" stop="20261101071123 +0000" channel="entdrama">
+    <title lang="es">J. Edgar</title>
+    <desc lang="es">En 1924, con sólo 29 años, J. Edgar Hoover fue nombrado director general del FBI para que reorganizara la institución. Obsesionado con detener a comunistas, gángsters, delincuentes y a cualquiera que fuera un peligro para la nación, Hoover ocupó el cargo hasta su muerte en 197...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b19eb77c1b2db09de962ecda8f84d014?w=400" />
   </programme>
-  <programme start="20261025203221 +0000" stop="20261025220843 +0000" channel="entclassic">
-    <title lang="es">Matilda</title>
-    <desc lang="es">La historia de una maravillosa niña, que resulta ser una genio, y su maravillosa profesora contra los peores padres de la historia y la peor directora de escuela que nadie se pueda imaginar.</desc>
+  <programme start="20261101071123 +0000" stop="20261101085903 +0000" channel="entdrama">
+    <title lang="es">Ip Man</title>
+    <desc lang="es">Foshan, años treinta. Ip Man, respetado maestro de Wing Chun, combina el estudio de las artes marciales con los combates ocasionales a los que se ve forzado por parte de sus admiradores. Son tiempos de prosperidad a los que la guerra con Japón amenaza con poner fin. Con la ocu...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/11fffc61e0cb970b6b9785337589236c?w=400" />
+  </programme>
+  <programme start="20261101085903 +0000" stop="20261101103136 +0000" channel="entdrama">
+    <title lang="es">Rebeldes</title>
+    <desc lang="es">Una rivalidad entre pandillas provoca una tragedia en la década de los sesenta en Oklahoma entre los Soc y los Greasers. Un joven sensible enloquece cuando su mejor amigo mata a un miembro de una pandilla rival.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7a21599e268a47eb572cabc803582f92?w=400" />
+  </programme>
+  <programme start="20261101103136 +0000" stop="20261101123604 +0000" channel="entdrama">
+    <title lang="es">El Gran Pez</title>
+    <desc lang="es">William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/13db1c4ef5c4ab37de17a7416d5d8972?w=400" />
+  </programme>
+  <programme start="20261101123604 +0000" stop="20261101142259 +0000" channel="entdrama">
+    <title lang="es">El escuadrón del crimen</title>
+    <desc lang="es">Una banda de expertos ladrones de bancos urde un arriesgado plan cuando un viejo colega los convence de robar un camión blindado que podría ser su mayor golpe.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/507a1d1ad0261b0a14962100ad2b859c?w=400" />
+  </programme>
+  <programme start="20261101142259 +0000" stop="20261101163140 +0000" channel="entdrama">
+    <title lang="es">El juego</title>
+    <desc lang="es">El multimillonario Nicholas Van Orton (Michael Douglas) tiene todo lo que un hombre puede desear. Pero Conrad (Sean Penn), su díscolo hermano, aún es capaz de encontrar un regalo de cumpleaños que pueda sorprenderle: su ingreso en un club de ocio capaz de diseñar a su medida a...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/41608a32ffc01cc9ce474391833d6b97?w=400" />
+  </programme>
+  <programme start="20261101163140 +0000" stop="20261101175052 +0000" channel="entdrama">
+    <title lang="es">La cenicienta</title>
+    <desc lang="es">Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.</desc>
+    <category lang="es">Familia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a776a419d72cb13ac7efd89e30f1e3d?w=400" />
+  </programme>
+  <programme start="20261101175052 +0000" stop="20261101194059 +0000" channel="entdrama">
+    <title lang="es">El gran salto</title>
+    <desc lang="es">A naive business graduate is installed as president of a manufacturing company as part of a stock scam.</desc>
     <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b209f984b562b7560142115a370acc9b?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4cf9b3a9fa29b9059b44dd53ae4532e6?w=400" />
   </programme>
-  <programme start="20261025220843 +0000" stop="20261025233921 +0000" channel="entclassic">
-    <title lang="es">La conquista del planeta de los simios</title>
-    <desc lang="es">En un mundo futurista que ha abrazado la esclavitud de los simios, César, el hijo de los difuntos simios Cornelius y Zira, sale a la superficie después de casi veinte años de esconderse de las autoridades, y se prepara para una revuelta de esclavos contra la humanidad.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ba33c298ceb1358c59ea9b0ba211277d?w=400" />
-  </programme>
-  <programme start="20261025233921 +0000" stop="20261026013731 +0000" channel="entclassic">
-    <title lang="es">Romeo + Julieta de William Shakespeare</title>
-    <desc lang="es">Baz Luhrmann ayudó a adaptar esta tragedia romántica clásica de Shakespeare para el cine, actualizándola en la ciudad posmoderna de Verona Beach. Los Capuleto y los Montesco son dos bandas rivales. Julieta asiste a un baile de disfraces organizado por sus padres. Su papá, Fulg...</desc>
+  <programme start="20261101194059 +0000" stop="20261101212653 +0000" channel="entdrama">
+    <title lang="es">Fuga de Pretoria</title>
+    <desc lang="es">Sudáfrica, 1978. Tim Jenkin y Stephen Lee, dos activistas políticos blancos, miembros del Congreso Nacional Africano, encarcelados por el régimen del apartheid, ponen en marcha un plan para escapar de la infame prisión de Pretoria.</desc>
     <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7f677f264d94a95ccd7176ba00393a2c?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/96adbe3ea5aa5f9aa18e0f95dad9c58a?w=400" />
   </programme>
-  <programme start="20261026013731 +0000" stop="20261026025852 +0000" channel="entclassic">
-    <title lang="es">Hombres de Negro 2</title>
-    <desc lang="es">Después del abandono del agente K, el agente J no considera su trabajo igual: Ambos formaban parte de un organismo secreto que lucha contra los extraterrestres, sin que el resto de los mortales lo sepan, pueblan la Tierra. La misión de los hombres de negro, como se les conoce...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a50ea5533f5178036a3943e0bc291713?w=400" />
+  <programme start="20261101212653 +0000" stop="20261101225212 +0000" channel="entdrama">
+    <title lang="es">La Bella y La Bestia</title>
+    <desc lang="es">La joven Bella se encuentra prisionera en un castillo encantado, gobernado por una bestia. A medida que pasa el tiempo, descubre la verdadera naturaleza amable de la bestia y se desarrolla un amor improbable entre ellos, desafiando los prejuicios y las apariencias externas.</desc>
+    <category lang="es">Romance</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b51f444daa3c54b8e68a99e218bc236b?w=400" />
   </programme>
-  <programme start="20261026025852 +0000" stop="20261026043332 +0000" channel="entclassic">
-    <title lang="es">Juegos sexuales</title>
-    <desc lang="es">Kathryn  y su hermanastro Sebastian, todavía estudiantes de bachillerato en un elitista instituto de Nueva York, deciden hacer una maquiavélica apuesta. Se trata de que Sebastian, un consumado Don Juan, se acueste con Annette, una joven que quiere permanecer virgen hasta su ma...</desc>
+  <programme start="20261101225212 +0000" stop="20261102012318 +0000" channel="entdrama">
+    <title lang="es">El imperio del sol</title>
+    <desc lang="es">En diciembre de 1941, el ejército japonés ocupa Shanghai. A partir de ese momento, la privilegiada vida que ha llevado James Graham, un niño inglés de clase alta, llega a su fin. Es separado de sus padres y confinado en un campo de concentración próximo a un aeropuerto militar...</desc>
     <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c8c6761cd186ec6d8eb7acd406858cab?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/05a166b711985d6163c5770dc308a610?w=400" />
   </programme>
-  <programme start="20261026043332 +0000" stop="20261026061925 +0000" channel="entclassic">
+  <programme start="20261102012318 +0000" stop="20261102025958 +0000" channel="entdrama">
+    <title lang="es">Soul</title>
+    <desc lang="es">Joe Gardner, un maestro de música, le ofrecen una oportunidad para convertirse en un reconocido músico de jazz que tanto soñaba. Sin embargo, después de un pequeño accidente, termina en un lugar misterioso donde las nuevas almas reciben las personalidad, el carácter y los inte...</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/24c357bfcb5276971bf9ee328c9bc349?w=400" />
+  </programme>
+  <programme start="20261026043831 +0000" stop="20261026061925 +0000" channel="entclassic">
     <title lang="es">Pearl Harbor</title>
     <desc lang="es">Año 1941, en plena Segunda Guerra Mundial en Europa. Rafe McCawley (Affleck) y Danny Walker (Hartnett) crecieron juntos en una zona rural estadounidense y su larga amistad se mantiene cuando ambos ingresan como pilotos en las fuerzas aéreas. Rafe encontró en Evelyn Johnson (Be...</desc>
     <category lang="es">Drama</category>
@@ -3611,108 +3771,114 @@
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1dbed1b6c3c7ec0b7a8765ff9529f144?w=400" />
   </programme>
-  <programme start="20261028045129 +0000" stop="20261028065326 +0000" channel="entclassic">
+  <programme start="20261028025922 +0000" stop="20261028045148 +0000" channel="entclassic">
+    <title lang="es">Pánico y locura en Las Vegas</title>
+    <desc lang="es">Raoul Duke y su abogado, el Dr. Gonzo, conducen un descapotable rojo a través del desierto de Mojave hasta Las Vegas con una maleta llena de drogas para cubrir una carrera de motos. A medida que su consumo de drogas aumenta a un ritmo alarmante, el dúo drogado destroza su habi...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2170309dd2f7a62cf5e1810c204f7763?w=400" />
+  </programme>
+  <programme start="20261028045148 +0000" stop="20261028065345 +0000" channel="entclassic">
     <title lang="es">La Guerra de los Roses</title>
     <desc lang="es">La desintegración de un matrimonio perfecto, tan modélico que resultan insultantes sus vidas tan cómodas como vacías, se produce cuando la esposa, madre y ama de casa perfecta, con una eficaz y oronda sirvienta alemana que completa el cuadro familiar, cae en la cuenta de que d...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a3c3af3e6736cf2a2788b484d886087?w=400" />
   </programme>
-  <programme start="20261028065326 +0000" stop="20261028085944 +0000" channel="entclassic">
+  <programme start="20261028065345 +0000" stop="20261028085957 +0000" channel="entclassic">
     <title lang="es">Cuando un hombre ama a una mujer</title>
     <desc lang="es">Un piloto de la línea aérea y su esposa se obligan a afrontar las consecuencias de su alcoholismo cuando sus dependencias amenazan su vida y la seguridad de su hija. Mientras la mujer entra en la desintoxicación, su marido debe afrontar la verdad de su comportamiento de permiso.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/80262bde5ebd90ebc254288446fa26cb?w=400" />
   </programme>
-  <programme start="20261028085944 +0000" stop="20261028103842 +0000" channel="entclassic">
+  <programme start="20261028085957 +0000" stop="20261028103855 +0000" channel="entclassic">
     <title lang="es">Tío Buck al Rescate</title>
     <desc lang="es">El matrimonio Russell y sus tres hijos han dejado su pequeño pueblo para vivir en las afueras de una gran ciudad. Cuando el abuelo sufre un infarto, los Russell tienen que volver al pueblo a toda velocidad, pero se les plantea un problema: ¿Con quién dejan a los chicos? Para s...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f614de94adc105924f9fac043ebe8108?w=400" />
   </programme>
-  <programme start="20261028103842 +0000" stop="20261028115910 +0000" channel="entclassic">
+  <programme start="20261028103855 +0000" stop="20261028115924 +0000" channel="entclassic">
     <title lang="es">Lilo y Stitch</title>
     <desc lang="es">Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7ad89b354667836b068b2ae7904a0266?w=400" />
   </programme>
-  <programme start="20261028115910 +0000" stop="20261028122935 +0000" channel="entclassic">
+  <programme start="20261028115924 +0000" stop="20261028122949 +0000" channel="entclassic">
     <title lang="es">El Chavo</title>
     <sub-title lang="es">La pelota / Las coplas rancheras / Las preguntas / El tendedero</sub-title>
     <desc lang="es">El Chavo le pregunta a Don Ramón el motivo por el cual botan las pelotas. / Rubén y Chespirito se disputan el amor de la Toña a ritmo de copla ranchera. / Los niños estudian para la clase de historia. / Don Ramón, Doña Florinda y Dõna Clotilde pelean por el tendedero de la vec...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/efe656f926db9ac07bd1501be0e96805?w=400" />
   </programme>
-  <programme start="20261028122935 +0000" stop="20261028125937 +0000" channel="entclassic">
+  <programme start="20261028122949 +0000" stop="20261028125950 +0000" channel="entclassic">
     <title lang="es">El Chapulín Colorado</title>
     <sub-title lang="es">El hombre invisible es tan antipático que nadie lo puede ver</sub-title>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fcde2dc4c5eb36a354de504533cdfd43?w=400" />
   </programme>
-  <programme start="20261028125937 +0000" stop="20261028132909 +0000" channel="entclassic">
+  <programme start="20261028125950 +0000" stop="20261028132959 +0000" channel="entclassic">
     <title lang="es">Dinosaurios</title>
     <sub-title lang="es">Lo Que Quiso Decir Casanovas</sub-title>
     <desc lang="es">Mónica consigue un trabajo derribando árboles para Wesayso, pero es despedida después de rechazar los avances del nuevo compañero de trabajo Harris el "Sexual", popular por su doble sentido. Decidida a no dejar que los hombres de la fuerza laboral la detengan, lleva el asunto...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5149d8c2c8097c7d067420a3581aebeb?w=400" />
   </programme>
-  <programme start="20261028132909 +0000" stop="20261028135951 +0000" channel="entclassic">
+  <programme start="20261028132959 +0000" stop="20261028135944 +0000" channel="entclassic">
     <title lang="es">ALF</title>
     <sub-title lang="es">Cosa salvaje</sub-title>
     <desc lang="es">ALF enters a phase where his erratic behavior and hunger for cats will, as he says, make him into a lunatic. He wants Willie to build a cage where he can be locked in until the phase is over. But ALF has the great ability to deceive.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ed68bcffb673ac3587f0a02addb67f03?w=400" />
   </programme>
-  <programme start="20261028135951 +0000" stop="20261028142941 +0000" channel="entclassic">
+  <programme start="20261028135944 +0000" stop="20261028142934 +0000" channel="entclassic">
     <title lang="es">El Zorro</title>
     <sub-title lang="es">La adivina</sub-title>
     <desc lang="es">El Sargento García recibe una suma de dinero de 1.500 pesos para cuidarla. Sin embargo la tarotista del pueblo intenta confundirlo para robarle el dinero.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3f9ded42b30aed971b004a56ad3acf71?w=400" />
   </programme>
-  <programme start="20261028142941 +0000" stop="20261028145928 +0000" channel="entclassic">
+  <programme start="20261028142934 +0000" stop="20261028145922 +0000" channel="entclassic">
     <title lang="es">La Niñera</title>
     <sub-title lang="es">La maestra de gimnasia</sub-title>
     <desc lang="es">Maggie tiene una profesora de gimnasia nueva: la misma dura profesora de gimnasia sargento que aterrorizó a Fran en la escuela secundaria. Así Fran pasa al rescate y desafía a la maestra de Maggie. La profesora acepta darle una segunda oportunidad a Maggie para pasar su materi...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/37790cc8ca76d94a791183414f9065bd?w=400" />
   </programme>
-  <programme start="20261028145928 +0000" stop="20261028165522 +0000" channel="entclassic">
+  <programme start="20261028145922 +0000" stop="20261028165515 +0000" channel="entclassic">
     <title lang="es">Los cazadores del arca perdida</title>
     <desc lang="es">Año 1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde s...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e9096ed02bdfc8a8a2e9184706356a62?w=400" />
   </programme>
-  <programme start="20261028165522 +0000" stop="20261028182227 +0000" channel="entclassic">
+  <programme start="20261028165515 +0000" stop="20261028182220 +0000" channel="entclassic">
     <title lang="es">Ace Ventura: Detective de Mascotas</title>
     <desc lang="es">El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d917373ec98030526e48831109673036?w=400" />
   </programme>
-  <programme start="20261028182227 +0000" stop="20261028195121 +0000" channel="entclassic">
+  <programme start="20261028182220 +0000" stop="20261028195114 +0000" channel="entclassic">
     <title lang="es">Austin Powers: El Agente Internacional del Misterio</title>
     <desc lang="es">Primera aventura de Austin Powers (Mike Myers), un peculiar y atractivo espía de los años sesenta, cuyo principal enemigo es el doctor Maligno (interpretado también por Myers). Tras ser ambos sometidos a un proceso de congelación, se despiertan treinta años después en una soci...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7d6db8fb5b56f5a6babb6cd65c4a0b98?w=400" />
   </programme>
-  <programme start="20261028195121 +0000" stop="20261028212817 +0000" channel="entclassic">
+  <programme start="20261028195114 +0000" stop="20261028212810 +0000" channel="entclassic">
     <title lang="es">Todopoderoso</title>
     <desc lang="es">Tras pasar el peor día de su vida, el reportero de televisión Bruce Nolan desafía a Dios reprochándole lo mal que está administrando el mundo. Dios acepta el reto, le otorga todos sus poderes y lo conmina a hacerlo mejor que Él.</desc>
     <category lang="es">Fantasía</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d36d481a3d3d668f1b5045b043d1420c?w=400" />
   </programme>
-  <programme start="20261028212817 +0000" stop="20261028233547 +0000" channel="entclassic">
+  <programme start="20261028212810 +0000" stop="20261028233540 +0000" channel="entclassic">
     <title lang="es">Batman</title>
     <desc lang="es">La oscura y peligrosa Ciudad Gótica se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La...</desc>
     <category lang="es">Fantasía</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3e0eef97d70e2be0f21f2dc5c8762cd4?w=400" />
   </programme>
-  <programme start="20261028233547 +0000" stop="20261029012104 +0000" channel="entclassic">
+  <programme start="20261028233540 +0000" stop="20261029012117 +0000" channel="entclassic">
     <title lang="es">Donde estás, hermano?</title>
     <desc lang="es">Everest Ulyssess McGill (Clooney), un delincuente de poca monta, es detenido y condenado a trabajos forzados en el estado de Mississippi. Sus dificultades para adaptarse a la estricta disciplina de la prisión lo llevan a elaborar un plan de fuga.</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e29639a164a70c573210ab8c1035dfc1?w=400" />
   </programme>
-  <programme start="20261029012104 +0000" stop="20261029025947 +0000" channel="entclassic">
+  <programme start="20261029012117 +0000" stop="20261029025958 +0000" channel="entclassic">
     <title lang="es">Volcano</title>
     <desc lang="es">Un terremoto rompe una mañana de Los Ángeles pacífica y abre una grieta profundamente en la tierra, haciendo la lava comenzar a burbujear. Como un volcán comienza a formarse en La Brea Tar Pits, el director del servicio de la gestión de emergencias de la ciudad, Mike Roark, tr...</desc>
     <category lang="es">Ciencia ficción</category>
@@ -4043,43 +4209,102 @@
     <category lang="es">Romance</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/18437f2e59b3ee9429a71499de795b5e?w=400" />
   </programme>
-  <programme start="20261025175112 +0000" stop="20261025194643 +0000" channel="entlife">
-    <title lang="es">Luna de miel en familia</title>
-    <desc lang="es">Un hombre y una mujer va un resort con sus respectivas familias y no pueden ocultar su sorpresa al verse el uno al otro. Ya se conocían, había tenido una cita a ciegas hace algún tiempo, una cita cuyo resultado no había sido para nada satisfactorio. No obstante, contra todo pr...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53145d7f7f6a4c76e0171a4160985f43?w=400" />
-  </programme>
-  <programme start="20261025194643 +0000" stop="20261025213052 +0000" channel="entlife">
-    <title lang="es">La llave maestra</title>
-    <desc lang="es">Después de abandonar su trabajo de enfermera en una clínica, Caroline (Hudson) es contratada para cuidar de un anciano que ha sufrido una embolia, aunque la esposa de éste (Rowlands) la acoge con bastante recelo. El matrimonio vive en una siniestra mansión sureña en las afuera...</desc>
+  <programme start="20261101044839 +0000" stop="20261101065328 +0000" channel="entclassic">
+    <title lang="es">Belleza Americana</title>
+    <desc lang="es">Lester Burnham, un cuarentón en crisis, cansado de su trabajo y de su mujer Carolyn, despierta de su letargo cuando conoce a la atractiva amiga de su hija, a la que intentará impresionar a toda costa.</desc>
     <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e4cb4a216e9557c15c51ea2c910e1b08?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/98687bb6f9f7b3ee4bec7ad42e6f103b?w=400" />
   </programme>
-  <programme start="20261025213052 +0000" stop="20261025231604 +0000" channel="entlife">
-    <title lang="es">Mientras dormías</title>
-    <desc lang="es">Lucy es una joven taquillera del metro con poca suerte en el amor. Su sueño es salir con Peter, un guapo ejecutivo que todos los días coge el metro sin fijarse en ella. Un día Peter tiene un accidente en el metro y, aunque Lucy le salva la vida, queda en estado de coma. Cuando...</desc>
-    <category lang="es">Romance</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9951597e4b47be62be297f9eca3f410f?w=400" />
+  <programme start="20261101065328 +0000" stop="20261101085857 +0000" channel="entclassic">
+    <title lang="es">Arde Mississippi</title>
+    <desc lang="es">Dos agentes del FBI ideológicamente opuestos investigan un escalofriante asesinato en una comunidad oprimida por el Ku Klux Klan. Aunque todos saben quien está implicado, nadie se atreve a comentar nada, y los agentes deciden actuar por separado.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bd57be1c8afb2e43a295e561b9b6651b?w=400" />
   </programme>
-  <programme start="20261025231604 +0000" stop="20261026012131 +0000" channel="entlife">
-    <title lang="es">Rescate al amanecer</title>
-    <desc lang="es">La épica lucha por la supervivencia de un piloto de combate estadounidense tras ser derribado en una misión sobre Laos durante la guerra de Vietnam.</desc>
+  <programme start="20261101085857 +0000" stop="20261101103954 +0000" channel="entclassic">
+    <title lang="es">Socios y Sabuesos</title>
+    <desc lang="es">Scott Turner es un meticuloso detective que está investigando un difícil caso de homicidio. Un día encuentra en la calle a un perro desgarbado, vulgar y con muy malos modales, al que decide adoptar y que pronto se convierte en el mejor ayudante que nunca ha tenido.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/35069088016c96b8adf84a8681998448?w=400" />
+  </programme>
+  <programme start="20261101103954 +0000" stop="20261101115922 +0000" channel="entclassic">
+    <title lang="es">¿Y dónde está el policía? 33⅓: El insulto final</title>
+    <desc lang="es">Frank Drebin sale de su retiro para ayudar al Escuadrón Policial a infiltrarse en una banda de terroristas que planean detonar una bomba en los Premios de la Academia.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/58a2e0b1f42ff76ed43f53530824da11?w=400" />
+  </programme>
+  <programme start="20261101115922 +0000" stop="20261101122921 +0000" channel="entclassic">
+    <title lang="es">El Chavo</title>
+    <sub-title lang="es">El jefe / El lechero</sub-title>
+    <desc lang="es">El Peterete le dice al Chompiras que otro bandido quiere disputarle el mando del grupo. / Don Ramón comienza a trabajar como lechero, pero el Chavo y la Chilindrina resuelven agarrar unas botellas para alimentar a unos perritos recién nacidos.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/16ba0fe0508bf2d1b9fdb73c84d985b4?w=400" />
+  </programme>
+  <programme start="20261101122921 +0000" stop="20261101125914 +0000" channel="entclassic">
+    <title lang="es">El Chapulín Colorado</title>
+    <sub-title lang="es">Búsqueda del enfermo</sub-title>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/94203cd185cf56633b38e52c838201ef?w=400" />
+  </programme>
+  <programme start="20261101125914 +0000" stop="20261101132845 +0000" channel="entclassic">
+    <title lang="es">Dinosaurios</title>
+    <sub-title lang="es">Una nueva hierva</sub-title>
+    <desc lang="es">Toda la familia aprende una importante lección cuando Robbie trae a casa una misteriosa planta feliz que hace que todo el mundo se sienta bien. Cuando todo se descontrola, Fran debe poner finalmente los pies sobre la tierra.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b912a5cfbf624c04d3dee67e31dd5627?w=400" />
+  </programme>
+  <programme start="20261101132845 +0000" stop="20261101135904 +0000" channel="entclassic">
+    <title lang="es">ALF</title>
+    <sub-title lang="es">El apostador</sub-title>
+    <desc lang="es">ALF discovers the alluring world of horse racing thanks to Kate's mom who bets on them. When the concept of a bookie is explained to ALF, he gets the bright idea of getting the Tanners some money through betting.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0526c00958de609fced6b639528b80e9?w=400" />
+  </programme>
+  <programme start="20261101135904 +0000" stop="20261101142905 +0000" channel="entclassic">
+    <title lang="es">El Zorro</title>
+    <sub-title lang="es">El sargento se enfurece</sub-title>
+    <desc lang="es">Una epidemia de sarampión azota a Los Ángeles dejando a muchas personas en cuarentena. Cuando un precioso cáliz llega al pueblo, el ayudante del cura intentará robarlo.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c750f127f922ff0bafa380cf3ccf5d1c?w=400" />
+  </programme>
+  <programme start="20261101142905 +0000" stop="20261101145957 +0000" channel="entclassic">
+    <title lang="es">La Niñera</title>
+    <sub-title lang="es">Niñera al cuadrado</sub-title>
+    <desc lang="es">Todo el mundo está asombrado cuando, Fran convence a Maxwell que debe socializar más, Maxwell en realidad llega a casa con una cita: una mujer llamada Leslie que es la doble de Fran!. Mientras tanto, Brighton tiene preocupaciones acerca de "chicas" en la escuela.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3411400cb44a29857f3112b2c91c170c?w=400" />
+  </programme>
+  <programme start="20261101145957 +0000" stop="20261101181149 +0000" channel="entclassic">
+    <title lang="es">Titanic</title>
+    <desc lang="es">El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7bd28a0155133f182b9f03a210fa43da?w=400" />
+  </programme>
+  <programme start="20261101181149 +0000" stop="20261101212847 +0000" channel="entclassic">
+    <title lang="es">El señor de los anillos: El retorno del rey</title>
+    <desc lang="es">Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el...</desc>
     <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4125fc3cf2875b47173d4355ab4a9db4?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2f6294d5fb7af007b3cfa48252d2fa4a?w=400" />
   </programme>
-  <programme start="20261026012131 +0000" stop="20261026025957 +0000" channel="entlife">
-    <title lang="es">High School Musical</title>
-    <desc lang="es">Durante unas vacaciones de Navidad, los jóvenes Troy y Gabriella (dos adolescentes en principo con pocas cosas en común) se conocen. Ambos descubren su interés mutuo por la música durante un concurso de karaoke, y deciden presentarse al casting del musical del instituto.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/55305ad0962d05e5e583ac8f5d640555?w=400" />
+  <programme start="20261101212847 +0000" stop="20261101225612 +0000" channel="entclassic">
+    <title lang="es">El rey león</title>
+    <desc lang="es">El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c48c1d75c7d30102034a187ef1b71ac4?w=400" />
   </programme>
-  <programme start="20261026025957 +0000" stop="20261026043106 +0000" channel="entlife">
-    <title lang="es">8 cabezas</title>
-    <desc lang="es">Tommy Spinelli (Joe Pesci) es un gángster que ha de transportar a la ciudad de San Diego una bolsa con ocho cabezas humanas. Durante el viaje, el intercambio accidental de bolsas con un joven que viaja a México de vacaciones desencadenará una sucesión de absurdas situaciones..</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/88e29a16b5fcdddbe36c18a678526e68?w=400" />
+  <programme start="20261101225612 +0000" stop="20261102005313 +0000" channel="entclassic">
+    <title lang="es">El Planeta De Los Simios</title>
+    <desc lang="es">Luego de un espectacular aterrizaje forzoso en un planeta inexplorado, el intrépido astronauta Leo Davidson se encuentra atrapado en un mundo salvaje donde los monos parlantes dominan a la raza humana. Desesperado por encontrar un camino a casa, Leo debe evadir al invencible e...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1eee7b6039adc9bdf77b7d57f4fa1c5c?w=400" />
   </programme>
-  <programme start="20261026043106 +0000" stop="20261026064309 +0000" channel="entlife">
+  <programme start="20261102005313 +0000" stop="20261102025959 +0000" channel="entclassic">
+    <title lang="es">La Intérprete</title>
+    <desc lang="es">Silvia Broome, una mujer de origen africano, es intérprete de las Naciones Unidas. Un día, casualmente, oye cómo amenazan de muerte a un presidente africano acusado de genocidio, que está a punto de pronunciar un discurso en la Asamblea General. Tobin Keller es el agente feder...</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4c2be76e2f14460021b6d5f9f483b783?w=400" />
+  </programme>
+  <programme start="20261026043602 +0000" stop="20261026064309 +0000" channel="entlife">
     <title lang="es">El Contador de Cartas</title>
     <desc lang="es">William Tell (Oscar Isaac) es un exmilitar y jugador profesional de póker. Su meticulosa vida se trastoca cuando se le acerca Cirk, un joven que busca ayuda en Tell para ejecutar su plan de venganza contra un coronel militar.</desc>
     <category lang="es">Drama</category>
@@ -4277,13 +4502,13 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/26c34cd977b7ae2b1e564a7115952a70?w=400" />
   </programme>
-  <programme start="20261028085952 +0000" stop="20261028110310 +0000" channel="entlife">
+  <programme start="20261028085952 +0000" stop="20261028110309 +0000" channel="entlife">
     <title lang="es">La Nueva Gran Estafa</title>
     <desc lang="es">Danny Ocean (Clooney), Tess (Roberts) y su banda vuelven a formar equipo. Esta vez el golpe será múltiple: tres espectaculares atracos en tres lugares diferentes, Roma, París y Ámsterdam. En Ámsterdam, el premio es un Rembrandt. Mientras tanto, el propietario del casino de Las...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1dbed1b6c3c7ec0b7a8765ff9529f144?w=400" />
   </programme>
-  <programme start="20261028110310 +0000" stop="20261028125857 +0000" channel="entlife">
+  <programme start="20261028110309 +0000" stop="20261028125857 +0000" channel="entlife">
     <title lang="es">Everest</title>
     <desc lang="es">Inspirado por los acontecimientos increíbles que rodean una tentativa traidora de alcanzar la cumbre de la montaña del mundo más alta, «Everest» documenta el viaje sobrecogedor de dos expediciones diferentes desafiadas más allá de sus límites por una de las tormentas de nieve...</desc>
     <category lang="es">Aventura</category>
@@ -4321,13 +4546,13 @@
     <category lang="es">Western</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fec6d723863a3f73d89c475bae128b8c?w=400" />
   </programme>
-  <programme start="20261028185720 +0000" stop="20261028204649 +0000" channel="entlife">
+  <programme start="20261028185720 +0000" stop="20261028204648 +0000" channel="entlife">
     <title lang="es">El diablo viste a la moda</title>
     <desc lang="es">Una joven del Medio Oeste se encuentra con una situación mucho más complicada de lo que esperaba cuando se muda a Nueva York para convertirse en escritora y termina siendo la asistente de la tiránica y extravagante editora en jefe de una importante revista de moda.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1f353cfa4ed7203cb1d8e10d4a7319e4?w=400" />
   </programme>
-  <programme start="20261028204649 +0000" stop="20261028224909 +0000" channel="entlife">
+  <programme start="20261028204648 +0000" stop="20261028224909 +0000" channel="entlife">
     <title lang="es">Rocky</title>
     <desc lang="es">Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se un...</desc>
     <category lang="es">Drama</category>
@@ -4344,6 +4569,12 @@
     <desc lang="es">La situación del cuarentón y puritano Cal Weaver es perfecta: tiene un buen trabajo, una bonita casa y unos hijos estupendos y está casado con el amor de su adolescencia. Sin embargo, cuando Cal se entera de que su esposa, Emily, le ha engañado y quiere divorciarse, su vida ‘p...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bd94e0980d0c3aa397e5853daa4f35e1?w=400" />
+  </programme>
+  <programme start="20261029025954 +0000" stop="20261029043518 +0000" channel="entlife">
+    <title lang="es">Un santa no tan santo</title>
+    <desc lang="es">Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d8ae72ca6afc128ef2f463f11bb2031c?w=400" />
   </programme>
   <programme start="20261029043518 +0000" stop="20261029064635 +0000" channel="entlife">
     <title lang="es">Cuando un hombre ama a una mujer</title>
@@ -4606,37 +4837,100 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4527784966030d56c71f41e932700569?w=400" />
   </programme>
-  <programme start="20261025184107 +0000" stop="20261025203653 +0000" channel="entextreme">
-    <title lang="es">El planeta de los simios</title>
-    <desc lang="es">Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b89e731b2bb8a741eb8ff0569ca9c632?w=400" />
+  <programme start="20261101025959 +0000" stop="20261101043416 +0000" channel="entlife">
+    <title lang="es">La cruda verdad</title>
+    <desc lang="es">Abby Ritcher es una joven productora de un programa matutino de TV de Sacramento que tiene problemas para el amor. Su búsqueda de "el hombre perfecto" le ha dejado soltera y sin esperanzas, y está llegando a pensar que está incapacitada para el romance. A Abby le espera una bu...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f0754c09962e5a8e40e945182fbe5e55?w=400" />
   </programme>
-  <programme start="20261025203653 +0000" stop="20261025224548 +0000" channel="entextreme">
-    <title lang="es">Creed 2: Defendiendo el Legado</title>
-    <desc lang="es">Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadam...</desc>
+  <programme start="20261101043416 +0000" stop="20261101072517 +0000" channel="entlife">
+    <title lang="es">Django sin Cadenas</title>
+    <desc lang="es">En Texas, dos años antes de estallar la Guerra Civil Americana, King Schultz, un cazarrecompensas alemán que sigue la pista a unos asesinos para cobrar por sus cabezas, le promete al esclavo negro Django dejarlo en libertad si le ayuda a atraparlos. Él acepta, pues luego quier...</desc>
     <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c48eb5c71764f1644b783093270a521d?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d448780f62dd4d667b65801192c02025?w=400" />
   </programme>
-  <programme start="20261025224548 +0000" stop="20261026004833 +0000" channel="entextreme">
-    <title lang="es">Los indestructibles 3</title>
-    <desc lang="es">Barney, Navidad y el resto del equipo se encuentra cara a cara con Conrad Stonebanks, quien hace años co-fundó The Expendables with Barney. Stonebanks se convirtió posteriormente en un despiadado comerciante de armas y en alguien a quien Barney se vio obligado a matar ... o es...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aec135ebd1e0510c65946a713f5076af?w=400" />
+  <programme start="20261101072517 +0000" stop="20261101085907 +0000" channel="entlife">
+    <title lang="es">Sunshine Cleaning</title>
+    <desc lang="es">Rose y Norah Lorkowski son dos hermanas en paro que encuentran una particular forma de ganarse la vida: limpiar las escenas de crimen después de que la policía haya hecho su trabajo. Durante años, Rose (Amy Adams) fue líder de las animadoras y parecía tener un futuro prometedo...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d483664b06d524e65989da5199a0273?w=400" />
   </programme>
-  <programme start="20261026004833 +0000" stop="20261026025959 +0000" channel="entextreme">
-    <title lang="es">Capitán América y el Soldado del Invierno</title>
-    <desc lang="es">Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1c9a198ca030d86af75da5d9d25d18ae?w=400" />
+  <programme start="20261101085907 +0000" stop="20261101104023 +0000" channel="entlife">
+    <title lang="es">Son Como Niños</title>
+    <desc lang="es">Después de muchos años, su antiguo entrenador de basquet muere y cinco amigos deciden pasar un fin de semana, ahora con sus respectivas familias, en la casa de  antaño donde celebraron, el campeonato.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/908a2ba1ae058de199fa22b76b6497a4?w=400" />
   </programme>
-  <programme start="20261026025959 +0000" stop="20261026050644 +0000" channel="entextreme">
-    <title lang="es">La raíz del miedo</title>
-    <desc lang="es">Martin Vail, un ambicioso abogado de Chicago, es capaz de aceptar cualquier caso con tal de salir en la prensa. Un día decide ocuparse de uno que parece imposible de ganar: la defensa de Aaron, un joven que es acusado del asesinato del arzobispo de Chicago, tras ser detenido m...</desc>
+  <programme start="20261101104023 +0000" stop="20261101125851 +0000" channel="entlife">
+    <title lang="es">Náufrago</title>
+    <desc lang="es">Chuck Noland, un ejecutivo de la empresa multinacional de mensajería FedEx, se ve apartado de su cómoda vida y de su prometida a causa de un accidente de avión por el que queda aislado de la civilización en una remota isla tropical. Único superviviente y solo en la isla, tras...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c559c7b938f8067585230a489a2254ea?w=400" />
+  </programme>
+  <programme start="20261101125851 +0000" stop="20261101134346 +0000" channel="entlife">
+    <title lang="es">Dr. House</title>
+    <sub-title lang="es">Decepción</sub-title>
+    <desc lang="es">Anica sufre convulsiones en una casa de apuestas para las carreras de caballos, a la vez que presenta unas extrañas hematomas en su vientre. House está presente porque también ha ido a apostar y la lleva al hospital para atenderla. House la define como una "sensual nena aposta...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a1932dd320a61f2803c8a777326060d3?w=400" />
+  </programme>
+  <programme start="20261101134346 +0000" stop="20261101142843 +0000" channel="entlife">
+    <title lang="es">Anatomía según Grey</title>
+    <sub-title lang="es">Blues por la hermana</sub-title>
+    <desc lang="es">Meredith se cuestiona su voto de celibato después de conocer a un veterinario. Burke atiende a su héroe musical. Bailey se pregunta sobre la relación de Izzie y Denny.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/574e71f3ef4cea7c6e7d5f4fa0f07d55?w=400" />
+  </programme>
+  <programme start="20261101142843 +0000" stop="20261101145951 +0000" channel="entlife">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Episodio 7</sub-title>
+    <desc lang="es">Lydia Abate scours the obituaries, then visits surviving family members in hopes of taking the deceased person's clothing off of their hands. Mason Roberts introduces his wife to his entire family of cheapskates.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f07f8011f004c066e47d517bb5819af0?w=400" />
+  </programme>
+  <programme start="20261101145951 +0000" stop="20261101163840 +0000" channel="entlife">
+    <title lang="es">¡Cuidado: Bebé suelto!</title>
+    <desc lang="es">Baby Bink no podía pedir más; tiene padres adoradores (aunque algo enfermos), vive en una gran mansión, y está a punto de aparecer en las páginas sociales del periódico. Desafortunadamente, no todos en el mundo son tan agradables como los padres de Bink; especialmente los tres...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a268ad51ad16ddf6296fbc07259dc6f?w=400" />
+  </programme>
+  <programme start="20261101163840 +0000" stop="20261101184315 +0000" channel="entlife">
+    <title lang="es">Moulin Rouge, amor en rojo</title>
+    <desc lang="es">Ambientada en el París bohemio de 1900. Satine, la estrella más rutilante del Moulin Rouge, encandila a toda la ciudad con sus bailes llenos de sensualidad y su enorme belleza. Atrapada entre el amor de dos hombres, un joven escritor y un duque, lucha por hacer realidad su sue...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2384dd75a248bdbb030f310ed5d82117?w=400" />
+  </programme>
+  <programme start="20261101184315 +0000" stop="20261101201916 +0000" channel="entlife">
+    <title lang="es">Sólo falta el asesino</title>
+    <desc lang="es">Phoebe, una turista americana, y Julian, un actor americano en paro, se conocen cuando encuentran en Roma un perro perdido por el que ofrecen una cuantiosa recompensa. Cuando van a Montecarlo a entregárselo a su dueña, que es una acaudalada mujer, la encuentran muerta. Por una...</desc>
     <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/77725a3ecddaac8630ffc47b8a6820a0?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cfeaa81ce4551f39132138dd0b2304aa?w=400" />
   </programme>
-  <programme start="20261026050644 +0000" stop="20261026065328 +0000" channel="entextreme">
+  <programme start="20261101201916 +0000" stop="20261101215806 +0000" channel="entlife">
+    <title lang="es">Siempre Alice</title>
+    <desc lang="es">Alice Howland (Julianne Moore) está orgullosa de la vida que tanto esfuerzo le ha costado construir. A los cincuenta, es profesora de psicología cognitiva en Harvard y una experta lingüista de fama mundial, con un marido exitoso y tres hijos adultos. Cuando empieza a sentirse...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6b775f0ec4ec5ab8b0abc98a65cc17ed?w=400" />
+  </programme>
+  <programme start="20261101215806 +0000" stop="20261101232422 +0000" channel="entlife">
+    <title lang="es">Ace Ventura: Detective de Mascotas</title>
+    <desc lang="es">El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d917373ec98030526e48831109673036?w=400" />
+  </programme>
+  <programme start="20261101232422 +0000" stop="20261102013202 +0000" channel="entlife">
+    <title lang="es">El embajador del miedo</title>
+    <desc lang="es">An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy.</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c5e100cf8853d708225568e13db69b85?w=400" />
+  </programme>
+  <programme start="20261102013202 +0000" stop="20261102025921 +0000" channel="entlife">
+    <title lang="es">Ace Ventura: Cuando la naturaleza llama</title>
+    <desc lang="es">Intentando superar el trauma que le ha dejado el fracaso de su última misión, el inefable detective Ace Ventura, ahora un monasterio budista, es convocado en un peligroso viaje en las selvas de África para encontrar a Shikaka, un animal sagrado desaparecido de la tribu Wachati.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3adc450b9cc673b588727746df872f5a?w=400" />
+  </programme>
+  <programme start="20261026051046 +0000" stop="20261026065328 +0000" channel="entextreme">
     <title lang="es">Psicópata Americano</title>
     <desc lang="es">En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente pe...</desc>
     <category lang="es">Suspense</category>
@@ -4768,77 +5062,89 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/adb40cd33fb86fe1d4a2328da1113954?w=400" />
   </programme>
-  <programme start="20261028053747 +0000" stop="20261028072329 +0000" channel="entextreme">
+  <programme start="20261028035244 +0000" stop="20261028053815 +0000" channel="entextreme">
+    <title lang="es">Intrusos</title>
+    <desc lang="es">Dos niños que viven en países diferentes son visitados cada noche por un ser sin rostro que quiere apoderarse de ellos.</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/537369d5130862e27694b349efd20270?w=400" />
+  </programme>
+  <programme start="20261028053815 +0000" stop="20261028072356 +0000" channel="entextreme">
     <title lang="es">Pandorum: Terror en el espacio</title>
     <desc lang="es">Dos miembros de la tripulación de una nave espacial, el Teniente Payton (Dennis Quaid) y el Cabo Bower (Ben Foster), se despiertan en sus cámaras de hibernación sin recordar nada de lo que ha sucedido: ni quiénes son, ni cuál era su misión o por qué, aparentemente, son los úni...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6bd2dbb862b94a998dc1e7bf8fa28010?w=400" />
   </programme>
-  <programme start="20261028072329 +0000" stop="20261028085959 +0000" channel="entextreme">
+  <programme start="20261028072356 +0000" stop="20261028085859 +0000" channel="entextreme">
     <title lang="es">Sepultado vivo</title>
     <desc lang="es">Clint Goodman (Tim Matheson) vive feliz sin saber que su mujer Joanna (Jennifer Jason Leigh) mantiene un romance con su ginecólogo. Cansada de su doble vida, Joanna le pide a su amante que le proporcione algo para matar a su marido. La mejor fórmula consiste en administrarle u...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bbbd5daa400bcf5f8fae2066d5297859?w=400" />
   </programme>
-  <programme start="20261028085959 +0000" stop="20261028112050 +0000" channel="entextreme">
+  <programme start="20261028085859 +0000" stop="20261028111950 +0000" channel="entextreme">
     <title lang="es">Star Wars: Episodio II: El Ataque de los Clones</title>
     <desc lang="es">Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el liderazgo de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Cuando se realiza un intento de asesinato contra la Se...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0bd259ad503cdf0c9a9085b491194043?w=400" />
   </programme>
-  <programme start="20261028112050 +0000" stop="20261028131954 +0000" channel="entextreme">
+  <programme start="20261028111950 +0000" stop="20261028131854 +0000" channel="entextreme">
     <title lang="es">Insomnia</title>
     <desc lang="es">Will Dormer, un veterano detective de Los Ángeles, viaja a un pequeño pueblo de Alaska con su compañero Hap para investigar el asesinato de una chica de 17 años. En Los Ángeles queda pendiente un oscuro asunto que les incumbe a los dos. Una vez en Alaska, entran en contacto co...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a36106054602fa9f8d839789f4774fe?w=400" />
   </programme>
-  <programme start="20261028131954 +0000" stop="20261028145956 +0000" channel="entextreme">
+  <programme start="20261028131854 +0000" stop="20261028145857 +0000" channel="entextreme">
     <title lang="es">Pokémon Detective Pikachu</title>
     <desc lang="es">Un joven une fuerzas con el detective Pikachu para desentrañar el misterio detrás de la desaparición de su padre. El dúo dinámico descubre una trama tortuosa que representa una amenaza para el mundo Pokémon.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/af5dacafe29a722a6e77905ca1038370?w=400" />
   </programme>
-  <programme start="20261028145956 +0000" stop="20261028165658 +0000" channel="entextreme">
+  <programme start="20261028145857 +0000" stop="20261028165559 +0000" channel="entextreme">
     <title lang="es">Ant-Man and the Wasp: Quantumania</title>
     <desc lang="es">Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c3a73f59f059da026b550d97e46f5548?w=400" />
   </programme>
-  <programme start="20261028165658 +0000" stop="20261028184207 +0000" channel="entextreme">
+  <programme start="20261028165559 +0000" stop="20261028184108 +0000" channel="entextreme">
     <title lang="es">X-Men orígenes: Wolverine</title>
     <desc lang="es">Los primeros años de James Logan, con la rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Arma X, y su experimentación hacia el mutante revestido de metal Wolverine.</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c48c9337425be36e6cc953b5daffa42c?w=400" />
   </programme>
-  <programme start="20261028184207 +0000" stop="20261028200911 +0000" channel="entextreme">
+  <programme start="20261028184108 +0000" stop="20261028200811 +0000" channel="entextreme">
     <title lang="es">Asalto al camión blindado</title>
     <desc lang="es">El crimen perfecto, sin víctimas, sin violencia e indetectable, se tuerce fatalmente en Blindado, un thriller lleno de acción donde todo es posible. Un grupo de guardias de seguridad que escoltan un camión blindado ejecuta un meticuloso plan para robar a la compañía de segurid...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9c572c3d9d658657fc2080468fb8a751?w=400" />
   </programme>
-  <programme start="20261028200911 +0000" stop="20261028215302 +0000" channel="entextreme">
+  <programme start="20261028200811 +0000" stop="20261028215203 +0000" channel="entextreme">
     <title lang="es">Una Noche en el Museo 2: La Batalla del Smithsoniano</title>
     <desc lang="es">El vigilante jurado Larry Daley se ve obligado a decir adiós a todos sus amigos cuando deciden hacer el Museo de Ciencias Naturales más "interactivo" y sustituyen todas las figuras por hologramas. Sus amigos históricos son empaquetados y enviados a los archivos del famoso Smit...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ba2b5f10f1bdfeb2ae265bb4e2fd2292?w=400" />
   </programme>
-  <programme start="20261028215302 +0000" stop="20261029001511 +0000" channel="entextreme">
+  <programme start="20261028215203 +0000" stop="20261029001411 +0000" channel="entextreme">
     <title lang="es">Maze Runner: La cura mortal</title>
     <desc lang="es">El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.</desc>
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ad48ee76de999f0252f5c28d656ad90b?w=400" />
   </programme>
-  <programme start="20261029001511 +0000" stop="20261029015602 +0000" channel="entextreme">
+  <programme start="20261029001411 +0000" stop="20261029015502 +0000" channel="entextreme">
     <title lang="es">El reinado del fuego</title>
     <desc lang="es">En el Londres actual, Quinn, un niño de 12 años, despierta por error a un enorme dragón de su letargo de siglos. Veinte años más tarde, pueden apreciarse las devastadoras consecuencias del paso de la bestia y de sus vástagos en la práctica totalidad del planeta. Los dragones s...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dca517bc704c442c8d2b9fe057843b62?w=400" />
   </programme>
-  <programme start="20261029015602 +0000" stop="20261029034953 +0000" channel="entextreme">
+  <programme start="20261029015502 +0000" stop="20261029034853 +0000" channel="entextreme">
     <title lang="es">Capitán América: El Primer Vengador</title>
     <desc lang="es">Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3600d5e8d8db7214659c880331d149e1?w=400" />
+  </programme>
+  <programme start="20261029034853 +0000" stop="20261029062907 +0000" channel="entextreme">
+    <title lang="es">Perdida</title>
+    <desc lang="es">El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte e...</desc>
+    <category lang="es">Misterio</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0050771398d99f103e70b78a1dfa8fad?w=400" />
   </programme>
   <programme start="20261029062907 +0000" stop="20261029085939 +0000" channel="entextreme">
     <title lang="es">El resplandor</title>
@@ -5038,50 +5344,73 @@
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2108e9fca04c4f779afc25a22a0e33ac?w=400" />
   </programme>
-  <programme start="20261025184638 +0000" stop="20261025203222 +0000" channel="entcomedy">
-    <title lang="es">Los Cazafantasmas 2</title>
-    <desc lang="es">Han pasado cinco años desde que los cazafantasmas entraron por última vez en acción. El doctor Peter Venkman, notable parapsicólogo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisión donde se discuten fenómenos psíquicos. Ray Stan...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/700747555caa82324d743ae1e0f3db2b?w=400" />
+  <programme start="20261101035418 +0000" stop="20261101061351 +0000" channel="entextreme">
+    <title lang="es">La Última Puerta</title>
+    <desc lang="es">Dean Corso (Johnny Depp) es un bibliófilo dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Es, además, un hombre extremadamente minucioso y eficaz en su trabajo. Gracias a su reputación, Boris Balkan, un coleccionista de textos satánicos, le encarga una misió...</desc>
+    <category lang="es">Misterio</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e1f759632ece7f7b2ae74e691b31c19?w=400" />
   </programme>
-  <programme start="20261025203222 +0000" stop="20261025220913 +0000" channel="entcomedy">
-    <title lang="es">Dr. Cable: El desastre llama a la puerta</title>
-    <desc lang="es">Steven Kovacs es un joven que acaba de romper con su novia y que pretende instalar en su casa un servicio de televisión por cable de forma gratuita. Pero Kovacs se encuentra con un instalador un tanto peculiar, que busca incansablemente un amigo con el que compartir su vida. D...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/987a16a200d55cf01e14840db89ff9d0?w=400" />
-  </programme>
-  <programme start="20261025220913 +0000" stop="20261025234015 +0000" channel="entcomedy">
-    <title lang="es">Viaje al centro de la Tierra</title>
-    <desc lang="es">Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la...</desc>
+  <programme start="20261101061351 +0000" stop="20261101085908 +0000" channel="entextreme">
+    <title lang="es">John Wick 4</title>
+    <desc lang="es">John Wick descubre un camino para derrotar a La Mesa. Pero antes de poder ganar su libertad, Wick deberá enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo; y contra las fuerzas que convierten a viejos amigos en enemigos.</desc>
     <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20de87796b5009be6dfffbd9ab5f5980?w=400" />
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8d334b3deb4ab82e758c9cda259da129?w=400" />
   </programme>
-  <programme start="20261025234015 +0000" stop="20261026010003 +0000" channel="entcomedy">
-    <title lang="es">¿Y dónde está el policía? 33⅓: El insulto final</title>
-    <desc lang="es">Frank Drebin sale de su retiro para ayudar al Escuadrón Policial a infiltrarse en una banda de terroristas que planean detonar una bomba en los Premios de la Academia.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/58a2e0b1f42ff76ed43f53530824da11?w=400" />
+  <programme start="20261101085908 +0000" stop="20261101110538 +0000" channel="entextreme">
+    <title lang="es">La leyenda del tesoro perdido</title>
+    <desc lang="es">El buscador de tesoros Benjamin Franklin Gates ha dedicado su vida a buscar el legendario tesoro de Los Caballeros Templarios, del que se decía que era el botín más increíble de todos los tiempos y que estaba escondido en algún lugar de América. Durante siete generaciones, los...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8a3a30916cba812bdc25648956d759b1?w=400" />
   </programme>
-  <programme start="20261026010003 +0000" stop="20261026022917 +0000" channel="entcomedy">
-    <title lang="es">Beetlejuice Beetlejuice</title>
-    <desc lang="es">Después de una tragedia familiar, tres generaciones de la familia Deetz regresan a su hogar en Winter River. La vida de Lydia, que aún sigue atormentada por Beetlejuice, da un vuelco cuando su hija adolescente, Astrid, abre accidentalmente el portal al más allá.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2be89e905535aaaa1f607a4825e9b674?w=400" />
+  <programme start="20261101110538 +0000" stop="20261101130938 +0000" channel="entextreme">
+    <title lang="es">La Nueva Gran Estafa</title>
+    <desc lang="es">Danny Ocean (Clooney), Tess (Roberts) y su banda vuelven a formar equipo. Esta vez el golpe será múltiple: tres espectaculares atracos en tres lugares diferentes, Roma, París y Ámsterdam. En Ámsterdam, el premio es un Rembrandt. Mientras tanto, el propietario del casino de Las...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1dbed1b6c3c7ec0b7a8765ff9529f144?w=400" />
   </programme>
-  <programme start="20261026022917 +0000" stop="20261026025957 +0000" channel="entcomedy">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El huevo</sub-title>
-    <desc lang="es">Después de algunas de las payasadas habituales del Jefe, Pim y Charlie tienen la tarea de ayudar a un científico loco con un "dilema de huevos".</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53755142e7b0613e1c021fc62874cb11?w=400" />
+  <programme start="20261101130938 +0000" stop="20261101150639 +0000" channel="entextreme">
+    <title lang="es">Colateral</title>
+    <desc lang="es">Max es un taxista que emprende un viaje que cambiará todo cuando Vincent le ofrece una suma considerable en efectivo a cambio de hacer varias paradas a lo largo del trayecto. Pero lo que comienza como una velada auspiciosa pronto se convierte en una noche desesperada cuando Ma...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f95adee594fa1f9308f7755288251de1?w=400" />
   </programme>
-  <programme start="20261026025957 +0000" stop="20261026044309 +0000" channel="entcomedy">
-    <title lang="es">Juegos, trampas y dos armas humeantes</title>
-    <desc lang="es">Eddie convence a tres amigos para jugarse sus ahorros en una partida de cartas contra Harry el Hacha, un mafioso del barrio. La partida está amañada, y Eddie no sólo pierde todo el dinero sino que contrae una deuda de medio millón de libras, que debe pagar en el plazo de una s...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/04eec18a0c2ba60ad8ff14d53711cc05?w=400" />
+  <programme start="20261101150639 +0000" stop="20261101165909 +0000" channel="entextreme">
+    <title lang="es">Capitán América: Un nuevo mundo</title>
+    <desc lang="es">Tras reunirse con el recientemente electo presidente de los Estados Unidos Thaddeus Ross, Sam se encuentra en medio de un conflicto internacional. Debe descubrir la razón de un nefasto complot mundial antes de que el verdadero artífice detrás del mismo haga que el mundo entero...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8e0710a0b8cf4a905698bb90ec7ea8c1?w=400" />
   </programme>
-  <programme start="20261026044309 +0000" stop="20261026063829 +0000" channel="entcomedy">
+  <programme start="20261101165909 +0000" stop="20261101184824 +0000" channel="entextreme">
+    <title lang="es">El Super Agente 86</title>
+    <desc lang="es">Maxwell Smart, un espía muy intelectual pero torpe que trabaja para la agencia CONTROL, tiene la tarea de prevenir un ataque terrorista de la agencia espía rival KAOS.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/afd8d782f162814a93011271bc5e58e3?w=400" />
+  </programme>
+  <programme start="20261101184824 +0000" stop="20261101210055 +0000" channel="entextreme">
+    <title lang="es">El Legado Bourne</title>
+    <desc lang="es">Una expansión del universo a partir de las novelas de Robert Ludlum, centrada en un nuevo héroe cuyo protagonismo se ha desencadenado por los acontecimientos de las tres películas anteriores.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1efa7b734f0eb38d2c0e0dcf084b3934?w=400" />
+  </programme>
+  <programme start="20261101210055 +0000" stop="20261101234215 +0000" channel="entextreme">
+    <title lang="es">Transformers: La era de la extinción</title>
+    <desc lang="es">Han pasado 4 años desde la tragedia de Chicago y la humanidad sigue reparando los destrozos, pero tanto los Autobots como los Decepticons han desaparecido de la faz de la Tierra. Ahora el Gobierno de los Estados Unidos está utilizando la tecnología rescatada en el asedio de Ch...</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/68a9a390a2162a3849718fe8ff62965e?w=400" />
+  </programme>
+  <programme start="20261101234215 +0000" stop="20261102011654 +0000" channel="entextreme">
+    <title lang="es">El vidente</title>
+    <desc lang="es">Cris Johnson es un mago de Las Vegas bendecido con un don que también es una maldición: cuenta con la sobrenatural capacidad de saber qué va a ocurrir a continuación. Johnson puede ver el futuro unos cuantos minutos más allá del momento presente, un talento extrasensorial que,...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/974d8c01a4374e0bf0a19f05d47880b8?w=400" />
+  </programme>
+  <programme start="20261102011654 +0000" stop="20261102025957 +0000" channel="entextreme">
+    <title lang="es">Soy Leyenda</title>
+    <desc lang="es">Año 2012. Robert Neville es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en unos mutantes nocturnos llamados “Darkseekers” y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/edbe92e22c67a1536c3a15272483b263?w=400" />
+  </programme>
+  <programme start="20261026044806 +0000" stop="20261026063829 +0000" channel="entcomedy">
     <title lang="es">Pawn Shop Chronicles</title>
     <desc lang="es">An anthology of stories involving meth addicted white supremacists, a man looking for his kidnapped wife and an Elvis impersonator.</desc>
     <category lang="es">Acción</category>
@@ -5331,122 +5660,128 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/65b099cd9c20855d3b30c42ea80ccaa6?w=400" />
   </programme>
-  <programme start="20261028045031 +0000" stop="20261028065620 +0000" channel="entcomedy">
+  <programme start="20261028025958 +0000" stop="20261028045033 +0000" channel="entcomedy">
+    <title lang="es">Guerra sin reglas</title>
+    <desc lang="es">El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0970ed2170335d24bcc2fed747f212bd?w=400" />
+  </programme>
+  <programme start="20261028045033 +0000" stop="20261028065622 +0000" channel="entcomedy">
     <title lang="es">The Birdcage</title>
     <desc lang="es">A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fiancée's right-wing, conservative parents.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d5be884ca96b362d402f5bd3b128e13c?w=400" />
   </programme>
-  <programme start="20261028065620 +0000" stop="20261028085845 +0000" channel="entcomedy">
+  <programme start="20261028065622 +0000" stop="20261028085847 +0000" channel="entcomedy">
     <title lang="es">Deadpool &amp; Wolverine</title>
     <desc lang="es">Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f03ba5fa9ec815e1fc3129f9f4ff9bb4?w=400" />
   </programme>
-  <programme start="20261028085845 +0000" stop="20261028102701 +0000" channel="entcomedy">
+  <programme start="20261028085847 +0000" stop="20261028102703 +0000" channel="entcomedy">
     <title lang="es">Shrek 2</title>
     <desc lang="es">Shrek y Fiona viajan al Reino de Muy Muy Lejano, donde los padres de Fiona son el Rey y la Reina, para celebrar su matrimonio. Cuando llegan, se dan cuenta de que no son tan bienvenidos como pensaban.</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2a19dfe343678f645e00857447385f0e?w=400" />
   </programme>
-  <programme start="20261028102701 +0000" stop="20261028115957 +0000" channel="entcomedy">
+  <programme start="20261028102703 +0000" stop="20261028115959 +0000" channel="entcomedy">
     <title lang="es">Los pingüinos de papá</title>
     <desc lang="es">Mr. Popper (Jim Carrey) es un poderoso empresario que se queda un tanto descolocado cuando recibe como herencia nada menos que... ¡6 pingüinos! Obviamente, su cuidado no es una tarea sencilla, circunstancia que provoca ciertos problemas tanto en el trabajo como en el hogar de...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/84d7845015d82cc7ab1a9015e84df2f4?w=400" />
   </programme>
-  <programme start="20261028115957 +0000" stop="20261028122859 +0000" channel="entcomedy">
+  <programme start="20261028115959 +0000" stop="20261028122907 +0000" channel="entcomedy">
     <title lang="es">Dinosaurios</title>
     <sub-title lang="es">Lo Que Quiso Decir Casanovas</sub-title>
     <desc lang="es">Mónica consigue un trabajo derribando árboles para Wesayso, pero es despedida después de rechazar los avances del nuevo compañero de trabajo Harris el "Sexual", popular por su doble sentido. Decidida a no dejar que los hombres de la fuerza laboral la detengan, lleva el asunto...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5149d8c2c8097c7d067420a3581aebeb?w=400" />
   </programme>
-  <programme start="20261028122859 +0000" stop="20261028125958 +0000" channel="entcomedy">
+  <programme start="20261028122907 +0000" stop="20261028125909 +0000" channel="entcomedy">
     <title lang="es">La Niñera</title>
     <sub-title lang="es">La maestra de gimnasia</sub-title>
     <desc lang="es">Maggie tiene una profesora de gimnasia nueva: la misma dura profesora de gimnasia sargento que aterrorizó a Fran en la escuela secundaria. Así Fran pasa al rescate y desafía a la maestra de Maggie. La profesora acepta darle una segunda oportunidad a Maggie para pasar su materi...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/37790cc8ca76d94a791183414f9065bd?w=400" />
   </programme>
-  <programme start="20261028125958 +0000" stop="20261028132955 +0000" channel="entcomedy">
+  <programme start="20261028125909 +0000" stop="20261028132906 +0000" channel="entcomedy">
     <title lang="es">El Chapulín Colorado</title>
     <sub-title lang="es">El hombre invisible es tan antipático que nadie lo puede ver</sub-title>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fcde2dc4c5eb36a354de504533cdfd43?w=400" />
   </programme>
-  <programme start="20261028132955 +0000" stop="20261028135941 +0000" channel="entcomedy">
+  <programme start="20261028132906 +0000" stop="20261028135948 +0000" channel="entcomedy">
     <title lang="es">ALF</title>
     <sub-title lang="es">Cosa salvaje</sub-title>
     <desc lang="es">ALF enters a phase where his erratic behavior and hunger for cats will, as he says, make him into a lunatic. He wants Willie to build a cage where he can be locked in until the phase is over. But ALF has the great ability to deceive.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ed68bcffb673ac3587f0a02addb67f03?w=400" />
   </programme>
-  <programme start="20261028135941 +0000" stop="20261028142952 +0000" channel="entcomedy">
+  <programme start="20261028135948 +0000" stop="20261028142955 +0000" channel="entcomedy">
     <title lang="es">Malcolm el de en Medio</title>
     <sub-title lang="es">Parque Acuático</sub-title>
     <desc lang="es">La familia se va al parque acuático excepto Dewey por una infeccion en oidos, por eso tiene que quedarse con una niñera extraña empeñada en estar en silencio. Malcolm y Reese se pelean durante todo el dia mientras Lois y Hal quieren un momento para disfrutar y ellos no los dej...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c95a1dcbcdf8867e809b942b41636df4?w=400" />
   </programme>
-  <programme start="20261028142952 +0000" stop="20261028145936 +0000" channel="entcomedy">
+  <programme start="20261028142955 +0000" stop="20261028145938 +0000" channel="entcomedy">
     <title lang="es">Friends</title>
     <sub-title lang="es">Segunda de dos partes</sub-title>
     <desc lang="es">Rachel se lesiona el tobillo, pero, como no tiene seguro, convence a Monica de intercambiar identidades para usar su cobertura médica.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b8ad68a20c41588ca1bdbbb9da862d3a?w=400" />
   </programme>
-  <programme start="20261028145936 +0000" stop="20261028152944 +0000" channel="entcomedy">
+  <programme start="20261028145938 +0000" stop="20261028152946 +0000" channel="entcomedy">
     <title lang="es">El Chavo</title>
     <sub-title lang="es">La pelota / Las coplas rancheras / Las preguntas / El tendedero</sub-title>
     <desc lang="es">El Chavo le pregunta a Don Ramón el motivo por el cual botan las pelotas. / Rubén y Chespirito se disputan el amor de la Toña a ritmo de copla ranchera. / Los niños estudian para la clase de historia. / Don Ramón, Doña Florinda y Dõna Clotilde pelean por el tendedero de la vec...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/efe656f926db9ac07bd1501be0e96805?w=400" />
   </programme>
-  <programme start="20261028152944 +0000" stop="20261028155903 +0000" channel="entcomedy">
+  <programme start="20261028152946 +0000" stop="20261028155935 +0000" channel="entcomedy">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">La sociedad de los golfistas muertos</sub-title>
     <desc lang="es">Homero inscribe a Bart en un torneo de minigolf para que gane al hijo menor de Ned Flanders, Todd. Homero está enfadado con Ned porque cree que presume de lo que tiene y los dos hacen una apuesta: el padre del niño que no gane cortará el cesped del otro con un vestido de su mu...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2ddb38bd29dfcb1856d99b49ad76ab88?w=400" />
   </programme>
-  <programme start="20261028155903 +0000" stop="20261028182157 +0000" channel="entcomedy">
+  <programme start="20261028155935 +0000" stop="20261028182229 +0000" channel="entcomedy">
     <title lang="es">Mary Poppins</title>
     <desc lang="es">Una familia inglesa formada por un padre banquero, una madre sufraguista y dos niños rebeldes -que pretenden llamar la atención de su padre haciendo la vida imposible a todas las niñeras-, se verá alterada con la llegada de Mary Poppins, una institutriz muy especial, que desci...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/549fda48b94c0061fb48f14a14f8a088?w=400" />
   </programme>
-  <programme start="20261028182157 +0000" stop="20261028203554 +0000" channel="entcomedy">
+  <programme start="20261028182229 +0000" stop="20261028203626 +0000" channel="entcomedy">
     <title lang="es">Mickey 17</title>
     <desc lang="es">Mickey Barnes se encuentra en la extraordinaria circunstancia de trabajar para un empleador que exige el compromiso máximo con el trabajo… morir, para ganarse la vida.</desc>
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/48d0257c781343a0ad20983ecd9e7c1a?w=400" />
   </programme>
-  <programme start="20261028203554 +0000" stop="20261028221237 +0000" channel="entcomedy">
+  <programme start="20261028203626 +0000" stop="20261028221309 +0000" channel="entcomedy">
     <title lang="es">Grandes Héroes</title>
     <desc lang="es">Se desarrolla un vínculo especial entre el robot inflable de gran tamaño Baymax y el prodigio Hiro Hamada, quienes se unen a un grupo de amigos para formar una banda de héroes de alta tecnología.</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/86bcfa73a4d2632240279596b75c9e55?w=400" />
   </programme>
-  <programme start="20261028221237 +0000" stop="20261028234005 +0000" channel="entcomedy">
+  <programme start="20261028221309 +0000" stop="20261028234037 +0000" channel="entcomedy">
     <title lang="es">Monster house: La casa de los sustos</title>
     <desc lang="es">D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker,...</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/177437625a0c5fdc179c82dff0bb6a02?w=400" />
   </programme>
-  <programme start="20261028234005 +0000" stop="20261029011235 +0000" channel="entcomedy">
+  <programme start="20261028234037 +0000" stop="20261029011124 +0000" channel="entcomedy">
     <title lang="es">Up: Una Aventura de Altura</title>
     <desc lang="es">El vendedor de globos de 78 años, Carl Fredricksen, lleva a cabo el sueño de su vida al enganchar miles de globos a su casa y salir volando rumbo a Sudamérica. Sin embargo, descubre más tarde que no va solo, ya que también se ha embarcado en el viaje Russell, un optimista expl...</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ccc20a40f7881c34f9785e65eeae6cef?w=400" />
   </programme>
-  <programme start="20261029011235 +0000" stop="20261029022957 +0000" channel="entcomedy">
+  <programme start="20261029011124 +0000" stop="20261029022907 +0000" channel="entcomedy">
     <title lang="es">Toy Story</title>
     <desc lang="es">Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/555aeedbb50c49350e903f45cc9bd6fb?w=400" />
   </programme>
-  <programme start="20261029022957 +0000" stop="20261029025957 +0000" channel="entcomedy">
+  <programme start="20261029022907 +0000" stop="20261029025957 +0000" channel="entcomedy">
     <title lang="es">Smiling Friends</title>
     <sub-title lang="es">Pim se pone verde</sub-title>
     <desc lang="es">Después de comerse un misterioso artefacto encontrado en un antiguo cementerio, Pim repentina y misteriosamente se vuelve verde brillante.</desc>
@@ -5830,5 +6165,127 @@
     <desc lang="es">Al parecer, hay un personaje llamado "Hombre Topo" o algo así... Bueeeeeno, está bien. Allan y Glep se unen para emprender su propia aventura.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/072083cb81d550ac68ecde3b3484d6a4?w=400" />
+  </programme>
+  <programme start="20261101045048 +0000" stop="20261101062824 +0000" channel="entcomedy">
+    <title lang="es">El Doctor Erótico</title>
+    <desc lang="es">El cirujano Michael Hfuhruhurr es una eminencia en neurología, especialmente tras inventar un nuevo método quirúrgico para operaciones cerebrales. Cuando un buen día va en su coche dando una entrevista, atropella accidentalmente a la viperina Dolores, una atractiva mujer ambic...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/71e76401ea7b92c35d704c6a603c4a3e?w=400" />
+  </programme>
+  <programme start="20261101062824 +0000" stop="20261101085950 +0000" channel="entcomedy">
+    <title lang="es">Tiempos Violentos</title>
+    <desc lang="es">Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando lleg...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/463bdfc998129aefb505835d4ef3ab33?w=400" />
+  </programme>
+  <programme start="20261101085950 +0000" stop="20261101103446 +0000" channel="entcomedy">
+    <title lang="es">Anaconda</title>
+    <desc lang="es">Doug y Griff, amigos de toda la vida, atraviesan una crisis de mediana edad y deciden realizar el remake de su película favorita de su juventud: Anaconda (1997). Viajan a la selva amazónica para filmar su versión, pero pronto descubren que una anaconda real los acecha, convirt...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f8fadb8adc435b755b46a2d94a5e65d1?w=400" />
+  </programme>
+  <programme start="20261101103446 +0000" stop="20261101115844 +0000" channel="entcomedy">
+    <title lang="es">¿Y dónde está el policía? 2 1/2: El aroma del miedo</title>
+    <desc lang="es">El teniente Frank Drebin descubre que el nuevo novio de su exnovia está implicado en un complot para secuestrar a un científico que aboga por la energía solar.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cba2a4ca7d54574bcfa3e0e726b02234?w=400" />
+  </programme>
+  <programme start="20261101115844 +0000" stop="20261101122958 +0000" channel="entcomedy">
+    <title lang="es">Dinosaurios</title>
+    <sub-title lang="es">Una nueva hierva</sub-title>
+    <desc lang="es">Toda la familia aprende una importante lección cuando Robbie trae a casa una misteriosa planta feliz que hace que todo el mundo se sienta bien. Cuando todo se descontrola, Fran debe poner finalmente los pies sobre la tierra.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b912a5cfbf624c04d3dee67e31dd5627?w=400" />
+  </programme>
+  <programme start="20261101122958 +0000" stop="20261101125935 +0000" channel="entcomedy">
+    <title lang="es">La Niñera</title>
+    <sub-title lang="es">Niñera al cuadrado</sub-title>
+    <desc lang="es">Todo el mundo está asombrado cuando, Fran convence a Maxwell que debe socializar más, Maxwell en realidad llega a casa con una cita: una mujer llamada Leslie que es la doble de Fran!. Mientras tanto, Brighton tiene preocupaciones acerca de "chicas" en la escuela.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3411400cb44a29857f3112b2c91c170c?w=400" />
+  </programme>
+  <programme start="20261101125935 +0000" stop="20261101132931 +0000" channel="entcomedy">
+    <title lang="es">El Chapulín Colorado</title>
+    <sub-title lang="es">Búsqueda del enfermo</sub-title>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/94203cd185cf56633b38e52c838201ef?w=400" />
+  </programme>
+  <programme start="20261101132931 +0000" stop="20261101135956 +0000" channel="entcomedy">
+    <title lang="es">ALF</title>
+    <sub-title lang="es">El apostador</sub-title>
+    <desc lang="es">ALF discovers the alluring world of horse racing thanks to Kate's mom who bets on them. When the concept of a bookie is explained to ALF, he gets the bright idea of getting the Tanners some money through betting.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0526c00958de609fced6b639528b80e9?w=400" />
+  </programme>
+  <programme start="20261101135956 +0000" stop="20261101142945 +0000" channel="entcomedy">
+    <title lang="es">Malcolm el de en Medio</title>
+    <sub-title lang="es">Vergüenza</sub-title>
+    <desc lang="es">Malcolm golpea a un niño de 7 años, la culpa lo remuerde por haber hecho eso sin saber que era tan solo un niño, busca varias formas para enmendar su culpa... Mientras tanto Hal tala un arbol de su patio y el vecindario se pone furioso por eso, ya que ese arbol cubría su casa...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a6ad77352a7e6660231996d62002cf06?w=400" />
+  </programme>
+  <programme start="20261101142945 +0000" stop="20261101145950 +0000" channel="entcomedy">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">La falsa Mónica</sub-title>
+    <desc lang="es">Tras sufrir el robo de su tarjeta de crédito, Monica decide atrapar al ladrón.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/808f96be204607a38c420689d78a3334?w=400" />
+  </programme>
+  <programme start="20261101145950 +0000" stop="20261101152935 +0000" channel="entcomedy">
+    <title lang="es">El Chavo</title>
+    <sub-title lang="es">El jefe / El lechero</sub-title>
+    <desc lang="es">El Peterete le dice al Chompiras que otro bandido quiere disputarle el mando del grupo. / Don Ramón comienza a trabajar como lechero, pero el Chavo y la Chilindrina resuelven agarrar unas botellas para alimentar a unos perritos recién nacidos.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/16ba0fe0508bf2d1b9fdb73c84d985b4?w=400" />
+  </programme>
+  <programme start="20261101152935 +0000" stop="20261101155914 +0000" channel="entcomedy">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Aviso de muerte</sub-title>
+    <desc lang="es">En el restaurante japonés "El Sumo Feliz", Homero es posiblemente contaminado con pez globo, una variedad de pescado que si es mal cortado se vuelve venenoso. En el hospital, el Dr. Hibbert le da 24 horas de vida. Homero hace una lista con todo lo que quiere hacer durante su ú...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/456c2d183d46a04b8218ad0709141cfb?w=400" />
+  </programme>
+  <programme start="20261101155914 +0000" stop="20261101181906 +0000" channel="entcomedy">
+    <title lang="es">Hook: El Regreso del Capitán Garfio</title>
+    <desc lang="es">Peter Pan es un prestigioso abogado y tiene una encantadora familia, pero ha perdido el contacto con algo maravilloso: su infancia. Sin embargo, cuando sus hijos son secuestrados por su antiguo enemigo, el Capitán Garfio, y llevados al País de Nunca Jamás, también él tendrá qu...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c72da7577671734f6cbdddc834460742?w=400" />
+  </programme>
+  <programme start="20261101181906 +0000" stop="20261101201240 +0000" channel="entcomedy">
+    <title lang="es">Los Goonies</title>
+    <desc lang="es">Mikey es un muchacho de 13 años que junto con su hermano mayor y sus amigos, que se hacen llamar "Los Goonies", deciden subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí encuentran el mapa de un tesoro.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5105f2a6fefd89ae1fa3d1ad208a4e3f?w=400" />
+  </programme>
+  <programme start="20261101201240 +0000" stop="20261101215143 +0000" channel="entcomedy">
+    <title lang="es">Tío Buck al Rescate</title>
+    <desc lang="es">El matrimonio Russell y sus tres hijos han dejado su pequeño pueblo para vivir en las afueras de una gran ciudad. Cuando el abuelo sufre un infarto, los Russell tienen que volver al pueblo a toda velocidad, pero se les plantea un problema: ¿Con quién dejan a los chicos? Para s...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f614de94adc105924f9fac043ebe8108?w=400" />
+  </programme>
+  <programme start="20261101215143 +0000" stop="20261101233330 +0000" channel="entcomedy">
+    <title lang="es">Zootopia 2</title>
+    <desc lang="es">Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8521b333485c0a9a2e9f893f1e67edcb?w=400" />
+  </programme>
+  <programme start="20261101233330 +0000" stop="20261102010250 +0000" channel="entcomedy">
+    <title lang="es">Drácula: Muerto pero feliz</title>
+    <desc lang="es">Drácula abandona su viejo castillo de Transilvania y se traslada a Londres en busca de sangre fresca. Su apetito se despertará cuando conozca a la prometida y a la hermana de un notario.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ebb0185b6c5fbf2e4ba81a59c7c32370?w=400" />
+  </programme>
+  <programme start="20261102010250 +0000" stop="20261102022952 +0000" channel="entcomedy">
+    <title lang="es">Monkeybone</title>
+    <desc lang="es">La vida no le podía ir mejor al dibujante de cómics Stu Miley: ha creado una tira cómica de grán éxito protagonizada por Monkeybone, un mono deslenguado y tunante con una inclinación casi enfermiza por las puyas inteligentes y las payasadas subidas de tono. Pero la noche en qu...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e965bdb250efa1ba432eb0f974ce755c?w=400" />
+  </programme>
+  <programme start="20261102022952 +0000" stop="20261102025959 +0000" channel="entcomedy">
+    <title lang="es">Smiling Friends</title>
+    <sub-title lang="es">La maldición de la bruja verde de Halloween</sub-title>
+    <desc lang="es">Los Smiling Friends reciben la maldición de una bruja *traga saliva*... ¡Qué miedito!</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b1bdd53c8d822cd70a43c8be0db2c36d?w=400" />
   </programme>
 </tv>
