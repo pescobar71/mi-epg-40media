@@ -33,18 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261030044859 +0000" stop="20261030064718 +0000" channel="entchannel">
-    <title lang="es">Mad Max: Furia en el camino</title>
-    <desc lang="es">Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciud...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/796d7449a3bf0e60ad594f1629534d14?w=400" />
-  </programme>
-  <programme start="20261030064718 +0000" stop="20261030085851 +0000" channel="entchannel">
-    <title lang="es">Drácula</title>
-    <desc lang="es">Tras la muerte de su esposa, un príncipe del siglo XV renuncia a Dios y se convierte en vampiro. Siglos más tarde, en el Londres del siglo XIX, ve a una mujer parecida a su difunta esposa y la persigue, sellando así su propio destino.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1b6c5f47466dfeab95e8e708515ad14b?w=400" />
-  </programme>
   <programme start="20261030085851 +0000" stop="20261030104530 +0000" channel="entchannel">
     <title lang="es">Los Pitufos en la aldea perdida</title>
     <desc lang="es">A Pitufina le parece que todos los demás habitantes de la aldea tienen un propósito: Papá Pitufo, Pitufo Panadero, incluso Pitufo Gruñón; salvo ella. Así que, ¿qué puede hacer la única chica de la aldea? ¡Pues partir en busca del suyo, naturalmente! Cuando se cruza por casuali...</desc>
@@ -715,24 +703,6 @@
     <desc lang="es">Es el décimo cumpleaños de Bart. Recibe un micrófono de radio, con el que empieza a hacer bromas a todo el mundo, incluyendo hacerse pasar por un tal Timmy O Toole, quien se cayó en un pozo.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c2cb504e084035bf8dbd28f8983eadd?w=400" />
-  </programme>
-  <programme start="20261030043228 +0000" stop="20261030060154 +0000" channel="entfamily">
-    <title lang="es">Valiente</title>
-    <desc lang="es">Decidida a labrarse su propio camino en la vida, la princesa Mérida desafía una costumbre que siembra el caos en su reino. Al concedérsele un deseo, Mérida deberá confiar en su valentía y en su destreza con el arco para romper una bestial maldición.</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0782b1edb45f09e50b89f666793511ed?w=400" />
-  </programme>
-  <programme start="20261030060154 +0000" stop="20261030080410 +0000" channel="entfamily">
-    <title lang="es">La leyenda del tesoro perdido 2: El libro de los secretos</title>
-    <desc lang="es">En esta segunda parte, el buscador de tesoros Ben Gates se ve de nuevo envuelto en una increíble aventura en la que se relacionan capítulos desconocidos de la historia con tesoros ocultos. Cuando una página del diario de John Wilkes Booth, el asesino de Abraham Lincoln, sale a...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c00f82009c1a9bb357026c79ef81bbec?w=400" />
-  </programme>
-  <programme start="20261030080410 +0000" stop="20261030094241 +0000" channel="entfamily">
-    <title lang="es">Navidad, loca Navidad</title>
-    <desc lang="es">La vida de lujos a la que los malacostumbró se esfuma por Navidad, y ahora un DJ de radio y sus cuatro hijos deberán arroparse hasta donde llegue la cobija y cooperar.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/03663cce3a728805e30182effccff08b?w=400" />
   </programme>
   <programme start="20261030094241 +0000" stop="20261030115754 +0000" channel="entfamily">
     <title lang="es">Mujercitas</title>
@@ -2627,24 +2597,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261030043937 +0000" stop="20261030063606 +0000" channel="entmovies">
-    <title lang="es">Pánico y locura en Las Vegas</title>
-    <desc lang="es">Raoul Duke y su abogado, el Dr. Gonzo, conducen un descapotable rojo a través del desierto de Mojave hasta Las Vegas con una maleta llena de drogas para cubrir una carrera de motos. A medida que su consumo de drogas aumenta a un ritmo alarmante, el dúo drogado destroza su habi...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2170309dd2f7a62cf5e1810c204f7763?w=400" />
-  </programme>
-  <programme start="20261030063606 +0000" stop="20261030085945 +0000" channel="entmovies">
-    <title lang="es">El Mediador</title>
-    <desc lang="es">Víctima de una compleja conspiración, Danny Roman, un experto negociador de la policía especializado en secuestros, se ve obligado a tomar rehenes con el fin de probar su inocencia. Además, con la ayuda de un prestigioso colega, intentará descubrir quién está detrás de la tram...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3b8723b3836b1c7752153b8a45fd639f?w=400" />
-  </programme>
-  <programme start="20261030085945 +0000" stop="20261030103310 +0000" channel="entmovies">
-    <title lang="es">Cabezas Huecas</title>
-    <desc lang="es">Los Lone Rangers son una banda de Rock de Los Ángeles que lucha por abrirse camino y que lo tiene todo: el sonido, el look y la actitud. Seguros de su talento, lo único que necesitan es alguien que les escuche y por eso secuestran una emisora de radio.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fb4c75df13e66180045a0091a2b7c89a?w=400" />
-  </programme>
   <programme start="20261030103310 +0000" stop="20261030121612 +0000" channel="entmovies">
     <title lang="es">Cars 2</title>
     <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
@@ -3148,40 +3100,6 @@
     <desc lang="es">Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los...</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9725b3fa86bbf165f0c9b2311e3e3e8b?w=400" />
-  </programme>
-  <programme start="20261030045851 +0000" stop="20261030055854 +0000" channel="entdrama">
-    <title lang="es">Big Little Lies</title>
-    <sub-title lang="es">Episodio 2</sub-title>
-    <desc lang="es">Jane deflects questions from Ziggy, Madeline is outraged over a slight from Renata, and Celeste suggests she and Perry see a counselor.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1c82143fb4013913e1caa4c1d6704951?w=400" />
-  </programme>
-  <programme start="20261030055854 +0000" stop="20261030065900 +0000" channel="entdrama">
-    <title lang="es">Black Bird: Confesiones de un asesino</title>
-    <sub-title lang="es">Aquí vamos, padre Abraham</sub-title>
-    <desc lang="es">La agente McCauley prepara a Jimmy para la misión. El detective Miller interroga a Larry sobre las mujeres desaparecidas, luego, le hace una prueba de polígrafo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f775eee9e98e1e4dad76b9d70951770c?w=400" />
-  </programme>
-  <programme start="20261030065900 +0000" stop="20261030075705 +0000" channel="entdrama">
-    <title lang="es">Legion</title>
-    <sub-title lang="es">Capítulo 10</sub-title>
-    <desc lang="es">Oliver y Lenny causaron estragos en la División 3. David va más allá del espacio-tiempo para preguntarle a Syd sobre el futuro y decide hacer un trato con Farouk.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/59298e666abda6b7280eb5accd727ce3?w=400" />
-  </programme>
-  <programme start="20261030075705 +0000" stop="20261030084709 +0000" channel="entdrama">
-    <title lang="es">RIPLEY</title>
-    <sub-title lang="es">II: SIETE OBRAS DE MISERICORDIA</sub-title>
-    <desc lang="es">En la costa de Amalfi, en Italia, Tom se instala en la residencia de Dickie, donde despierta sospechas de su novia Marge.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e36873f2c295c09ffe626e4f8a6e600d?w=400" />
-  </programme>
-  <programme start="20261030084709 +0000" stop="20261030105225 +0000" channel="entdrama">
-    <title lang="es">Moulin Rouge, amor en rojo</title>
-    <desc lang="es">Ambientada en el París bohemio de 1900. Satine, la estrella más rutilante del Moulin Rouge, encandila a toda la ciudad con sus bailes llenos de sensualidad y su enorme belleza. Atrapada entre el amor de dos hombres, un joven escritor y un duque, lucha por hacer realidad su sue...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2384dd75a248bdbb030f310ed5d82117?w=400" />
   </programme>
   <programme start="20261030105225 +0000" stop="20261030122222 +0000" channel="entdrama">
     <title lang="es">Mi novia Polly</title>
@@ -3794,24 +3712,6 @@
     <desc lang="es">Mark Sheridan, acusado del asesinato de dos agentes secretos, es arrestado y trasladado en avión a una penitenciaría. Durante el viaje, debido a una revuelta, el avión sufre un accidente que le permite escapar. Comienza entonces una implacable persecución por parte del agente...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ffb5bbfdd56f6969193ef8d47ea86f3?w=400" />
-  </programme>
-  <programme start="20261030045529 +0000" stop="20261030065242 +0000" channel="entclassic">
-    <title lang="es">La Guerra de los Roses</title>
-    <desc lang="es">La desintegración de un matrimonio perfecto, tan modélico que resultan insultantes sus vidas tan cómodas como vacías, se produce cuando la esposa, madre y ama de casa perfecta, con una eficaz y oronda sirvienta alemana que completa el cuadro familiar, cae en la cuenta de que d...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a3c3af3e6736cf2a2788b484d886087?w=400" />
-  </programme>
-  <programme start="20261030065242 +0000" stop="20261030085905 +0000" channel="entclassic">
-    <title lang="es">El Cabo del Miedo</title>
-    <desc lang="es">Sam Bowden es un abogado corporativo de un pueblo pequeño. Max Cady es un violador psicótico tatuado, fumador de cigarros, que cita la Biblia. ¿Qué tienen en común? Hace catorce años, Sam era un defensor público asignado al juicio por violación de Max Cady, y cometió un grave...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/311508a55fdd68eed7e6525a036685a8?w=400" />
-  </programme>
-  <programme start="20261030085905 +0000" stop="20261030102555 +0000" channel="entclassic">
-    <title lang="es">Ace Ventura: Detective de Mascotas</title>
-    <desc lang="es">El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d917373ec98030526e48831109673036?w=400" />
   </programme>
   <programme start="20261030102555 +0000" stop="20261030115845 +0000" channel="entclassic">
     <title lang="es">La conquista del planeta de los simios</title>
@@ -4541,24 +4441,6 @@
     <category lang="es">Western</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f1e4989c7e89281b1812b12255e4580c?w=400" />
   </programme>
-  <programme start="20261030044445 +0000" stop="20261030063242 +0000" channel="entlife">
-    <title lang="es">Juegos, trampas y dos armas humeantes</title>
-    <desc lang="es">Eddie convence a tres amigos para jugarse sus ahorros en una partida de cartas contra Harry el Hacha, un mafioso del barrio. La partida está amañada, y Eddie no sólo pierde todo el dinero sino que contrae una deuda de medio millón de libras, que debe pagar en el plazo de una s...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/04eec18a0c2ba60ad8ff14d53711cc05?w=400" />
-  </programme>
-  <programme start="20261030063242 +0000" stop="20261030085832 +0000" channel="entlife">
-    <title lang="es">Los Infiltrados</title>
-    <desc lang="es">Dos hombres, uno un policía encubierto y el otro un criminal infiltrado en la policía. Mientras intentan desenmascararse, se ven atrapados en una peligrosa red de engaños y traiciones en Boston. Ambos luchan por su supervivencia mientras intentan descubrir la identidad del otro.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c9748ebf0573774cf5c5adec24d03c60?w=400" />
-  </programme>
-  <programme start="20261030085832 +0000" stop="20261030103516 +0000" channel="entlife">
-    <title lang="es">Luna de miel para tres</title>
-    <desc lang="es">Betsy es una maestra de escuela decidida a casarse con Jack, un investigador privado, cuya situación económica es bastante precaria. Durante un viaje a Las Vegas, un excéntrico millonario se encapricha de ella y le hace a la pareja una tentadora oferta.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b714a19b6ec40da7b857cb2b969230c8?w=400" />
-  </programme>
   <programme start="20261030103516 +0000" stop="20261030125848 +0000" channel="entlife">
     <title lang="es">Caballo de Guerra</title>
     <desc lang="es">Nos cuenta la extraordinaria historia de amistad que surge entre el joven Albert y un caballo llamado Joey, separándose sus caminos a causa de la Primera Guerra Mundial. El padre de Albert vende a Joey a la caballería del ejército británico para luchar en el frente. Joey será...</desc>
@@ -5144,30 +5026,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f5e552c2eb18c393047b4d326105e38?w=400" />
   </programme>
-  <programme start="20261030035828 +0000" stop="20261030053340 +0000" channel="entextreme">
-    <title lang="es">12 Horas para vivir</title>
-    <desc lang="es">Will Montgomery (Nicolas Cage) es un veterano ladrón de bancos que, tras ser traicionado en un atraco, es condenado a 8 años de prisión. Cuando sale de la cárcel dedide dejar atrás su pasado criminal e intentar reconstruir su relación con su hija Allison. Pero, inesperadamente...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ce551b73aaa400bc7d80c36361586f9?w=400" />
-  </programme>
-  <programme start="20261030053340 +0000" stop="20261030072300 +0000" channel="entextreme">
-    <title lang="es">Death Race: La carrera de la muerte</title>
-    <desc lang="es">Isla Terminal, Nueva York: 2020. El hacinamiento en el sistema penitenciario de los Estados Unidos ha llegado a un punto de quiebre. Las prisiones han sido entregadas a la corporación monolítica Weyland, la cual ve a las cárceles llenas de delincuentes como una oportunidad par...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d950914923e3b8cda858ef2d4fb7a965?w=400" />
-  </programme>
-  <programme start="20261030072300 +0000" stop="20261030085756 +0000" channel="entextreme">
-    <title lang="es">Terror a bordo</title>
-    <desc lang="es">John y Rae deciden hacer un viaje en su pequeño yate de vela para intentar olvidar la muerte de su hijo en un accidente. Pero la travesía se ve interrumpida cuando divisan un bote neumático que escapa de una goleta. El único ocupante del bote, un asustado joven, les explica qu...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aa084be4987bd98c6d12bc982f0a7bc0?w=400" />
-  </programme>
-  <programme start="20261030085756 +0000" stop="20261030104507 +0000" channel="entextreme">
-    <title lang="es">El Sexto Sentido</title>
-    <desc lang="es">El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamie...</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fc4d4c68a15cd70374b791e9bee3054a?w=400" />
-  </programme>
   <programme start="20261030104507 +0000" stop="20261030124905 +0000" channel="entextreme">
     <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
     <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma, liderados por su antiguo némesis, el malvado Capitán Salazar, escapan del Triángulo de las Bermudas. La únic...</desc>
@@ -5641,24 +5499,6 @@
     <desc lang="es">Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemen...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0587fdc63113a3e864915b08ff2d5ac2?w=400" />
-  </programme>
-  <programme start="20261030043242 +0000" stop="20261030062833 +0000" channel="entcomedy">
-    <title lang="es">Trainspotting 2</title>
-    <desc lang="es">Han pasado 20 años desde que Mark Renton abandonara Escocia, y la heroína. Ahora, Renton vuelve a su Edimburgo natal con el objetivo de rehacer su vida y reencontrarse con sus amigos de toda la vida: David "Spud" Murphy, y Simon "Sick Boy" Williamson; al mismo tiempo que Franc...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/841f6d66ba6aea56937c253c327b2fae?w=400" />
-  </programme>
-  <programme start="20261030062833 +0000" stop="20261030085957 +0000" channel="entcomedy">
-    <title lang="es">Tiempos Violentos</title>
-    <desc lang="es">Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando lleg...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/463bdfc998129aefb505835d4ef3ab33?w=400" />
-  </programme>
-  <programme start="20261030085957 +0000" stop="20261030104039 +0000" channel="entcomedy">
-    <title lang="es">Moana: Un mar de aventuras</title>
-    <desc lang="es">En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2a3014c13af767a53c9910d3975d99bd?w=400" />
   </programme>
   <programme start="20261030104039 +0000" stop="20261030115925 +0000" channel="entcomedy">
     <title lang="es">El Grinch</title>
