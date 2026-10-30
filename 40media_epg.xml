@@ -33,24 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261030085851 +0000" stop="20261030104530 +0000" channel="entchannel">
-    <title lang="es">Los Pitufos en la aldea perdida</title>
-    <desc lang="es">A Pitufina le parece que todos los demás habitantes de la aldea tienen un propósito: Papá Pitufo, Pitufo Panadero, incluso Pitufo Gruñón; salvo ella. Así que, ¿qué puede hacer la única chica de la aldea? ¡Pues partir en busca del suyo, naturalmente! Cuando se cruza por casuali...</desc>
-    <category lang="es">Familia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/864e327c54bb5c2c1b269340451de8a2?w=400" />
-  </programme>
-  <programme start="20261030104530 +0000" stop="20261030123305 +0000" channel="entchannel">
-    <title lang="es">¿... Y dónde están las rubias?</title>
-    <desc lang="es">Dos hermanos y agentes del FBI, Kevin y Marcus, han desempeñado y fracasado torpemente en casos que se les han asignado y su jefe enojado les advierte que la próxima vez que hagan mal cualquier misión serán despedidos. Ambos se disponen a esforzarse por tratar de no volver a f...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e3180366eddb600ed44ba8230f948c57?w=400" />
-  </programme>
-  <programme start="20261030123305 +0000" stop="20261030143143 +0000" channel="entchannel">
-    <title lang="es">Thunderbolts*</title>
-    <desc lang="es">Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cfc4a54b020dea6a47af90e474c7b583?w=400" />
-  </programme>
   <programme start="20261030143143 +0000" stop="20261030160431 +0000" channel="entchannel">
     <title lang="es">Dentro o fuera</title>
     <desc lang="es">Un maestro del medio oeste estadounidense se cuestiona su sexualidad cuando un ex alumno hace un comentario sobre él en los premios de la Academia.</desc>
@@ -703,59 +685,6 @@
     <desc lang="es">Es el décimo cumpleaños de Bart. Recibe un micrófono de radio, con el que empieza a hacer bromas a todo el mundo, incluyendo hacerse pasar por un tal Timmy O Toole, quien se cayó en un pozo.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c2cb504e084035bf8dbd28f8983eadd?w=400" />
-  </programme>
-  <programme start="20261030094241 +0000" stop="20261030115754 +0000" channel="entfamily">
-    <title lang="es">Mujercitas</title>
-    <desc lang="es">Amy, Jo, Beth y Meg son cuatro hermanas adolescentes que se embarcan en unas vacaciones con su madre, pero sin su padre, un evangelista itinerante. A medida que atraviesan el estado de Massachusetts, sumido en plena Guerra Civil, descubren el amor y la importancia de los lazos...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/64aa7a2cf58231268d96a75ae4dcd15a?w=400" />
-  </programme>
-  <programme start="20261030115754 +0000" stop="20261030122758 +0000" channel="entfamily">
-    <title lang="es">Henry Monstruito</title>
-    <sub-title lang="es">Estornudos / El partido de rugibol</sub-title>
-    <desc lang="es">Henry is taking care of his friend's monsterpet, Sneezo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/faead74dab08da4a23f7f96922e45c99?w=400" />
-  </programme>
-  <programme start="20261030122758 +0000" stop="20261030125802 +0000" channel="entfamily">
-    <title lang="es">Los Imaginadores</title>
-    <sub-title lang="es">Imagination Movers_S01E04_Bad Hair Day</sub-title>
-    <desc lang="es">To drum up business, the Movers need to have their picture taken for a newspaper article. But when Scott's hair goes crazy, the Movers need to put their heads together to help Scott with his problem so they can get a good picture.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/ent-family/branding/fallback-a03206093374.png" />
-  </programme>
-  <programme start="20261030125802 +0000" stop="20261030132808 +0000" channel="entfamily">
-    <title lang="es">Es Pony</title>
-    <sub-title lang="es">Episodio 4</sub-title>
-    <desc lang="es">Annie can avoid detention if she can heal the principal's dying plant, but the plan goes awry when Pony becomes attached to it. Pony's half-baked plan causes Annie to lose one of her boots, which she desperately needs for a family...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3bc1dfa42a866b58cd9b5a273df550cc?w=400" />
-  </programme>
-  <programme start="20261030132808 +0000" stop="20261030135801 +0000" channel="entfamily">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">Una momia bastante egipcia</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6467978e16517a1ea3423120eb0aa955?w=400" />
-  </programme>
-  <programme start="20261030135801 +0000" stop="20261030142809 +0000" channel="entfamily">
-    <title lang="es">ALF</title>
-    <sub-title lang="es">Tengo una nueva actitud</sub-title>
-    <desc lang="es">ALF plays matchmaker with Dorothy and her new boyfriend Whizzer.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ea849eed42b96831df1249bda63ff76?w=400" />
-  </programme>
-  <programme start="20261030142809 +0000" stop="20261030145958 +0000" channel="entfamily">
-    <title lang="es">Dinosaurios</title>
-    <sub-title lang="es">El Hijo Tambien Madruga</sub-title>
-    <desc lang="es">Robbie se harta de que Earl siempre le diga lo que tiene que hacer, de modo que desafía a su padre en un reto de dominación masculina y gana, pero rápidamente se da cuenta de toda la responsabilidad que conlleva ser el hombre de la casa.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/80ae81b771544557855061b063f24a3d?w=400" />
-  </programme>
-  <programme start="20261030145958 +0000" stop="20261030152847 +0000" channel="entfamily">
-    <title lang="es">El Zorro</title>
-    <sub-title lang="es">Tesoro para el rey</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cec6bd61b485c0720c938eb14448d0af?w=400" />
   </programme>
   <programme start="20261030152847 +0000" stop="20261030155858 +0000" channel="entfamily">
     <title lang="es">El Chavo</title>
@@ -2597,18 +2526,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261030103310 +0000" stop="20261030121612 +0000" channel="entmovies">
-    <title lang="es">Cars 2</title>
-    <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e8173ab5ae9aa409f07e90c3a4052a20?w=400" />
-  </programme>
-  <programme start="20261030121612 +0000" stop="20261030134133 +0000" channel="entmovies">
-    <title lang="es">31 Minutos: Calurosa Navidad</title>
-    <desc lang="es">Titirilquén, el pueblo de 31 Minutos, vive una Navidad tan infernalmente calurosa… ¡que Santa Claus debe suspender su visita! Pero no todo está perdido: El conejo Bodoque se ofrece heroicamente a ir por los regalos al Polo Norte. Para esperarlo, sus amigos improvisan un espect...</desc>
-    <category lang="es">Familia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/00e1d8a5399881a6447d8ff7a904ffb8?w=400" />
-  </programme>
   <programme start="20261030134133 +0000" stop="20261030161335 +0000" channel="entmovies">
     <title lang="es">Duna</title>
     <desc lang="es">Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.</desc>
@@ -3100,18 +3017,6 @@
     <desc lang="es">Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los...</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9725b3fa86bbf165f0c9b2311e3e3e8b?w=400" />
-  </programme>
-  <programme start="20261030105225 +0000" stop="20261030122222 +0000" channel="entdrama">
-    <title lang="es">Mi novia Polly</title>
-    <desc lang="es">Reuben Feffer es un hombre meticuloso cuya vida cambia drásticamente cuando se encuentra con su antiguo amor, Polly Prince. Entre sus diferencias y excentricidades, Reuben se embarca en un viaje caótico hacia el amor y la autoaceptación, donde aprenderá que a veces lo inespera...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7710136b6910453d00313505a19ef341?w=400" />
-  </programme>
-  <programme start="20261030122222 +0000" stop="20261030135424 +0000" channel="entdrama">
-    <title lang="es">Al diablo con el diablo</title>
-    <desc lang="es">Elliot Richardson (Brendan Fraser) es un joven torpe y bondadoso, con poco éxito en la vida, que vende su alma al diablo (una explosiva Elizabeth Hurley) a cambio de unos deseos que no se ven del todo cumplidos...como él hubiera deseado. Remake de la película homónima de 1967...</desc>
-    <category lang="es">Fantasía</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ca2862fd6b91b03448e848ba8abb08d0?w=400" />
   </programme>
   <programme start="20261030135424 +0000" stop="20261030154028 +0000" channel="entdrama">
     <title lang="es">Yo, tú y mamá</title>
@@ -3712,52 +3617,6 @@
     <desc lang="es">Mark Sheridan, acusado del asesinato de dos agentes secretos, es arrestado y trasladado en avión a una penitenciaría. Durante el viaje, debido a una revuelta, el avión sufre un accidente que le permite escapar. Comienza entonces una implacable persecución por parte del agente...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ffb5bbfdd56f6969193ef8d47ea86f3?w=400" />
-  </programme>
-  <programme start="20261030102555 +0000" stop="20261030115845 +0000" channel="entclassic">
-    <title lang="es">La conquista del planeta de los simios</title>
-    <desc lang="es">En un mundo futurista que ha abrazado la esclavitud de los simios, César, el hijo de los difuntos simios Cornelius y Zira, sale a la superficie después de casi veinte años de esconderse de las autoridades, y se prepara para una revuelta de esclavos contra la humanidad.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ba33c298ceb1358c59ea9b0ba211277d?w=400" />
-  </programme>
-  <programme start="20261030115845 +0000" stop="20261030122843 +0000" channel="entclassic">
-    <title lang="es">El Chavo</title>
-    <sub-title lang="es">El desayuno</sub-title>
-    <desc lang="es">Don Ramón invita al Chavo para desayunar, pero descubre que no tiene más huevos para preparar el desayuno. Mientra tanto, Quico gana una mesa de ping pong.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3dbb50671ac4d0269a8dad2a66c12c28?w=400" />
-  </programme>
-  <programme start="20261030122843 +0000" stop="20261030125834 +0000" channel="entclassic">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">El cofre del pirata</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ac7ced0049c7149a34be5bd7f05318cd?w=400" />
-  </programme>
-  <programme start="20261030125834 +0000" stop="20261030132817 +0000" channel="entclassic">
-    <title lang="es">Dinosaurios</title>
-    <sub-title lang="es">Energía es Poder</sub-title>
-    <desc lang="es">Robbie diseña un proyecto científico que, si se ejecuta en la vida real, naturalmente podría alimentar las casas de los dinosaurios y reducir sus facturas de calefacción. Esto demuestra ser un mal negocio para Wesayso y B.P. Richfield intenta arruinar la imagen y la credibilid...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e92be2d17e319c17182dc62515bea16d?w=400" />
-  </programme>
-  <programme start="20261030132817 +0000" stop="20261030135840 +0000" channel="entclassic">
-    <title lang="es">ALF</title>
-    <sub-title lang="es">Mirando a través de la ventana</sub-title>
-    <desc lang="es">During a power outage, ALF believes that Raquel was murdered by Trevor when he watches them have arguments through their windows.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/369770c69d2d34b546c7ec3a90b3cd29?w=400" />
-  </programme>
-  <programme start="20261030135840 +0000" stop="20261030142948 +0000" channel="entclassic">
-    <title lang="es">El Zorro</title>
-    <sub-title lang="es">Dulce rostro del peligro</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20438342de455ffce3adb0f357e5e6e6?w=400" />
-  </programme>
-  <programme start="20261030142948 +0000" stop="20261030145843 +0000" channel="entclassic">
-    <title lang="es">La Niñera</title>
-    <sub-title lang="es">La decisión de Fran</sub-title>
-    <desc lang="es">Danny, el hombre que originalmente dejó a Fran, fue abandonado por su actual novia, por lo que se propone a Fran, que le dice que sí. Pero nadie está contento con esto, incluyendo a Niles, su madre o la familia Sheffield, y Fran es libre de decidir si dejar a los Sheffields es...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ef4188170b004448c05b8b877827c90?w=400" />
   </programme>
   <programme start="20261030145843 +0000" stop="20261030164955 +0000" channel="entclassic">
     <title lang="es">El gran salto</title>
@@ -4441,33 +4300,6 @@
     <category lang="es">Western</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f1e4989c7e89281b1812b12255e4580c?w=400" />
   </programme>
-  <programme start="20261030103516 +0000" stop="20261030125848 +0000" channel="entlife">
-    <title lang="es">Caballo de Guerra</title>
-    <desc lang="es">Nos cuenta la extraordinaria historia de amistad que surge entre el joven Albert y un caballo llamado Joey, separándose sus caminos a causa de la Primera Guerra Mundial. El padre de Albert vende a Joey a la caballería del ejército británico para luchar en el frente. Joey será...</desc>
-    <category lang="es">Bélica</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b2f1ab026d9dbcada985653e034c3ddd?w=400" />
-  </programme>
-  <programme start="20261030125848 +0000" stop="20261030134345 +0000" channel="entlife">
-    <title lang="es">Dr. House</title>
-    <sub-title lang="es">Cacería</sub-title>
-    <desc lang="es">Un joven con sida que tiene problemas respiratorios logra que House lo atienda contra su voluntad. House supone que se trata de una infección oportunista, típica del sida, pero los análisis negativos y los síntomas irán indicando otra cosa, relacionada con la cacería de zorros.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bded2bb2702ede1333e73d9df6a5a24e?w=400" />
-  </programme>
-  <programme start="20261030134345 +0000" stop="20261030142842 +0000" channel="entlife">
-    <title lang="es">Anatomía según Grey</title>
-    <sub-title lang="es">Superstición</sub-title>
-    <desc lang="es">Luego de una serie de muertes en el Seattle Grace, los eventos despiertan el lado supersticioso de los médicos.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ce046cfb069d481df66c933640abdeb9?w=400" />
-  </programme>
-  <programme start="20261030142842 +0000" stop="20261030145958 +0000" channel="entlife">
-    <title lang="es">Tacaños extremos</title>
-    <sub-title lang="es">Episodio 5</sub-title>
-    <desc lang="es">Kelley saves money by insulating her entire house with plastic. Now she's bringing her Pilates studio into the home to save $800 a month. Pelin cuts hair and costs at her salon and must find cheap bridal party products to trim her...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20975fa55983e091b3ec5635ab427eb2?w=400" />
-  </programme>
   <programme start="20261030145958 +0000" stop="20261030165806 +0000" channel="entlife">
     <title lang="es">Ángeles inesperados</title>
     <desc lang="es">Inspirada en la historia real de una peluquera que, sin ayuda de nadie, intentó reunir a toda una comunidad para ayudar a un padre viudo a intentar salvar la vida de su pequeña hija gravemente enferma.</desc>
@@ -5026,18 +4858,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f5e552c2eb18c393047b4d326105e38?w=400" />
   </programme>
-  <programme start="20261030104507 +0000" stop="20261030124905 +0000" channel="entextreme">
-    <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
-    <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma, liderados por su antiguo némesis, el malvado Capitán Salazar, escapan del Triángulo de las Bermudas. La únic...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ce177e84cee85101d2b0b67fbdd93820?w=400" />
-  </programme>
-  <programme start="20261030124905 +0000" stop="20261030144434 +0000" channel="entextreme">
-    <title lang="es">El Día de la Independencia 2: Contraataque</title>
-    <desc lang="es">Utilizando tecnología obtenida de los extraterrestres, las naciones de la Tierra, previendo el regreso de los invasores, han colaborado en un gigantesco programa de defensa para proteger el planeta. Pero nada puede prepararnos para hacer frente a la avanzada e inaudita fuerza...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0eacafb798350bec7096f6d17e43d9ee?w=400" />
-  </programme>
   <programme start="20261030144434 +0000" stop="20261030163622 +0000" channel="entextreme">
     <title lang="es">Ant-Man 2: La Avispa</title>
     <desc lang="es">Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado.</desc>
@@ -5499,53 +5319,6 @@
     <desc lang="es">Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemen...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0587fdc63113a3e864915b08ff2d5ac2?w=400" />
-  </programme>
-  <programme start="20261030104039 +0000" stop="20261030115925 +0000" channel="entcomedy">
-    <title lang="es">El Grinch</title>
-    <desc lang="es">Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pe...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e308fa9d6906f1e204c51f383faa5c2b?w=400" />
-  </programme>
-  <programme start="20261030115925 +0000" stop="20261030122810 +0000" channel="entcomedy">
-    <title lang="es">Dinosaurios</title>
-    <sub-title lang="es">Energía es Poder</sub-title>
-    <desc lang="es">Robbie diseña un proyecto científico que, si se ejecuta en la vida real, naturalmente podría alimentar las casas de los dinosaurios y reducir sus facturas de calefacción. Esto demuestra ser un mal negocio para Wesayso y B.P. Richfield intenta arruinar la imagen y la credibilid...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e92be2d17e319c17182dc62515bea16d?w=400" />
-  </programme>
-  <programme start="20261030122810 +0000" stop="20261030125827 +0000" channel="entcomedy">
-    <title lang="es">La Niñera</title>
-    <sub-title lang="es">La decisión de Fran</sub-title>
-    <desc lang="es">Danny, el hombre que originalmente dejó a Fran, fue abandonado por su actual novia, por lo que se propone a Fran, que le dice que sí. Pero nadie está contento con esto, incluyendo a Niles, su madre o la familia Sheffield, y Fran es libre de decidir si dejar a los Sheffields es...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ef4188170b004448c05b8b877827c90?w=400" />
-  </programme>
-  <programme start="20261030125827 +0000" stop="20261030132945 +0000" channel="entcomedy">
-    <title lang="es">El Chapulín Colorado</title>
-    <sub-title lang="es">El cofre del pirata</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ac7ced0049c7149a34be5bd7f05318cd?w=400" />
-  </programme>
-  <programme start="20261030132945 +0000" stop="20261030135859 +0000" channel="entcomedy">
-    <title lang="es">ALF</title>
-    <sub-title lang="es">Mirando a través de la ventana</sub-title>
-    <desc lang="es">During a power outage, ALF believes that Raquel was murdered by Trevor when he watches them have arguments through their windows.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/369770c69d2d34b546c7ec3a90b3cd29?w=400" />
-  </programme>
-  <programme start="20261030135859 +0000" stop="20261030142958 +0000" channel="entcomedy">
-    <title lang="es">Malcolm el de en Medio</title>
-    <sub-title lang="es">El vestido rojo</sub-title>
-    <desc lang="es">Es el aniversario de boda de Hal y Lois, la cita es en un lujoso restaurant con todos los detalles de una cena inolvidable, excepto por una cosa... Lois encuentra su vestido rojo (por el cual trabajó mucho para comprarselo) completamente quemado y metido en el inodoro, el deli...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d9146b33fa915cadae7a3a63562538e6?w=400" />
-  </programme>
-  <programme start="20261030142958 +0000" stop="20261030145951 +0000" channel="entcomedy">
-    <title lang="es">Friends</title>
-    <sub-title lang="es">El día que Marcel se fue</sub-title>
-    <desc lang="es">Los chicos buscan a Marcel, que escapó del departamento mientras Rachel estaba a cargo de cuidarlo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0a8a35da8d59d9448fb7a2302726ec49?w=400" />
   </programme>
   <programme start="20261030145951 +0000" stop="20261030152935 +0000" channel="entcomedy">
     <title lang="es">El Chavo</title>
