@@ -33,24 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261030143143 +0000" stop="20261030160431 +0000" channel="entchannel">
-    <title lang="es">Dentro o fuera</title>
-    <desc lang="es">Un maestro del medio oeste estadounidense se cuestiona su sexualidad cuando un ex alumno hace un comentario sobre él en los premios de la Academia.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0c1515e585cf64ebb6a059f2e68aff55?w=400" />
-  </programme>
-  <programme start="20261030160431 +0000" stop="20261030174044 +0000" channel="entchannel">
-    <title lang="es">Elf, el duende</title>
-    <desc lang="es">Cuando Buddy joven cae al saco de regalo de Santa durante la Nochebuena, ha transportado atrás al Polo Norte y ha levantado como un elfo que hace el juguete por los ayudantes de Santa. Pero ya que se convierte en la adultez, no puede sacudir el fastidio sintiendo que no perten...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5fbff189df1f7f39e6a4d65fe1f8ad11?w=400" />
-  </programme>
-  <programme start="20261030174044 +0000" stop="20261030193617 +0000" channel="entchannel">
-    <title lang="es">E.T. El Extraterrestre</title>
-    <desc lang="es">Obra maestra del cine que ha cautivado a audiencias de todas las edades desde su lanzamiento en 1982. Dirigida por Steven Spielberg, esta película narra la emotiva historia de la amistad entre un niño llamado Elliott y un adorable extraterrestre perdido en la Tierra. Con una c...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c5948292b0b8ec605b94f72b2d9f330?w=400" />
-  </programme>
   <programme start="20261030193617 +0000" stop="20261030205945 +0000" channel="entchannel">
     <title lang="es">Space Jam: El juego del siglo</title>
     <desc lang="es">Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los...</desc>
@@ -686,32 +668,7 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c2cb504e084035bf8dbd28f8983eadd?w=400" />
   </programme>
-  <programme start="20261030152847 +0000" stop="20261030155858 +0000" channel="entfamily">
-    <title lang="es">El Chavo</title>
-    <sub-title lang="es">Llegando tarde a la escuela</sub-title>
-    <desc lang="es">Los niños generan un tremendo desorden en la escuelita del Profesor Jirafales, que hace lo que puede para conseguir dar las clases.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a590c4877abe3e7349f239762fd9fafe?w=400" />
-  </programme>
-  <programme start="20261030155858 +0000" stop="20261030174036 +0000" channel="entfamily">
-    <title lang="es">Zootopia 2</title>
-    <desc lang="es">Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8521b333485c0a9a2e9f893f1e67edcb?w=400" />
-  </programme>
-  <programme start="20261030174036 +0000" stop="20261030191434 +0000" channel="entfamily">
-    <title lang="es">Las Brujas</title>
-    <desc lang="es">Cuenta la conmovedora historia de un pequeño huérfano que, a finales de 1967, se va a vivir con su querida abuela a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas, así qu...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3794fee620c244e0ee8d0162b13ce205?w=400" />
-  </programme>
-  <programme start="20261030191434 +0000" stop="20261030204757 +0000" channel="entfamily">
-    <title lang="es">Bichos: Una Aventura en Miniatura</title>
-    <desc lang="es">Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grup...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20e3808a24cf35ef32407e135c0ca22c?w=400" />
-  </programme>
-  <programme start="20261030204757 +0000" stop="20261030225519 +0000" channel="entfamily">
+  <programme start="20261030204323 +0000" stop="20261030225519 +0000" channel="entfamily">
     <title lang="es">Top Gun: Maverick</title>
     <desc lang="es">Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete "Maverick" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando...</desc>
     <category lang="es">Acción</category>
@@ -1458,96 +1415,6 @@
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/555aeedbb50c49350e903f45cc9bd6fb?w=400" />
   </programme>
-  <programme start="20261029230000 +0000" stop="20261030060000 +0000" channel="totalmusic">
-    <title lang="es">Pop Hits!</title>
-    <desc lang="es">Videos musicales: Pop Hits II.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030060000 +0000" stop="20261030064500 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic Concerts</title>
-    <desc lang="es">Videos musicales: Concerts.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030064500 +0000" stop="20261030080000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic Dance</title>
-    <desc lang="es">Videos musicales: Dance.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030080000 +0000" stop="20261030093000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 80s</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030093000 +0000" stop="20261030110000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 2000s</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030110000 +0000" stop="20261030123000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 60s &amp; 70s</title>
-    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030123000 +0000" stop="20261030130000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 90s</title>
-    <desc lang="es">Videos musicales: 90s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030130000 +0000" stop="20261030143000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic Concerts</title>
-    <desc lang="es">Videos musicales: Concerts.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030143000 +0000" stop="20261030160000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic Dance</title>
-    <desc lang="es">Videos musicales: Dance.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030160000 +0000" stop="20261030173000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic Idol</title>
-    <desc lang="es">Videos musicales: J-Pop y K-Pop.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030173000 +0000" stop="20261030190000 +0000" channel="totalmusic">
-    <title lang="es">Pop Hits!</title>
-    <desc lang="es">Videos musicales: Pop Hits II.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030190000 +0000" stop="20261030193000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 80s</title>
-    <desc lang="es">Videos musicales: 80s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030193000 +0000" stop="20261030200000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 2000s</title>
-    <desc lang="es">Videos musicales: 2000s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030200000 +0000" stop="20261030213000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 60s &amp; 70s</title>
-    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
-  <programme start="20261030213000 +0000" stop="20261030230000 +0000" channel="totalmusic">
-    <title lang="es">Totalmusic 90s</title>
-    <desc lang="es">Videos musicales: 90s.</desc>
-    <category lang="es">Música</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
-  </programme>
   <programme start="20261030230000 +0000" stop="20261031080000 +0000" channel="totalmusic">
     <title lang="es">TMC Dance: Extended!</title>
     <desc lang="es">Videos musicales: Dance.</desc>
@@ -2064,6 +1931,96 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
   </programme>
+  <programme start="20261106060000 +0000" stop="20261106064500 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic Concerts</title>
+    <desc lang="es">Videos musicales: Concerts.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106064500 +0000" stop="20261106080000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic Dance</title>
+    <desc lang="es">Videos musicales: Dance.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106080000 +0000" stop="20261106093000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 80s</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106093000 +0000" stop="20261106110000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 2000s</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106110000 +0000" stop="20261106123000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 60s &amp; 70s</title>
+    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 90s</title>
+    <desc lang="es">Videos musicales: 90s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106143000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic Concerts</title>
+    <desc lang="es">Videos musicales: Concerts.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106143000 +0000" stop="20261106160000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic Dance</title>
+    <desc lang="es">Videos musicales: Dance.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106160000 +0000" stop="20261106173000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic Idol</title>
+    <desc lang="es">Videos musicales: J-Pop y K-Pop.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106173000 +0000" stop="20261106190000 +0000" channel="totalmusic">
+    <title lang="es">Pop Hits!</title>
+    <desc lang="es">Videos musicales: Pop Hits II.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 80s</title>
+    <desc lang="es">Videos musicales: 80s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106193000 +0000" stop="20261106200000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 2000s</title>
+    <desc lang="es">Videos musicales: 2000s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106213000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 60s &amp; 70s</title>
+    <desc lang="es">Videos musicales: 60s &amp; 70s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106213000 +0000" stop="20261106230000 +0000" channel="totalmusic">
+    <title lang="es">Totalmusic 90s</title>
+    <desc lang="es">Videos musicales: 90s.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261107080000 +0000" channel="totalmusic">
+    <title lang="es">TMC Dance: Extended!</title>
+    <desc lang="es">Videos musicales: Dance.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/fallback-f8b72af50883.png" />
+  </programme>
   <programme start="20261030030000 +0000" stop="20261030070000 +0000" channel="totalmusic80s">
     <title lang="es">Miami Night</title>
     <desc lang="es">Videos musicales: 80s.</desc>
@@ -2525,24 +2482,6 @@
     <desc lang="es">Videos musicales: 2000s.</desc>
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
-  </programme>
-  <programme start="20261030134133 +0000" stop="20261030161335 +0000" channel="entmovies">
-    <title lang="es">Duna</title>
-    <desc lang="es">Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da38da1eb8617d2ea076139c6c869eca?w=400" />
-  </programme>
-  <programme start="20261030161335 +0000" stop="20261030175556 +0000" channel="entmovies">
-    <title lang="es">Horizonte profundo</title>
-    <desc lang="es">Basado en los eventos sucedidos en el Golfo de México en abril del 2010, cuando un accidente en una plataforma de la BP que perforaba para extraer petróleo causó una catástrofe que mató a 11 personas e hirió a otras 16, provocando además una de las catástrofes medioambientales...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8cab6a8ec67c7a2aa4b4f4bb263f9ae9?w=400" />
-  </programme>
-  <programme start="20261030175556 +0000" stop="20261030193329 +0000" channel="entmovies">
-    <title lang="es">Abracadabra</title>
-    <desc lang="es">El 31 de octubre de 1693, durante los juicios por brujería de Salem, Thackery Binx ve a su hermana Emily adentrarse en el bosque dirigiéndose a la cabaña de tres brujas. Allí, las hermanas Sanderson, Winifred, Mary y Sarah, hacen un hechizo en Emily para absorber su juventud y...</desc>
-    <category lang="es">Fantasía</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6084386e04f7a4af6b0f847a9a643e3f?w=400" />
   </programme>
   <programme start="20261030193329 +0000" stop="20261030210049 +0000" channel="entmovies">
     <title lang="es">Shrek Tercero</title>
@@ -3017,24 +2956,6 @@
     <desc lang="es">Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los...</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9725b3fa86bbf165f0c9b2311e3e3e8b?w=400" />
-  </programme>
-  <programme start="20261030135424 +0000" stop="20261030154028 +0000" channel="entdrama">
-    <title lang="es">Yo, tú y mamá</title>
-    <desc lang="es">A Chicago cop must balance loyalty to his controlling mother and a relationship with a shy funeral home worker.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/21831a93d38f763ce5684599c5ab8042?w=400" />
-  </programme>
-  <programme start="20261030154028 +0000" stop="20261030171709 +0000" channel="entdrama">
-    <title lang="es">Somnia: Antes de despertar</title>
-    <desc lang="es">Jessie y Mark deciden adoptar a Cody, un niño a quien le aterroriza dormir. Inicialmente creen que el origen de dicha fobia está en el traumático pasado del chico. Pero pronto se dan cuenta de la verdad: los sueños de Cody se proyectan en la realidad, y muchas veces lo que se...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3d00533226895d32d9ff841579b219f6?w=400" />
-  </programme>
-  <programme start="20261030171709 +0000" stop="20261030193455 +0000" channel="entdrama">
-    <title lang="es">El Planeta de Los Simios 3: La Guerra</title>
-    <desc lang="es">Después de que los simios sufren pérdidas inimaginables, César lucha con sus oscuros instintos y comienza su propia búsqueda mítica para vengar a los de su especie.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7cecf2d7c07d7d9642faae23093f8285?w=400" />
   </programme>
   <programme start="20261030193455 +0000" stop="20261030214334 +0000" channel="entdrama">
     <title lang="es">El juego</title>
@@ -3617,18 +3538,6 @@
     <desc lang="es">Mark Sheridan, acusado del asesinato de dos agentes secretos, es arrestado y trasladado en avión a una penitenciaría. Durante el viaje, debido a una revuelta, el avión sufre un accidente que le permite escapar. Comienza entonces una implacable persecución por parte del agente...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ffb5bbfdd56f6969193ef8d47ea86f3?w=400" />
-  </programme>
-  <programme start="20261030145843 +0000" stop="20261030164955 +0000" channel="entclassic">
-    <title lang="es">El gran salto</title>
-    <desc lang="es">A naive business graduate is installed as president of a manufacturing company as part of a stock scam.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4cf9b3a9fa29b9059b44dd53ae4532e6?w=400" />
-  </programme>
-  <programme start="20261030164955 +0000" stop="20261030184612 +0000" channel="entclassic">
-    <title lang="es">La Gran Estafa</title>
-    <desc lang="es">Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9ea2ec68c3a414c2e9adab21864c9931?w=400" />
   </programme>
   <programme start="20261030184612 +0000" stop="20261030205353 +0000" channel="entclassic">
     <title lang="es">Batman</title>
@@ -4300,18 +4209,6 @@
     <category lang="es">Western</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f1e4989c7e89281b1812b12255e4580c?w=400" />
   </programme>
-  <programme start="20261030145958 +0000" stop="20261030165806 +0000" channel="entlife">
-    <title lang="es">Ángeles inesperados</title>
-    <desc lang="es">Inspirada en la historia real de una peluquera que, sin ayuda de nadie, intentó reunir a toda una comunidad para ayudar a un padre viudo a intentar salvar la vida de su pequeña hija gravemente enferma.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0f6bd7a3159fe3894db60c35f5902ae5?w=400" />
-  </programme>
-  <programme start="20261030165806 +0000" stop="20261030185711 +0000" channel="entlife">
-    <title lang="es">Insomnia</title>
-    <desc lang="es">Will Dormer, un veterano detective de Los Ángeles, viaja a un pequeño pueblo de Alaska con su compañero Hap para investigar el asesinato de una chica de 17 años. En Los Ángeles queda pendiente un oscuro asunto que les incumbe a los dos. Una vez en Alaska, entran en contacto co...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a36106054602fa9f8d839789f4774fe?w=400" />
-  </programme>
   <programme start="20261030185711 +0000" stop="20261030204017 +0000" channel="entlife">
     <title lang="es">La trampa</title>
     <desc lang="es">Un padre y su hija adolescente asisten a un concierto de pop, donde se dan cuenta de que están en el centro de un evento oscuro y siniestro.</desc>
@@ -4858,24 +4755,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f5e552c2eb18c393047b4d326105e38?w=400" />
   </programme>
-  <programme start="20261030144434 +0000" stop="20261030163622 +0000" channel="entextreme">
-    <title lang="es">Ant-Man 2: La Avispa</title>
-    <desc lang="es">Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/131385cd88f4a8bde6d1cd6e90c25d0e?w=400" />
-  </programme>
-  <programme start="20261030163622 +0000" stop="20261030182012 +0000" channel="entextreme">
-    <title lang="es">¡Esto es guerra!</title>
-    <desc lang="es">Los agentes de la CIA, FDR Foster y Tuck son inseparables mejores amigos y compañeros. En conjunto, su buena apariencia, habilidades secretas y de combate los clasifican en la élite de la CIA, pero su relación personal y profesional es puesta a prueba cuando conocen a Lauren....</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5046073106a9c01e267edd3e0b5e1c1d?w=400" />
-  </programme>
-  <programme start="20261030182012 +0000" stop="20261030203707 +0000" channel="entextreme">
-    <title lang="es">Star Wars: El ascenso de Skywalker</title>
-    <desc lang="es">Un año después de los eventos de "Los últimos Jedi", los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevar...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/62c6324836ac579078902a760957feb2?w=400" />
-  </programme>
   <programme start="20261030203707 +0000" stop="20261030220825 +0000" channel="entextreme">
     <title lang="es">Misteriosa Obsesión</title>
     <desc lang="es">Telly Paretta se encuentra atormentada por el recuerdo de su hijo de ocho años, Sam, fallecido hace 14 meses en un accidente aéreo. Mientras intenta superar la pena y el consiguiente alejamiento de su marido Jim, su psiquiatra, el Dr. Munce, le informa de que está sufriendo al...</desc>
@@ -5319,32 +5198,6 @@
     <desc lang="es">Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemen...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0587fdc63113a3e864915b08ff2d5ac2?w=400" />
-  </programme>
-  <programme start="20261030145951 +0000" stop="20261030152935 +0000" channel="entcomedy">
-    <title lang="es">El Chavo</title>
-    <sub-title lang="es">El desayuno</sub-title>
-    <desc lang="es">Don Ramón invita al Chavo para desayunar, pero descubre que no tiene más huevos para preparar el desayuno. Mientra tanto, Quico gana una mesa de ping pong.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3dbb50671ac4d0269a8dad2a66c12c28?w=400" />
-  </programme>
-  <programme start="20261030152935 +0000" stop="20261030155957 +0000" channel="entcomedy">
-    <title lang="es">Los Simpson</title>
-    <sub-title lang="es">Bart el temerario</sub-title>
-    <desc lang="es">Los Simpson asisten a un espectáculo donde ven el número del temerario más famoso de Springfield, el Capitán Lance Murdock. Bart se queda impresionado y comienza a imitarle usando su patineta.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7682e7fd8e97aa06d76ec0c705ea851b?w=400" />
-  </programme>
-  <programme start="20261030155957 +0000" stop="20261030173049 +0000" channel="entcomedy">
-    <title lang="es">Intensa-Mente</title>
-    <desc lang="es">Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de a...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0a47dd3e1acddf24f43a1d0a37aba4c6?w=400" />
-  </programme>
-  <programme start="20261030173049 +0000" stop="20261030190500 +0000" channel="entcomedy">
-    <title lang="es">Up: Una Aventura de Altura</title>
-    <desc lang="es">El vendedor de globos de 78 años, Carl Fredricksen, lleva a cabo el sueño de su vida al enganchar miles de globos a su casa y salir volando rumbo a Sudamérica. Sin embargo, descubre más tarde que no va solo, ya que también se ha embarcado en el viaje Russell, un optimista expl...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ccc20a40f7881c34f9785e65eeae6cef?w=400" />
   </programme>
   <programme start="20261030190500 +0000" stop="20261030204415 +0000" channel="entcomedy">
     <title lang="es">Monsters University</title>
