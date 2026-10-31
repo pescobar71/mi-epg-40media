@@ -33,18 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261031044956 +0000" stop="20261031063934 +0000" channel="entchannel">
-    <title lang="es">Crimen perfecto</title>
-    <desc lang="es">Willy Beachum es un joven y ambicioso fiscal cuya carrera está empezando a despegar. Por otra parte, Ted Crawford es un ingeniero de mediana edad que acaba de disparar a su mujer a sangre fría. El destino los enfrentará en el consiguiente juicio. Crawford resulta ser un indivi...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f5d9b84549abd78c6e179d1da43b5127?w=400" />
-  </programme>
-  <programme start="20261031063934 +0000" stop="20261031085953 +0000" channel="entchannel">
-    <title lang="es">Brasil</title>
-    <desc lang="es">En un extraño y deprimente universo futurista donde reinan las máquinas, una mosca cae dentro de un ordenador y cambia el apellido del guerrillero Harry Tuttle (Robert de Niro) por el del tranquilo padre de familia Harry Buttle, que es detenido y asesinado por el aparato repre...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4634474e7509cd29dd471bbb9cd1a7af?w=400" />
-  </programme>
   <programme start="20261031085953 +0000" stop="20261031113050 +0000" channel="entchannel">
     <title lang="es">Misión Rescate</title>
     <desc lang="es">Durante una misión a Marte de la nave tripulada Ares III, una fuerte tormenta se desata dando por desaparecido y muerto al astronauta Mark Watney (Matt Damon), sus compañeros toman la decisión de irse pero él ha sobrevivido. Está solo y sin apenas recursos en el planeta. Con m...</desc>
@@ -708,24 +696,6 @@
     <desc lang="es">Lisa descubre que sabe predecir los resultados de los partidos de fútbol americano, lo que la acerca a Homero. Pero Lisa se da cuenta de que su relación puede terminar con la temporada.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5db3f77ced3779bc633f9c1ef4c7ced5?w=400" />
-  </programme>
-  <programme start="20261031043524 +0000" stop="20261031060922 +0000" channel="entfamily">
-    <title lang="es">Up: Una Aventura de Altura</title>
-    <desc lang="es">El vendedor de globos de 78 años, Carl Fredricksen, lleva a cabo el sueño de su vida al enganchar miles de globos a su casa y salir volando rumbo a Sudamérica. Sin embargo, descubre más tarde que no va solo, ya que también se ha embarcado en el viaje Russell, un optimista expl...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ccc20a40f7881c34f9785e65eeae6cef?w=400" />
-  </programme>
-  <programme start="20261031060922 +0000" stop="20261031074430 +0000" channel="entfamily">
-    <title lang="es">WALL·E</title>
-    <desc lang="es">En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c9ee450188ad8785d20dafd9e4c59bda?w=400" />
-  </programme>
-  <programme start="20261031074430 +0000" stop="20261031091656 +0000" channel="entfamily">
-    <title lang="es">Los pingüinos de papá</title>
-    <desc lang="es">Mr. Popper (Jim Carrey) es un poderoso empresario que se queda un tanto descolocado cuando recibe como herencia nada menos que... ¡6 pingüinos! Obviamente, su cuidado no es una tarea sencilla, circunstancia que provoca ciertos problemas tanto en el trabajo como en el hogar de...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/84d7845015d82cc7ab1a9015e84df2f4?w=400" />
   </programme>
   <programme start="20261031091656 +0000" stop="20261031104034 +0000" channel="entfamily">
     <title lang="es">Space Jam: El juego del siglo</title>
@@ -2621,18 +2591,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261031043615 +0000" stop="20261031064951 +0000" channel="entmovies">
-    <title lang="es">La Última Puerta</title>
-    <desc lang="es">Dean Corso (Johnny Depp) es un bibliófilo dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Es, además, un hombre extremadamente minucioso y eficaz en su trabajo. Gracias a su reputación, Boris Balkan, un coleccionista de textos satánicos, le encarga una misió...</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e1f759632ece7f7b2ae74e691b31c19?w=400" />
-  </programme>
-  <programme start="20261031064951 +0000" stop="20261031085951 +0000" channel="entmovies">
-    <title lang="es">El Cabo del Miedo</title>
-    <desc lang="es">Sam Bowden es un abogado corporativo de un pueblo pequeño. Max Cady es un violador psicótico tatuado, fumador de cigarros, que cita la Biblia. ¿Qué tienen en común? Hace catorce años, Sam era un defensor público asignado al juicio por violación de Max Cady, y cometió un grave...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/311508a55fdd68eed7e6525a036685a8?w=400" />
-  </programme>
   <programme start="20261031085951 +0000" stop="20261031112249 +0000" channel="entmovies">
     <title lang="es">Maze Runner: La cura mortal</title>
     <desc lang="es">El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.</desc>
@@ -3130,34 +3088,6 @@
     <desc lang="es">Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técni...</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ff08d5e5ac678892aabfc9f35d6b5a9f?w=400" />
-  </programme>
-  <programme start="20261031045959 +0000" stop="20261031055951 +0000" channel="entdrama">
-    <title lang="es">Call of the Night</title>
-    <sub-title lang="es">3.ª noche: Estás sangrando mucho</sub-title>
-    <desc lang="es">Ko se reencuentra con Akira, una vieja amiga de la infancia quien le expresa su preocupación por no verlo en la escuela últimamente.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1bc7f7ec0a8e58aab8f705e49eefa7e2?w=400" />
-  </programme>
-  <programme start="20261031055951 +0000" stop="20261031063108 +0000" channel="entdrama">
-    <title lang="es">Barry</title>
-    <sub-title lang="es">Episodio 3</sub-title>
-    <desc lang="es">Barry misses an acting class to honor an obligation. The detectives try to piece together a murder puzzle. Sally makes a mistake during an audition, and turns to Barry for comfort. The Chechens rejoice when a legendary assassin ar...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/870c821e4c8c1ff818f67af23511b072?w=400" />
-  </programme>
-  <programme start="20261031063108 +0000" stop="20261031072939 +0000" channel="entdrama">
-    <title lang="es">American Crime Story</title>
-    <sub-title lang="es">Episodio 1</sub-title>
-    <desc lang="es">The murders of Nicole Brown Simpson and Ron Goldman lead the LAPD to the home of O.J. Simpson.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/183e099c8e2a1c5b2446057a5ab3163e?w=400" />
-  </programme>
-  <programme start="20261031072939 +0000" stop="20261031082458 +0000" channel="entdrama">
-    <title lang="es">Goliat: Poder y debilidad</title>
-    <sub-title lang="es">Episodio 1</sub-title>
-    <desc lang="es">A burned-out attorney gets a second chance for redemption when he agrees to pursue a wrongful death lawsuit against the biggest client of his former law firm.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9f02cea3b4a583df1f2641ab426ab836?w=400" />
   </programme>
   <programme start="20261031082458 +0000" stop="20261031102145 +0000" channel="entdrama">
     <title lang="es">La otra Reina</title>
@@ -3783,18 +3713,6 @@
     <desc lang="es">Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/74420c7497da60347ed78268846b8e92?w=400" />
-  </programme>
-  <programme start="20261031045130 +0000" stop="20261031064613 +0000" channel="entclassic">
-    <title lang="es">City Hall: La Sombra de la Corrupción</title>
-    <desc lang="es">The accidental shooting of a boy in New York leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5e788d4632613d39f21e5592e1448322?w=400" />
-  </programme>
-  <programme start="20261031064613 +0000" stop="20261031085943 +0000" channel="entclassic">
-    <title lang="es">Los Ángeles al desnudo</title>
-    <desc lang="es">Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/17d1c3a175bb6d208fa24124ef4aca0a?w=400" />
   </programme>
   <programme start="20261031085943 +0000" stop="20261031103522 +0000" channel="entclassic">
     <title lang="es">Elf, el duende</title>
@@ -4530,18 +4448,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f2c0b59e287f516c89b90826546aa963?w=400" />
   </programme>
-  <programme start="20261031044044 +0000" stop="20261031063600 +0000" channel="entlife">
-    <title lang="es">Trainspotting 2</title>
-    <desc lang="es">Han pasado 20 años desde que Mark Renton abandonara Escocia, y la heroína. Ahora, Renton vuelve a su Edimburgo natal con el objetivo de rehacer su vida y reencontrarse con sus amigos de toda la vida: David "Spud" Murphy, y Simon "Sick Boy" Williamson; al mismo tiempo que Franc...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/841f6d66ba6aea56937c253c327b2fae?w=400" />
-  </programme>
-  <programme start="20261031063600 +0000" stop="20261031085952 +0000" channel="entlife">
-    <title lang="es">Tráfico</title>
-    <desc lang="es">El juez Robert Wakefield es nombrado por el Presidente de los Estados Unidos supervisor de los grupos de lucha contra la droga y de su coordinación con las autoridades mexicanas. Sin embargo, su satisfacción inicial por su prestigioso cargo se esfumará cuando descubra que su h...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/730c3b1672c0b1cda3cbdff3f8cc4baf?w=400" />
-  </programme>
   <programme start="20261031085952 +0000" stop="20261031110900 +0000" channel="entlife">
     <title lang="es">Cruella</title>
     <desc lang="es">"Cruella" se sumerge en la juventud rebelde de uno de los villanos más conocidos -y más de moda-, nada menos que la legendaria Cruella de Vil. Emma Stone encarna a Estella, alias Cruella, junto a Emma Thompson como la Baronesa, la directora de una prestigiosa firma de moda que...</desc>
@@ -5133,18 +5039,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3892b43f279b5d4b623071a3f8916fa2?w=400" />
   </programme>
-  <programme start="20261031035919 +0000" stop="20261031062844 +0000" channel="entextreme">
-    <title lang="es">Perdida</title>
-    <desc lang="es">El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte e...</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0050771398d99f103e70b78a1dfa8fad?w=400" />
-  </programme>
-  <programme start="20261031062844 +0000" stop="20261031085954 +0000" channel="entextreme">
-    <title lang="es">El resplandor</title>
-    <desc lang="es">Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ef4de40d9afa9907acc359b178b3f9db?w=400" />
-  </programme>
   <programme start="20261031085954 +0000" stop="20261031110028 +0000" channel="entextreme">
     <title lang="es">El hombre araña</title>
     <desc lang="es">Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.</desc>
@@ -5630,18 +5524,6 @@
     <desc lang="es">La Entidad, la IA experimental que se ha convertido en el villano de la historia, sigue activa y cuenta con el apoyo del malvado Gabriel en el mundo de los cárnicos. Por suerte, Ethan y su equipo tienen la llave que les podría dar el control de la Entidad, algo que les obligar...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c0ed7b3775ec18202df65dc65b24e828?w=400" />
-  </programme>
-  <programme start="20261031043909 +0000" stop="20261031064745 +0000" channel="entcomedy">
-    <title lang="es">El juego de las llaves</title>
-    <desc lang="es">Laura lleva toda la vida con Antonio y, justo cuando se empieza a plantear si realmente esa es la vida que quiere, Sergio y Siena se cruzan en sus vidas. Sergio es un excompañero de instituto y Siena, su novia millenial que llega para revolucionar las vidas de todos. Laura, Ra...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/226366fb91622310cf4b9673efad605c?w=400" />
-  </programme>
-  <programme start="20261031064745 +0000" stop="20261031085919 +0000" channel="entcomedy">
-    <title lang="es">No miren arriba</title>
-    <desc lang="es">Dos astrónomos realizan una gira mediática para advertirle a la humanidad de un cometa mortal que está en rumbo de colisión con la Tierra. La respuesta del mundo: ¿Y?</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/404a8863f4f3403908a6f5bdb414ed07?w=400" />
   </programme>
   <programme start="20261031085919 +0000" stop="20261031103550 +0000" channel="entcomedy">
     <title lang="es">Elementos</title>
