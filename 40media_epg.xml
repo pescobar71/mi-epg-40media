@@ -33,33 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261104025958 +0000" stop="20261104031124 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">La aventura de Allan</sub-title>
-    <desc lang="es">Allan tiene la tarea de encontrar más sujetapapeles para la oficina. *Te escupe*</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fedd2b9b4959c5a79e384b55f13f8ebc?w=400" />
-  </programme>
-  <programme start="20261104031124 +0000" stop="20261104032820 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">¿El jefe encuentra el amor?</sub-title>
-    <desc lang="es">DESCARGO DE RESPONSABILIDAD: Solo un aviso - este es el episodio más aterrador de cualquier caricatura que jamás se haya creado.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d6bb68c94d10bc037245b07f8259a496?w=400" />
-  </programme>
-  <programme start="20261104032820 +0000" stop="20261104040036 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">hjsakldfhlñ</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d9d1082c93f8226a8a633a3e9ccb14a3?w=400" />
-  </programme>
-  <programme start="20261104040036 +0000" stop="20261104045956 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Entrepiso</sub-title>
-    <desc lang="es">Mientras Skyler presiona a Ted para que acepte su dinero y pueda pagar los impuestos, Gus sostiene que Jesse debería reanudar su trabajo en el laboratorio él solo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3d5a52c7599d72bd3e036f5e925982bd?w=400" />
-  </programme>
   <programme start="20261104045956 +0000" stop="20261104070633 +0000" channel="entchannel">
     <title lang="es">Poseídos</title>
     <desc lang="es">El detective John Hobbes está convencido de que tras la ejecución del asesino en serie Edgar Reese se han acabado los problemas. Pero cuando la gente que conoce comienza a cantar la misma canción que Reese cantó durante su ejecución, Hobbes se da cuenta que quizá tras los crím...</desc>
@@ -723,18 +696,6 @@
     <desc lang="es">En un test que orienta a los alumnos sobre lo que podrían ser de mayores de acuerdo con sus respuestas, a Bart le sale que será policía y a Lisa, que será ama de casa. Este resultado anima a Bart y deprime a Lisa, que se vuelve desobediente y respondona en clase.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c27d8af3e6fbfad31084f72fc378e4b6?w=400" />
-  </programme>
-  <programme start="20261104025808 +0000" stop="20261104041844 +0000" channel="entfamily">
-    <title lang="es">Hotel Transylvania 2</title>
-    <desc lang="es">Una vez que Mavis y Johnny están fuera del hotel, Drácula y sus amigos tratan de sacar al monstruo interior en su nieto Dennis, mitad humano, mitad vampiro.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/94d0c39607322f2113a10e5b73506f8d?w=400" />
-  </programme>
-  <programme start="20261104041844 +0000" stop="20261104060107 +0000" channel="entfamily">
-    <title lang="es">Vecinos invasores</title>
-    <desc lang="es">RJ, un mapache solitario, se ha metido en un problema muy grave al intentar robar el alimento de Vincent, un oso de cáracter antipático. Pues este ahora le manda, amenazándolo, a que se lo devuelva todo, en tan sólo una semana. De este modo, yendo en busca de los alimentos, se...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f08d8cb87aa79d5ac5119fb4fcb4660?w=400" />
   </programme>
   <programme start="20261104060107 +0000" stop="20261104072301 +0000" channel="entfamily">
     <title lang="es">Toy Story</title>
@@ -2653,13 +2614,7 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261104025958 +0000" stop="20261104055217 +0000" channel="entmovies">
-    <title lang="es">Casino</title>
-    <desc lang="es">Las Vegas, 1973. Sam "Ace" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/541057ae7c34030a2f430ddbc0a6b937?w=400" />
-  </programme>
-  <programme start="20261104055217 +0000" stop="20261104072613 +0000" channel="entmovies">
+  <programme start="20261104055716 +0000" stop="20261104072613 +0000" channel="entmovies">
     <title lang="es">No tengo cambio</title>
     <desc lang="es">Grimm es un urbanista neoyorquino que, harto del caos y la corrupción reinante, decide abandonar la ciudad. Con la ayuda de su novia Phyllis y del simplón de su hermano Loomis, elabora un meticuloso plan para huir en avión después de atracar un banco. Disfrazado de payaso, Gri...</desc>
     <category lang="es">Comedia</category>
@@ -3180,27 +3135,6 @@
     <desc lang="es">Año 1939. Daniel McCormick, piloto de pruebas, es un hombre al que todo le va bien en la vida. Todo cambia una mañana en la que su novia, Helen, tiene un desgraciado accidente. Desolado, se ofrece voluntario para un experimento secreto: El cuerpo de Daniel queda congelado en u...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f75b70ed6318a8477e07fe24aae23bf3?w=400" />
-  </programme>
-  <programme start="20261104025959 +0000" stop="20261104042908 +0000" channel="entdrama">
-    <title lang="es">Sherlock</title>
-    <sub-title lang="es">Su último juramento</sub-title>
-    <desc lang="es">Un caso de unas cartas robadas lleva a Sherlock Holmes a un conflicto con Charles Augustus Magnussen, el Napoleon de la extorsión y el unico hombre al que realmente odio. Pero ¿como atacas a un enemigo que sabe las debilidades personales de cada hombre importante del mundo occ...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f55d2f7fae45e250b59633196715b521?w=400" />
-  </programme>
-  <programme start="20261104042908 +0000" stop="20261104054451 +0000" channel="entdrama">
-    <title lang="es">Mr. Robot</title>
-    <sub-title lang="es">UNOS Y CER0S</sub-title>
-    <desc lang="es">Elliot se encuentra dividido entre una oferta de trabajo de El Mal Corp y unirse a Fsociety. Al mismo tiempo Elliot debe tomar una decisión que podría lastimar a la gente cercana a él.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/beecb40f6fff885b784389f9f33a7060?w=400" />
-  </programme>
-  <programme start="20261104054451 +0000" stop="20261104064358 +0000" channel="entdrama">
-    <title lang="es">Tabú</title>
-    <sub-title lang="es">Episodio 4</sub-title>
-    <desc lang="es">Lorna Delaney se deja capturar por la Corona y se somete a un interrogatorio brutal. Delaney planea un robo y asiste a un lujoso baile.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/99e1b20cc67eb7c77c683bdefed03cb1?w=400" />
   </programme>
   <programme start="20261104064358 +0000" stop="20261104074401 +0000" channel="entdrama">
     <title lang="es">El hombre en el castillo</title>
@@ -3855,13 +3789,7 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b5340993b27c9bf8460cf2dc18ea2005?w=400" />
   </programme>
-  <programme start="20261104025842 +0000" stop="20261104052001 +0000" channel="entclassic">
-    <title lang="es">El resplandor</title>
-    <desc lang="es">Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ef4de40d9afa9907acc359b178b3f9db?w=400" />
-  </programme>
-  <programme start="20261104052001 +0000" stop="20261104070409 +0000" channel="entclassic">
+  <programme start="20261104052444 +0000" stop="20261104070409 +0000" channel="entclassic">
     <title lang="es">Juegos sexuales</title>
     <desc lang="es">Kathryn  y su hermanastro Sebastian, todavía estudiantes de bachillerato en un elitista instituto de Nueva York, deciden hacer una maquiavélica apuesta. Se trata de que Sebastian, un consumado Don Juan, se acueste con Annette, una joven que quiere permanecer virgen hasta su ma...</desc>
     <category lang="es">Drama</category>
@@ -4602,18 +4530,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/30bba19444794a595294a04c6644966f?w=400" />
   </programme>
-  <programme start="20261104025956 +0000" stop="20261104045115 +0000" channel="entlife">
-    <title lang="es">Mi vida como hijo</title>
-    <desc lang="es">En 1957, un hijo y una madre huyen del Este y un novio abusivo para encontrar una nueva vida, y terminan en Seattle, donde la madre conoce a un cortés mecánico de garaje. El niño continuamente se mete en problemas saliendo con la multitud equivocada. La madre se casa con el me...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0fef8c833e0bda54703ce47e1ba3648e?w=400" />
-  </programme>
-  <programme start="20261104045115 +0000" stop="20261104062827 +0000" channel="entlife">
-    <title lang="es">Sunshine Cleaning</title>
-    <desc lang="es">Rose y Norah Lorkowski son dos hermanas en paro que encuentran una particular forma de ganarse la vida: limpiar las escenas de crimen después de que la policía haya hecho su trabajo. Durante años, Rose (Amy Adams) fue líder de las animadoras y parecía tener un futuro prometedo...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d483664b06d524e65989da5199a0273?w=400" />
-  </programme>
   <programme start="20261104062827 +0000" stop="20261104085953 +0000" channel="entlife">
     <title lang="es">Midnight in the Garden of Good and Evil</title>
     <desc lang="es">A New York reporter covers a murder trial involving a wealthy antiques dealer in Savannah, Georgia.</desc>
@@ -5210,12 +5126,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e4cb4a216e9557c15c51ea2c910e1b08?w=400" />
   </programme>
-  <programme start="20261104035956 +0000" stop="20261104060212 +0000" channel="entextreme">
-    <title lang="es">Sobre-Natural</title>
-    <desc lang="es">Una extraña tormenta libera a una especie de criaturas sedientas de sangre en un pequeño pueblo, donde una pequeña banda de ciudadanos se esconde en un supermercado y lucha por sus vidas.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9beb8fb769cb257338359827ac5f01b0?w=400" />
-  </programme>
   <programme start="20261104060212 +0000" stop="20261104072936 +0000" channel="entextreme">
     <title lang="es">Zombieland</title>
     <desc lang="es">Un tímido estudiante tratando de alcanzar a su familia en Ohio, un tipo duro armado tratando de encontrar el último Twinkie, y un par de hermanas tratando de llegar a un parque de diversiones se unen para viajar a través de un Estados Unidos lleno de zombis.</desc>
@@ -5701,18 +5611,6 @@
     <desc lang="es">Thriller acerca de un congresista y un reportero que se ven envueltos en un caso de brutales asesinatos que, aparentemente, no tienen relación entre sí. Russell Crowe es Cal McCaffrey, un periodista de Washington D.C., cuyo olfato le lleva a desenmarañar los misteriosos asesin...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/91c9403264c8288c870fbac02ec07916?w=400" />
-  </programme>
-  <programme start="20261104025957 +0000" stop="20261104042928 +0000" channel="entcomedy">
-    <title lang="es">Dura de ligar</title>
-    <desc lang="es">Sue Claussen (Jennifer Aniston) es una vendedora ambulante de arte barato que pasa una noche con el encargado de un motel de Arizona, Mike Cranshaw (Steve Zahn), donde había vendido unos cuadros. Ella se marcha en seguida, continuando con su ruta, pero él decidirá salir a busc...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f1baf3945bdc73a1c455ae552b5c3930?w=400" />
-  </programme>
-  <programme start="20261104042928 +0000" stop="20261104061934 +0000" channel="entcomedy">
-    <title lang="es">Ted</title>
-    <desc lang="es">Cuando John Bennett (Mark Wahlberg) era pequeño, deseaba que su osito de peluche Ted fuera un oso de verdad y, por desgracia, su sueño se hizo realidad. Más de veinte años después, Ted sigue con John y saca de quicio a su novia Lori, que empieza a perder la paciencia. Para col...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bddd8ae26f12a2d1d5383c530be2e7a7?w=400" />
   </programme>
   <programme start="20261104061934 +0000" stop="20261104085918 +0000" channel="entcomedy">
     <title lang="es">Tipos de gentileza</title>
