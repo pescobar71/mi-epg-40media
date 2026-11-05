@@ -33,40 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261105025958 +0000" stop="20261105031125 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El huevo</sub-title>
-    <desc lang="es">Después de algunas de las payasadas habituales del Jefe, Pim y Charlie tienen la tarea de ayudar a un científico loco con un "dilema de huevos".</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53755142e7b0613e1c021fc62874cb11?w=400" />
-  </programme>
-  <programme start="20261105031125 +0000" stop="20261105032834 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Charlie y Pim contra el alienígena</sub-title>
-    <desc lang="es">Este episodio cuenta la historia de un niño de treinta y cuatro años llamado Pim, que se propone salvar a su madre en Marte.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/01b3facc51b2c9bd1a99dd00e4fc2e10?w=400" />
-  </programme>
-  <programme start="20261105032834 +0000" stop="20261105042722 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Recuerden</sub-title>
-    <desc lang="es">With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c7f8fed815ec823435c48e1a493d9be?w=400" />
-  </programme>
-  <programme start="20261105042722 +0000" stop="20261105051410 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Fin de los tiempos</sub-title>
-    <desc lang="es">Mientras le ordena a su familia que aproveche la protección que la DEA le ofrece a Hank, Walt espera el destino que le toque.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bdd1684e31f0721f9b8e021321a8e3a8?w=400" />
-  </programme>
-  <programme start="20261105051410 +0000" stop="20261105070128 +0000" channel="entchannel">
-    <title lang="es">El Conjuro 3: El diablo me obligó a hacerlo</title>
-    <desc lang="es">Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dfee297b5c6857fd000087501b01b06c?w=400" />
-  </programme>
   <programme start="20261105070128 +0000" stop="20261105085937 +0000" channel="entchannel">
     <title lang="es">Sobre-Natural</title>
     <desc lang="es">Una extraña tormenta libera a una especie de criaturas sedientas de sangre en un pequeño pueblo, donde una pequeña banda de ciudadanos se esconde en un supermercado y lucha por sus vidas.</desc>
@@ -724,18 +690,6 @@
     <desc lang="es">Cuando Ayudante de Santa tiene el estómago torcido, los Simpson se sacrifican para poder pagar la operación que le salva la vida. Pero cuando la actitud de la familia cambia por los sacrificios el perro se escapa y se convierte en uno de los perros de combate de Burns.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5e67c326bae1fe95ac70f203ef37705c?w=400" />
-  </programme>
-  <programme start="20261105025810 +0000" stop="20261105042923 +0000" channel="entfamily">
-    <title lang="es">Elf, el duende</title>
-    <desc lang="es">Cuando Buddy joven cae al saco de regalo de Santa durante la Nochebuena, ha transportado atrás al Polo Norte y ha levantado como un elfo que hace el juguete por los ayudantes de Santa. Pero ya que se convierte en la adultez, no puede sacudir el fastidio sintiendo que no perten...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5fbff189df1f7f39e6a4d65fe1f8ad11?w=400" />
-  </programme>
-  <programme start="20261105042923 +0000" stop="20261105060845 +0000" channel="entfamily">
-    <title lang="es">Bolt: Un perro fuera de serie</title>
-    <desc lang="es">¡Que comience la acción! Prepárate para la aventura más absolutamente fabulosa de todos los tiempos cuando Bolt, el mejor héroe de todo el planeta, y yo, Rhino, su fiel compañero y leal hámster acompañante, ¡emprendemos una misión súper secreta! Como uno de los integrantes de...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/52549fed2d52f047ed6c95998d121400?w=400" />
   </programme>
   <programme start="20261105060845 +0000" stop="20261105074719 +0000" channel="entfamily">
     <title lang="es">Navidad, loca Navidad</title>
@@ -2653,18 +2607,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261105025957 +0000" stop="20261105042420 +0000" channel="entmovies">
-    <title lang="es">Don Jon</title>
-    <desc lang="es">Jon Martello tiene un objetivo para todo en su vida: su apartamento, su automóvil, su familia, su iglesia y, por supuesto, las mujeres. Sus amigos incluso lo llaman Don Jon debido a su capacidad para sacar "10s" todos los fines de semana sin fallar. Sin embargo, incluso las me...</desc>
-    <category lang="es">Romance</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/50b59ed5f36c29205ca6f00ebe51d0e3?w=400" />
-  </programme>
-  <programme start="20261105042420 +0000" stop="20261105070754 +0000" channel="entmovies">
-    <title lang="es">Ojos bien cerrados</title>
-    <desc lang="es">William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo e...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e6184cf7cd77d91db440177b10a8a05e?w=400" />
-  </programme>
   <programme start="20261105070754 +0000" stop="20261105085918 +0000" channel="entmovies">
     <title lang="es">300</title>
     <desc lang="es">En el año 480 antes de Cristo, existe un estado de guerra entre Persia, dirigida por el rey Jerjes, y Grecia. En la batalla de la Termópilas, Leonidas, rey de la ciudad griega de Esparta, encabeza a sus 300 bravos soldados en contra del numeroso ejército persa. A pesar de que...</desc>
@@ -3168,27 +3110,6 @@
     <desc lang="es">Una nave espacial llega a Arizona, 1873, para apoderarse de la Tierra, empezando por la región del Salvaje Oeste. Una pandilla de vaqueros y nativos es todo lo que se interpone en su camino.</desc>
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fd95922e7bf1218ae9a448cb8aa1a811?w=400" />
-  </programme>
-  <programme start="20261105025933 +0000" stop="20261105035743 +0000" channel="entdrama">
-    <title lang="es">Los Vigilantes</title>
-    <sub-title lang="es">Episodio 6</sub-title>
-    <desc lang="es">Trying to let go of police work and return to his marriage, McNulty gives up on identifying his Jane Doe. The detectives look into Sobotka and his money. For his union, Sobotka tries to play the political game. D'Angelo wants to l...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/524f58ce3d8e5f9ac3e40ebf70044504?w=400" />
-  </programme>
-  <programme start="20261105035743 +0000" stop="20261105055941 +0000" channel="entdrama">
-    <title lang="es">Los Vigilantes</title>
-    <sub-title lang="es">Episodio 7</sub-title>
-    <desc lang="es">Greggs and Prez tap into the circuit of Russian prostitutes. With two sets of evidence, the detail goes to Pearlman who tells them neither crime merits a wiretap, but a drug connection could give the case legs. Rawls can't persuad...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f136c4cec66cc4c98b96a64df823e9f?w=400" />
-  </programme>
-  <programme start="20261105055941 +0000" stop="20261105065951 +0000" channel="entdrama">
-    <title lang="es">Banshee</title>
-    <sub-title lang="es">Episodio 7</sub-title>
-    <desc lang="es">Ana makes arrangements to kidnap Hood and leave him for Rabbit to find. A drugstore hold-up turns into a hostage situation at the local high school. Job frees Lucas in time for him to save the students in the school, including Deva.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/647b03b804d26685313a4de45c6c80fc?w=400" />
   </programme>
   <programme start="20261105065951 +0000" stop="20261105075939 +0000" channel="entdrama">
     <title lang="es">El visitante</title>
@@ -3829,18 +3750,6 @@
     <desc lang="es">El crimen perfecto, sin víctimas, sin violencia e indetectable, se tuerce fatalmente en Blindado, un thriller lleno de acción donde todo es posible. Un grupo de guardias de seguridad que escoltan un camión blindado ejecuta un meticuloso plan para robar a la compañía de segurid...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9c572c3d9d658657fc2080468fb8a751?w=400" />
-  </programme>
-  <programme start="20261105025959 +0000" stop="20261105044702 +0000" channel="entclassic">
-    <title lang="es">Arma Mortal</title>
-    <desc lang="es">Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se har...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2566d09202a995fc40e660ed2dbfc736?w=400" />
-  </programme>
-  <programme start="20261105044702 +0000" stop="20261105063958 +0000" channel="entclassic">
-    <title lang="es">Terminator: El exterminador</title>
-    <desc lang="es">Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será elim...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9e58657f715f8daf6ad85a18448c79b8?w=400" />
   </programme>
   <programme start="20261105063958 +0000" stop="20261105085957 +0000" channel="entclassic">
     <title lang="es">El Mediador</title>
@@ -4582,19 +4491,7 @@
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dfcdbff56ef0a0e831d8c75529b9e6d9?w=400" />
   </programme>
-  <programme start="20261105025819 +0000" stop="20261105044318 +0000" channel="entlife">
-    <title lang="es">City Hall: La Sombra de la Corrupción</title>
-    <desc lang="es">The accidental shooting of a boy in New York leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5e788d4632613d39f21e5592e1448322?w=400" />
-  </programme>
-  <programme start="20261105044318 +0000" stop="20261105070528 +0000" channel="entlife">
-    <title lang="es">Los Ángeles al desnudo</title>
-    <desc lang="es">Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/17d1c3a175bb6d208fa24124ef4aca0a?w=400" />
-  </programme>
-  <programme start="20261105070528 +0000" stop="20261105085949 +0000" channel="entlife">
+  <programme start="20261105070316 +0000" stop="20261105085949 +0000" channel="entlife">
     <title lang="es">Un día de furia</title>
     <desc lang="es">En Los Ángeles, durante una jornada especialmente agobiante a causa del calor y del colapso del tráfico, de repente, un ciudadano normal se rebela de manera violenta y destructiva contra todo lo que lo rodea. Bill Foster (Michael Douglas) no es más que un hombre corriente que...</desc>
     <category lang="es">Crimen</category>
@@ -5190,12 +5087,6 @@
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c062547da06868220e97a36ad521071f?w=400" />
   </programme>
-  <programme start="20261105035954 +0000" stop="20261105054821 +0000" channel="entextreme">
-    <title lang="es">Asesino: Misión venganza</title>
-    <desc lang="es">Tras la muerte de su prometida en un ataque terrorista, Mitch Rapp es reclutado por los Black Ops y entrena bajo la dirección de Stan Hurley, un agente de la CIA. Rapp y Hurley tendrán que llevar a cabo una misión para detener una operación que podría desatar el caos a nivel i...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3dd0c74576d7ebfb23a98ed5b0344ef3?w=400" />
-  </programme>
   <programme start="20261105054821 +0000" stop="20261105072737 +0000" channel="entextreme">
     <title lang="es">Intrusos</title>
     <desc lang="es">Dos niños que viven en países diferentes son visitados cada noche por un ser sin rostro que quiere apoderarse de ellos.</desc>
@@ -5693,18 +5584,6 @@
     <desc lang="es">Cuando el coronel antimutante William Stryker secuestra al profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/170889da6b398ee93e4f8e24dd5fab0f?w=400" />
-  </programme>
-  <programme start="20261105025958 +0000" stop="20261105044405 +0000" channel="entcomedy">
-    <title lang="es">2 policias en apuros</title>
-    <desc lang="es">Two street-wise Chicago cops have to shake off some rust after returning from a Key West vacation to pursue a drug dealer who nearly killed them in the past.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/261b39cf9bef2789f29a042ffa9b14c7?w=400" />
-  </programme>
-  <programme start="20261105044405 +0000" stop="20261105065352 +0000" channel="entcomedy">
-    <title lang="es">Deadpool &amp; Wolverine</title>
-    <desc lang="es">Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f03ba5fa9ec815e1fc3129f9f4ff9bb4?w=400" />
   </programme>
   <programme start="20261105065352 +0000" stop="20261105085945 +0000" channel="entcomedy">
     <title lang="es">El Escuadrón Suicida</title>
