@@ -33,40 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261106025958 +0000" stop="20261106031058 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">La joya mágica</sub-title>
-    <desc lang="es">El Jefe y Pim luchan por sus vidas en un mundo misterioso llamado Spamtopia. Mientras tanto, Charlie confronta a Allan por algo serio.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/65b099cd9c20855d3b30c42ea80ccaa6?w=400" />
-  </programme>
-  <programme start="20261106031058 +0000" stop="20261106032958 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Pim se pone verde</sub-title>
-    <desc lang="es">Después de comerse un misterioso artefacto encontrado en un antiguo cementerio, Pim repentina y misteriosamente se vuelve verde brillante.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6fc7ae33975ed492246bd991a11886b6?w=400" />
-  </programme>
-  <programme start="20261106032958 +0000" stop="20261106035819 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Piloto</sub-title>
-    <desc lang="es">Atrapada en el Circo Digital y ansiosa por escapar, Pomni conoce a otras personas transformadas en caricaturas y a Caine, el excéntrico director del circo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aa706a6f2d5c9d24dcf233855e516a3c?w=400" />
-  </programme>
-  <programme start="20261106035819 +0000" stop="20261106044940 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Cara a cara</sub-title>
-    <desc lang="es">Cuando su plan de matar a Gus fracasa, Walt y Jesse deben actuar rápido para cubrir sus rastros y evitar la muerte</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6851168eb0822a5b79bc89c1931adc23?w=400" />
-  </programme>
-  <programme start="20261106044940 +0000" stop="20261106063908 +0000" channel="entchannel">
-    <title lang="es">Death Race: La carrera de la muerte</title>
-    <desc lang="es">Isla Terminal, Nueva York: 2020. El hacinamiento en el sistema penitenciario de los Estados Unidos ha llegado a un punto de quiebre. Las prisiones han sido entregadas a la corporación monolítica Weyland, la cual ve a las cárceles llenas de delincuentes como una oportunidad par...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d950914923e3b8cda858ef2d4fb7a965?w=400" />
-  </programme>
   <programme start="20261106063908 +0000" stop="20261106085944 +0000" channel="entchannel">
     <title lang="es">Furiosa: De la saga Mad Max</title>
     <desc lang="es">Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los...</desc>
@@ -730,18 +696,6 @@
     <desc lang="es">Después de una mala experiencia en el cine, Homero va a un bar donde descubre a una cantante llamada Lurleen Lumpkin. Ahora, el Coronel Homero es su representante, para disgusto de Marge.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ec9c60993cd9a26c01503ef86e2939c1?w=400" />
-  </programme>
-  <programme start="20261106025855 +0000" stop="20261106042118 +0000" channel="entfamily">
-    <title lang="es">Shrek Tercero</title>
-    <desc lang="es">Designado a regañadientes como el heredero de la tierra de Muy Muy Lejano, Shrek urde un plan para instalar al rebelde Artie como el nuevo rey mientras la princesa Fiona trata de evitar un golpe de estado por parte del Príncipe Encantador.</desc>
-    <category lang="es">Fantasía</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/57ab93518a7415e39ba601e82525ec30?w=400" />
-  </programme>
-  <programme start="20261106042118 +0000" stop="20261106055533 +0000" channel="entfamily">
-    <title lang="es">Luca</title>
-    <desc lang="es">Un joven llamado Luca Paguro experimenta un verano inolvidable con su nuevo mejor amigo, Alberto Scorfano, en un hermoso pueblo al lado del mar en la Riviera, Italiana. Sin embargo, se verían amenazados si se revela su gran secreto: ambos son monstruos marinos.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3ae062e77b93d5e40475bfbe6dc445ff?w=400" />
   </programme>
   <programme start="20261106055533 +0000" stop="20261106074800 +0000" channel="entfamily">
     <title lang="es">Los increíbles</title>
@@ -2654,18 +2608,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261106025958 +0000" stop="20261106051029 +0000" channel="entmovies">
-    <title lang="es">No miren arriba</title>
-    <desc lang="es">Dos astrónomos realizan una gira mediática para advertirle a la humanidad de un cometa mortal que está en rumbo de colisión con la Tierra. La respuesta del mundo: ¿Y?</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/404a8863f4f3403908a6f5bdb414ed07?w=400" />
-  </programme>
-  <programme start="20261106051029 +0000" stop="20261106070325 +0000" channel="entmovies">
-    <title lang="es">2 policias en apuros</title>
-    <desc lang="es">Two street-wise Chicago cops have to shake off some rust after returning from a Key West vacation to pursue a drug dealer who nearly killed them in the past.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/261b39cf9bef2789f29a042ffa9b14c7?w=400" />
-  </programme>
   <programme start="20261106070325 +0000" stop="20261106085927 +0000" channel="entmovies">
     <title lang="es">Trainspotting 2</title>
     <desc lang="es">Han pasado 20 años desde que Mark Renton abandonara Escocia, y la heroína. Ahora, Renton vuelve a su Edimburgo natal con el objetivo de rehacer su vida y reencontrarse con sus amigos de toda la vida: David "Spud" Murphy, y Simon "Sick Boy" Williamson; al mismo tiempo que Franc...</desc>
@@ -3169,34 +3111,6 @@
     <desc lang="es">Cuando pierde un partido de boxeo virtual muy publicitado con el ex campeón Rocky Balboa, actual campeón de los pesos pesados, Mason Dixon toma represalias al desafiar a Rocky a una pelea televisiva de 10 asaltos televisada a nivel nacional. Para sorpresa de su hijo y amigos,...</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9267fd059f36de539a3fb9a2c0bea28c?w=400" />
-  </programme>
-  <programme start="20261106025958 +0000" stop="20261106035245 +0000" channel="entdrama">
-    <title lang="es">The Last of Us</title>
-    <sub-title lang="es">Infectados</sub-title>
-    <desc lang="es">Luego de escapar de la zona de cuarentena, Joel y Tess discuten sobre el destino de Ellie mientras transitan las ruinas de un Boston abandonada ya hace mucho tiempo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a3420b24d7b46ee35319eaaf0a277e47?w=400" />
-  </programme>
-  <programme start="20261106035245 +0000" stop="20261106045959 +0000" channel="entdrama">
-    <title lang="es">MINDHUNTER</title>
-    <sub-title lang="es">Episodio 2</sub-title>
-    <desc lang="es">Holden entrevista al siniestro y elocuente asesino Ed Kemper, pero su investigación provoca una reacción negativa del FBI.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e61a2f5f6e7d6f3745dd3e5c65cf951a?w=400" />
-  </programme>
-  <programme start="20261106045959 +0000" stop="20261106055816 +0000" channel="entdrama">
-    <title lang="es">Big Little Lies</title>
-    <sub-title lang="es">Episodio 6</sub-title>
-    <desc lang="es">Bonnie tells Nathan about Abigail's secret project; Jane confronts Renata; Ed and Madeline have a candid conversation about their lack of passion.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/27f26b1112ebaa6f331cac128ccf2804?w=400" />
-  </programme>
-  <programme start="20261106055816 +0000" stop="20261106065808 +0000" channel="entdrama">
-    <title lang="es">Black Bird: Confesiones de un asesino</title>
-    <sub-title lang="es">Piloto</sub-title>
-    <desc lang="es">Jimmy Keene vive al máximo hasta que recibe una sentencia de 10 años. Tras las rejas, le ofrecen un trato muy arriesgado a cambio de su libertad.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7d233c52ff0d19132f85f8bfd0005558?w=400" />
   </programme>
   <programme start="20261106065808 +0000" stop="20261106075622 +0000" channel="entdrama">
     <title lang="es">Legion</title>
@@ -3830,18 +3744,6 @@
     <desc lang="es">Henry Roth es un hombre temeroso del compromiso hasta que conoce a la bella Lucy. Se llevan bien y Henry cree que por fin ha encontrado a la chica de sus sueños, hasta que descubre que tiene pérdida de memoria a corto plazo y se olvida de él al día siguiente.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7c1b9c5131da17ec850c2b2641a7f608?w=400" />
-  </programme>
-  <programme start="20261106025959 +0000" stop="20261106041942 +0000" channel="entclassic">
-    <title lang="es">A prueba de balas</title>
-    <desc lang="es">Archie Moses y Rock Keats han sido amigos y compañeros en el crimen durante demasiado tiempo como para no conocerse mutuamente. Sin embargo, durante una operación de tráfico de drogas de cierta envergadura, se descubre que Keats es un policía infiltrado y Moses acaba disparánd...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/db1f4227670de747c96414f8ca44814b?w=400" />
-  </programme>
-  <programme start="20261106041942 +0000" stop="20261106055632 +0000" channel="entclassic">
-    <title lang="es">Vivir Rodando</title>
-    <desc lang="es">Película acerca de la filmación de películas. Tiene lugar durante un día de filmación en el set de una película de bajo presupuesto. Es un tributo a todas los cineastas independientes.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/696889a54233c848ddfef0060e55210e?w=400" />
   </programme>
   <programme start="20261106055632 +0000" stop="20261106073531 +0000" channel="entclassic">
     <title lang="es">Presidio, la hora de los héroes</title>
@@ -4589,18 +4491,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/617783c9ba25d5d55f6b0fb260a702c3?w=400" />
   </programme>
-  <programme start="20261106025900 +0000" stop="20261106050123 +0000" channel="entlife">
-    <title lang="es">Crimen verdadero</title>
-    <desc lang="es">Desde su infancia, la joven Mary Giordano (Alicia Silverstone) está fascinada por los crímenes y el trabajo de detective. Avida lectora de la revista “Crimen verdadero”, se siente obsesionada desde hace años por el homicidio y mutilación de su compañera de clase de catorce año...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/08a3a6c8527bc5656a42e14310e86d1a?w=400" />
-  </programme>
-  <programme start="20261106050123 +0000" stop="20261106064011 +0000" channel="entlife">
-    <title lang="es">Mi novio el asesino perfecto</title>
-    <desc lang="es">Una mujer se enamora de un hombre aparentemente perfecto... pero resulta ser un asesino profesional, algo que le planteará no pocas dudas éticas y morales.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f56460a9809b869db3e3b58e20b8d71c?w=400" />
-  </programme>
   <programme start="20261106064011 +0000" stop="20261106085834 +0000" channel="entlife">
     <title lang="es">Enemigos Publicos</title>
     <desc lang="es">El encanto y la audacia del ladrón de bancos de la era de la depresión, John Dillinger, lo hacen querer a gran parte del público pisoteado de Estados Unidos, pero también es una espina en el costado de J. Edgar Hoover y el incipiente FBI. Desesperado por capturar al esquivo de...</desc>
@@ -5203,12 +5093,6 @@
     <category lang="es">Misterio</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fc4d4c68a15cd70374b791e9bee3054a?w=400" />
   </programme>
-  <programme start="20261106035816 +0000" stop="20261106054325 +0000" channel="entextreme">
-    <title lang="es">Viento salvaje</title>
-    <desc lang="es">Wind River gira en torno a un cazador de coyotes traumatizado por la muerte de su hija, que un día encuentra el cadáver de una chica en el bosque. Eventualmente recurrirá a la ayuda de una inexperta agente del FBI para averiguar quién es el responsable.</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/487b913e6fdd26e1afa89d99953a5762?w=400" />
-  </programme>
   <programme start="20261106054325 +0000" stop="20261106072427 +0000" channel="entextreme">
     <title lang="es">Crash: Extraños Placeres</title>
     <desc lang="es">Una noche, James Ballard estrella su coche contra el de Helen y ambos son ingresados en un hospital. Lo sorprendente es que inmediatamente después del choque los dos experimentaron una extraña atracción mutua. A partir de entonces, la vida de James se precipitará hacia un mund...</desc>
@@ -5712,18 +5596,6 @@
     <desc lang="es">Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1c3c06b0c473128b3cca4c07344fda84?w=400" />
-  </programme>
-  <programme start="20261106025957 +0000" stop="20261106043522 +0000" channel="entcomedy">
-    <title lang="es">Un santa no tan santo</title>
-    <desc lang="es">Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d8ae72ca6afc128ef2f463f11bb2031c?w=400" />
-  </programme>
-  <programme start="20261106043522 +0000" stop="20261106062910 +0000" channel="entcomedy">
-    <title lang="es">Un Hombre Diferente</title>
-    <desc lang="es">El aspirante a actor Edward se somete a un procedimiento médico radical para transformar drásticamente su apariencia. Pero el nuevo rostro de sus sueños se convierte rápidamente en una pesadilla, ya que pierde el papel para el que nació y se obsesiona con recuperar lo perdido.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/373d1b8cfa7472f8de42bcb6bd56dde9?w=400" />
   </programme>
   <programme start="20261106062910 +0000" stop="20261106085858 +0000" channel="entcomedy">
     <title lang="es">Boogie Nights: Juegos de placer</title>
