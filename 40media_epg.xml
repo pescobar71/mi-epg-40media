@@ -33,34 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261107025959 +0000" stop="20261107031119 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Tonto Samuel</sub-title>
-    <desc lang="es">Pim y Charlie deben ayudar a un bicho raro, feo y estúpido que no le agrada a nadie. Mientras tanto, el Jefe y Allan... leer más.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/217f709b1cd5dd093267d84dfae4ed82?w=400" />
-  </programme>
-  <programme start="20261107031119 +0000" stop="20261107032851 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El viaje increíble</sub-title>
-    <desc lang="es">En este aclamado y galardonado episodio de "Smiling Friends", una rana que habla y camina cambiará tu vida y recalibrará tu cerebro.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f13c18d9f80bb5a49a52eb7278111fab?w=400" />
-  </programme>
-  <programme start="20261107032851 +0000" stop="20261107035937 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">¡Caos, camiones y caramelos!</sub-title>
-    <desc lang="es">La pandilla debe ir tras los bandidos de miel en un reino de caramelos. Pomni ayuda a un forajido digital a resolver una pegajosa crisis de identidad.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fa62b4114b369890b44b493a3f7c6628?w=400" />
-  </programme>
-  <programme start="20261107035937 +0000" stop="20261107044922 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Vive libre o muere</sub-title>
-    <desc lang="es">Walt visita a su familia, que aún está en custodia, mientras debe lidiar con las secuelas de la explosión en Casa Tranquila.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f21b54cd7777e17cde767e0ad3f8faf4?w=400" />
-  </programme>
   <programme start="20261107044922 +0000" stop="20261107070458 +0000" channel="entchannel">
     <title lang="es">Los Ángeles al desnudo</title>
     <desc lang="es">Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se...</desc>
@@ -731,13 +703,7 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/daa07ae1a067e01ddd70441b52f7604a?w=400" />
   </programme>
-  <programme start="20261107025932 +0000" stop="20261107043248 +0000" channel="entfamily">
-    <title lang="es">Los tipos malos 2</title>
-    <desc lang="es">Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.</desc>
-    <category lang="es">Familia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53e64dc703936d29b4779fcbac1e72a9?w=400" />
-  </programme>
-  <programme start="20261107043248 +0000" stop="20261107061928 +0000" channel="entfamily">
+  <programme start="20261107043733 +0000" stop="20261107061928 +0000" channel="entfamily">
     <title lang="es">¿Quién engañó a Roger Rabbit?</title>
     <desc lang="es">La estrella de animación Roger Rabbit teme que su esposa Jessica lo engañe con alguien, por lo que el estudio decide contratar al detective Eddie Valiant para que la espíe, pero todo cambia súbitamente cuando encuentran el cadáver de Marvin Acme y Roger es el principal sospech...</desc>
     <category lang="es">Fantasía</category>
@@ -2672,13 +2638,7 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261107025958 +0000" stop="20261107043815 +0000" channel="entmovies">
-    <title lang="es">Tango y Cash</title>
-    <desc lang="es">Ray Tango y Gabriel Cash son dos exitosos detectives de narcóticos que no se soportan. El señor del crimen Yves Perret, furioso por la pérdida de ingresos que ambos le han causado, trama contra ellos una elaborada venganza.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d86f923da949b85adcb91d94804b14b?w=400" />
-  </programme>
-  <programme start="20261107043815 +0000" stop="20261107072100 +0000" channel="entmovies">
+  <programme start="20261107044300 +0000" stop="20261107072100 +0000" channel="entmovies">
     <title lang="es">La chica del dragón tatuado</title>
     <desc lang="es">Adaptación en inglés de la novela sueca de Stieg Larsson.  Esperando poder distanciarse de la acusación de difamación que pesa sobre él, el periodista Mikael Blomkvist se traslada a una isla remota en el norte de Suecia donde la muerte aún no resuelta de una joven atormenta a...</desc>
     <category lang="es">Suspense</category>
@@ -3175,13 +3135,6 @@
     <desc lang="es">Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.</desc>
     <category lang="es">Familia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a776a419d72cb13ac7efd89e30f1e3d?w=400" />
-  </programme>
-  <programme start="20261107025943 +0000" stop="20261107034824 +0000" channel="entdrama">
-    <title lang="es">Fallout</title>
-    <sub-title lang="es">Los ghouls</sub-title>
-    <desc lang="es">Muerte a la Administración.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/202f07834a83e8debef32a312f77ce89?w=400" />
   </programme>
   <programme start="20261107045956 +0000" stop="20261107055831 +0000" channel="entdrama">
     <title lang="es">Call of the Night</title>
@@ -3830,13 +3783,7 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b5340993b27c9bf8460cf2dc18ea2005?w=400" />
   </programme>
-  <programme start="20261107025934 +0000" stop="20261107050853 +0000" channel="entclassic">
-    <title lang="es">La Última Puerta</title>
-    <desc lang="es">Dean Corso (Johnny Depp) es un bibliófilo dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Es, además, un hombre extremadamente minucioso y eficaz en su trabajo. Gracias a su reputación, Boris Balkan, un coleccionista de textos satánicos, le encarga una misió...</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e1f759632ece7f7b2ae74e691b31c19?w=400" />
-  </programme>
-  <programme start="20261107050853 +0000" stop="20261107070314 +0000" channel="entclassic">
+  <programme start="20261107051352 +0000" stop="20261107070314 +0000" channel="entclassic">
     <title lang="es">Miseria</title>
     <desc lang="es">El novelista Paul Sheldon choca su auto en una carretera nevada de Colorado. Annie Wilkes, el "fanático número uno" de la heroína Misery Chastaine, lo encuentra. Annie también es algo inestable, y Paul se encuentra lisiado, drogado y a su merced.</desc>
     <category lang="es">Drama</category>
@@ -4577,13 +4524,7 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/13db1c4ef5c4ab37de17a7416d5d8972?w=400" />
   </programme>
-  <programme start="20261107025959 +0000" stop="20261107045557 +0000" channel="entlife">
-    <title lang="es">El Camino: Una película de Breaking Bad</title>
-    <desc lang="es">Después de escapar de Jack y su pandilla, Jesse Pinkman huye de la policía e intenta escapar de su propia tormenta interna.</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d784f703f47f5c46eecc7e41fdc220a?w=400" />
-  </programme>
-  <programme start="20261107045557 +0000" stop="20261107070607 +0000" channel="entlife">
+  <programme start="20261107050045 +0000" stop="20261107070607 +0000" channel="entlife">
     <title lang="es">Culpable en la mafia</title>
     <desc lang="es">Tras años de investigación, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a veinte miembros de la familia Lucchese, conocida por sus conexiones con la mafia; se les acusaba de 76 delitos. El Gobierno de Estados Unidos se había propuesto a...</desc>
     <category lang="es">Comedia</category>
@@ -5697,13 +5638,7 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a6acecd8f24c308c4b9b932cf6b1f3f2?w=400" />
   </programme>
-  <programme start="20261107025957 +0000" stop="20261107042500 +0000" channel="entcomedy">
-    <title lang="es">No tengo cambio</title>
-    <desc lang="es">Grimm es un urbanista neoyorquino que, harto del caos y la corrupción reinante, decide abandonar la ciudad. Con la ayuda de su novia Phyllis y del simplón de su hermano Loomis, elabora un meticuloso plan para huir en avión después de atracar un banco. Disfrazado de payaso, Gri...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/521dc913c91c16d13029d1d851eafafb?w=400" />
-  </programme>
-  <programme start="20261107042500 +0000" stop="20261107060606 +0000" channel="entcomedy">
+  <programme start="20261107042959 +0000" stop="20261107060606 +0000" channel="entcomedy">
     <title lang="es">8 cabezas</title>
     <desc lang="es">Tommy Spinelli (Joe Pesci) es un gángster que ha de transportar a la ciudad de San Diego una bolsa con ocho cabezas humanas. Durante el viaje, el intercambio accidental de bolsas con un joven que viaja a México de vacaciones desencadenará una sucesión de absurdas situaciones..</desc>
     <category lang="es">Comedia</category>
