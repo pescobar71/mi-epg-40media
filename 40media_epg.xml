@@ -33,34 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261111025834 +0000" stop="20261111031041 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El gran día de Desmond</sub-title>
-    <desc lang="es">Una pequeña empresa dedicada a llevar la felicidad a todas partes recibe la llamada de una madre pidiendo que ayuden a su hijo a sonreír de nuevo. Pero será más complicado de lo que parece.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1303512e5950b6e873fae3c1624f567e?w=400" />
-  </programme>
-  <programme start="20261111031041 +0000" stop="20261111032823 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Mr. Frog</sub-title>
-    <desc lang="es">Pim y Charlie deben ayudar a una rana que se ha metido en problemas mientras Glep vive una loca aventura actoral.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d30c9dddcd4c975f5642b0ac1ff6915?w=400" />
-  </programme>
-  <programme start="20261111032823 +0000" stop="20261111040356 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Les dimos armas</sub-title>
-    <desc lang="es">Caine prepara al grupo para un juego brutal, en el que deben trabajar en parejas para buscar armas y sobrevivir a tres «muertes» para ganar.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/984abb51c65c0197569232d4c6146991?w=400" />
-  </programme>
-  <programme start="20261111040356 +0000" stop="20261111045959 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Carga de muerte</sub-title>
-    <desc lang="es">Mike y Lydia trabajan para transportar la metilamina necesaria para la operación. Walt y Jesse intentan elaborar un plan que no arruine su tapadera.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e1415d331b71c27a98ffa633463cb792?w=400" />
-  </programme>
   <programme start="20261111045959 +0000" stop="20261111065527 +0000" channel="entchannel">
     <title lang="es">Looper: Asesinos del futuro</title>
     <desc lang="es">En el thriller de acción futurista Looper, el viaje en el tiempo se inventará, pero será ilegal y solo estará disponible en el mercado negro. Cuando la mafia quiere deshacerse de alguien, enviarán a su objetivo 30 años en el pasado donde un looper, un arma alquilada, como Joe...</desc>
@@ -730,18 +702,6 @@
     <desc lang="es">Homero inscribe a Lisa en un concurso de belleza, y sale segunda. Pero cuando la ganadora sufre un accidente Lisa toma su lugar como Pequeña Miss Springfield.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ca951fbc5220a53cc691212e5e6d5b5?w=400" />
-  </programme>
-  <programme start="20261111030238 +0000" stop="20261111043438 +0000" channel="entfamily">
-    <title lang="es">Los pingüinos de papá</title>
-    <desc lang="es">Mr. Popper (Jim Carrey) es un poderoso empresario que se queda un tanto descolocado cuando recibe como herencia nada menos que... ¡6 pingüinos! Obviamente, su cuidado no es una tarea sencilla, circunstancia que provoca ciertos problemas tanto en el trabajo como en el hogar de...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/84d7845015d82cc7ab1a9015e84df2f4?w=400" />
-  </programme>
-  <programme start="20261111043438 +0000" stop="20261111060849 +0000" channel="entfamily">
-    <title lang="es">Up: Una Aventura de Altura</title>
-    <desc lang="es">El vendedor de globos de 78 años, Carl Fredricksen, lleva a cabo el sueño de su vida al enganchar miles de globos a su casa y salir volando rumbo a Sudamérica. Sin embargo, descubre más tarde que no va solo, ya que también se ha embarcado en el viaje Russell, un optimista expl...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ccc20a40f7881c34f9785e65eeae6cef?w=400" />
   </programme>
   <programme start="20261111060849 +0000" stop="20261111073615 +0000" channel="entfamily">
     <title lang="es">Los Pingüinos de Madagascar</title>
@@ -2651,13 +2611,7 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261111025943 +0000" stop="20261111050154 +0000" channel="entmovies">
-    <title lang="es">Cuando un hombre ama a una mujer</title>
-    <desc lang="es">Un piloto de la línea aérea y su esposa se obligan a afrontar las consecuencias de su alcoholismo cuando sus dependencias amenazan su vida y la seguridad de su hija. Mientras la mujer entra en la desintoxicación, su marido debe afrontar la verdad de su comportamiento de permiso.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/80262bde5ebd90ebc254288446fa26cb?w=400" />
-  </programme>
-  <programme start="20261111050154 +0000" stop="20261111070956 +0000" channel="entmovies">
+  <programme start="20261111050713 +0000" stop="20261111070956 +0000" channel="entmovies">
     <title lang="es">Blow: Inhala</title>
     <desc lang="es">Basada en hechos reales, cuenta la historia de George Jung, un hombre de familia humilde que consiguió hacerse multimillonario gracias a su propia versión del sueño americano. Durante su estancia en la cárcel se adentra en el mundo del narcotráfico en Colombia, y a través de u...</desc>
     <category lang="es">Crimen</category>
@@ -3130,20 +3084,6 @@
     <desc lang="es">Cuando el coronel antimutante William Stryker secuestra al profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/170889da6b398ee93e4f8e24dd5fab0f?w=400" />
-  </programme>
-  <programme start="20261111030024 +0000" stop="20261111043019 +0000" channel="entdrama">
-    <title lang="es">Sherlock</title>
-    <sub-title lang="es">Escándalo en Belgravia</sub-title>
-    <desc lang="es">Un caso de chantaje amenaza a las altas esferas de la monarquía misma. pero pronto Sherlock y John descubren que hay mas que eso. De pronto se encuentras luchando contra el terrorismo internacional, agentes rebeldes de la CIA y una conspiración ultra secreta en la que el gobie...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ea2e53f4de1610ef11d5f83694699dc3?w=400" />
-  </programme>
-  <programme start="20261111043019 +0000" stop="20261111054456 +0000" channel="entdrama">
-    <title lang="es">Mr. Robot</title>
-    <sub-title lang="es">D3PURAR</sub-title>
-    <desc lang="es">Elliot trata de llevar una vida normal pero es atraído hacia Fsociety. Gideon sospecha de él mientras Tyrell juega sucio en El Mal Corp. Lo hice por LULZ, por diversión.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9870eab2c91ca609801381ac1ee01c00?w=400" />
   </programme>
   <programme start="20261111054456 +0000" stop="20261111064448 +0000" channel="entdrama">
     <title lang="es">Tabú</title>
@@ -3798,18 +3738,6 @@
     <desc lang="es">Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista dec...</desc>
     <category lang="es">Suspense</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3345d7c7072e8749d0f33faf4c5b8be6?w=400" />
-  </programme>
-  <programme start="20261111030220 +0000" stop="20261111043725 +0000" channel="entclassic">
-    <title lang="es">Trainspotting: La Vida en el Abismo</title>
-    <desc lang="es">Mark Renton, un joven escocés de Edimburgo, y sus amigos son adictos a la heroína, lo que significa que viven fuera de la realidad, en un mundo aparte. Dentro del grupo hay un psicópata alcohólico y violento, un joven desesperado, un mujeriego con un conocimiento enciclopédico...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8b1e6ae00d8d5a9403e76bfe138435b2?w=400" />
-  </programme>
-  <programme start="20261111043725 +0000" stop="20261111063526 +0000" channel="entclassic">
-    <title lang="es">Indiana Jones 2: El templo de la perdición</title>
-    <desc lang="es">1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeñ...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/011ffed71e7cecd58a9fa10ece4eb220?w=400" />
   </programme>
   <programme start="20261111063526 +0000" stop="20261111090052 +0000" channel="entclassic">
     <title lang="es">Contacto Sangriento</title>
@@ -4515,18 +4443,6 @@
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9dc70e05035110f7307908bceeb5db6e?w=400" />
   </programme>
-  <programme start="20261111030055 +0000" stop="20261111051148 +0000" channel="entlife">
-    <title lang="es">El Vicepresidente: Más allá del poder</title>
-    <desc lang="es">George W. Bush, gobernador de Texas, elige como su mano derecha para las elecciones presidenciales del año 2000 a Dick Cheney, presidente ejecutivo de Halliburton Co. Esta es la historia de cómo Cheney llegó a disponer de un poder casi ilimitado.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1624d8c0cafbd56658eb080135b71d0c?w=400" />
-  </programme>
-  <programme start="20261111051148 +0000" stop="20261111064224 +0000" channel="entlife">
-    <title lang="es">Muerte en el funeral</title>
-    <desc lang="es">Cuando una familia se reúne para despedir a un ser querido en su funeral, los secretos y las sorpresas comienzan a desatarse, transformando un solemne evento en una hilarante montaña rusa de caos. Con personajes únicos, situaciones inesperadas y un invitado que revela secretos...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a4c0d224d1843ee5dac146451bb3836?w=400" />
-  </programme>
   <programme start="20261111064224 +0000" stop="20261111085958 +0000" channel="entlife">
     <title lang="es">La Isla Siniestra</title>
     <desc lang="es">En el verano de 1954, los agentes judiciales Teddy Daniels (DiCaprio) y Chuck Aule (Ruffalo) son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina (Mortimer) que estaba recluida en el hospital psiquiátrico Ashecliffe, un...</desc>
@@ -5117,12 +5033,6 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dd64008f2cac0abdba72aa89cff56b69?w=400" />
   </programme>
-  <programme start="20261111035816 +0000" stop="20261111053728 +0000" channel="entextreme">
-    <title lang="es">Life: Vida inteligente</title>
-    <desc lang="es">Un equipo de científicos a bordo de la Estación Espacial Internacional descubre una forma de vida en rápida evolución que causó la extinción en Marte y ahora amenaza toda la vida en la Tierra.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b38c12884784e8b08b5fe0cac98e4315?w=400" />
-  </programme>
   <programme start="20261111053728 +0000" stop="20261111071931 +0000" channel="entextreme">
     <title lang="es">Parpadea dos veces</title>
     <desc lang="es">Cuando el multimillonario tecnológico Slater King conoce a la camarera Frida en su gala de recaudación de fondos, la invita a unirse a él y a sus amigos en unas vacaciones de ensueño en su isla privada. Sin embargo empiezan a suceder cosas extrañas, así como Frida cuestiona su...</desc>
@@ -5614,18 +5524,6 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <desc lang="es">En la década de 1960, los humanos con superpoderes Charles Xavier y Erik Lensherr trabajan juntos para encontrar otros como ellos, pero la búsqueda vengativa de Erik de un ambicioso mutante que arruinó su vida provoca un cisma que los divide.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9f10e830191eb51394d9366f7253e7dd?w=400" />
-  </programme>
-  <programme start="20261111025811 +0000" stop="20261111043214 +0000" channel="entcomedy">
-    <title lang="es">El Despertar de los Muertos</title>
-    <desc lang="es">La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local con su amigo íntimo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado. Shaun decide, finalmente, poner su vida en orden. Tiene que reconquistar el corazón de su novia...</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/40305578a668e64c202695ba61ac3674?w=400" />
-  </programme>
-  <programme start="20261111043214 +0000" stop="20261111061826 +0000" channel="entcomedy">
-    <title lang="es">Un santa no tan santo</title>
-    <desc lang="es">Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d8ae72ca6afc128ef2f463f11bb2031c?w=400" />
   </programme>
   <programme start="20261111061826 +0000" stop="20261111085956 +0000" channel="entcomedy">
     <title lang="es">Tipos de gentileza</title>
