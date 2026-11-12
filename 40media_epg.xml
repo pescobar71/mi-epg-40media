@@ -33,40 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261112025850 +0000" stop="20261112031009 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">La odisea de Camarón</sub-title>
-    <desc lang="es">Un camarón acude a los Smiling Friends cuando su novia lo deja, pero Pim y Charlie tienen ideas diferentes sobre cómo manejar la situación.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/477e94f4dfe59080f885b04a1f4a990c?w=400" />
-  </programme>
-  <programme start="20261112031009 +0000" stop="20261112032854 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Un loco especial de Halloween</sub-title>
-    <desc lang="es">Pim se adentra en el bosque para conseguir leña para la fiesta de Halloween de la oficina.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c9a2d19f08c65b570e209afdbaf1e83b?w=400" />
-  </programme>
-  <programme start="20261112032854 +0000" stop="20261112040229 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Episodio de Playa</sub-title>
-    <desc lang="es">La pandilla va a la playa para disfrutar del sol, pero unas inquietantes revelaciones comienzan a revelar grietas en el circo de Caine.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dcf027aa1aef81e7fab53b5a4cd06166?w=400" />
-  </programme>
-  <programme start="20261112040229 +0000" stop="20261112045045 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Adquisición</sub-title>
-    <desc lang="es">Walt, Mike y Jesse lidian con las repercusiones del robo de la metilamina. Mike y Jesse quieren salirse del negocio, pero Walt está decidido a construir su imperio.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4f800ede07f6ae7d65cf71e6e6411326?w=400" />
-  </programme>
-  <programme start="20261112045045 +0000" stop="20261112065548 +0000" channel="entchannel">
-    <title lang="es">Terciopelo azul</title>
-    <desc lang="es">Una mañana, Jeffrey Beaumont (Kyle MacLachlan), después de visitar a su padre en el hospital, encuentra entre unos arbustos una oreja humana. La guarda en una bolsa de papel y la lleva a la comisaría de policía, donde le atiende el detective Williams (George Dickerson), que es...</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/74e4676ecb68f6b6f9644d6fa481c826?w=400" />
-  </programme>
   <programme start="20261112065548 +0000" stop="20261112090141 +0000" channel="entchannel">
     <title lang="es">Código de familia</title>
     <desc lang="es">Una saga centrada en una familia multigeneracional de policías de la ciudad de Nueva York. Los códigos morales de la familia se prueban cuando Ray Tierney investiga un caso que revela un escándalo de corrupción policial incendiaria que involucra a su propio cuñado. Para Ray, l...</desc>
@@ -731,18 +697,6 @@
     <desc lang="es">La familia da una fiesta de Halloween en la que se cuentan tres historias de terror: - El payaso sin piedad: Bart recibe, como regalo de cumpleaños, un muñeco de Krusty que habla. Pero el muñeco se torna maligno. - King Homero: Adaptación al modo Simpson de la popular historia...</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cf36b8fe62b71d597b0282116925607c?w=400" />
-  </programme>
-  <programme start="20261112030112 +0000" stop="20261112042820 +0000" channel="entfamily">
-    <title lang="es">Mi villano favorito 3</title>
-    <desc lang="es">Nuevas aventuras de Gru, Lucy, sus adorables hijas Margo, Edith y Agnes y por supuesto los Minions. En esta ocasión veremos como el gemelo de Gru, desparecido hace muchísimos años, emerge, lo que ocasionará una enorme rivalidad entre hermanos. Además, aparecerá en escena un nu...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/986b61e024cea5596cb29bff85c3eeef?w=400" />
-  </programme>
-  <programme start="20261112042820 +0000" stop="20261112062917 +0000" channel="entfamily">
-    <title lang="es">Rocky II</title>
-    <desc lang="es">Después de que Rocky va la distancia con el campeón Apolo Creed, ambo intento de poner la lucha detrás de ellos y circular. Rocky se instala con Adrian, pero no puede reunir su vida fuera del anillo, mientras Creed busca una revancha para restaurar su reputación. Bastante pron...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a9c19a0032fb79ae5ec57a81859b2542?w=400" />
   </programme>
   <programme start="20261112062917 +0000" stop="20261112082109 +0000" channel="entfamily">
     <title lang="es">Splash</title>
@@ -2628,18 +2582,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261112025938 +0000" stop="20261112052137 +0000" channel="entmovies">
-    <title lang="es">Vicio propio</title>
-    <desc lang="es">California, año 1970. A Doc Sportello, un peculiar detective privado de Los Ángeles, le pide ayuda su exmujer, una seductora "femme fatale" debido a la desaparición de su amante, un magnate inmobiliario que pretendía devolverle a la sociedad todo lo que había expoliado. Sporte...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a7c7a3384bf12c3dc421cb280b39568e?w=400" />
-  </programme>
-  <programme start="20261112052137 +0000" stop="20261112070727 +0000" channel="entmovies">
-    <title lang="es">Perros de Reserva</title>
-    <desc lang="es">Una banda organizada formada por seis individuos es contratada para dar un golpe. Anteriormente varios de los miembros no se conocían entre sí, por lo que entre ellos usan nombres en clave. El objetivo: atracar una empresa para llevarse unos diamantes. Pero, antes de que suene...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a4ffc70d623596edfcbdf1a78048722?w=400" />
-  </programme>
   <programme start="20261112070727 +0000" stop="20261112085938 +0000" channel="entmovies">
     <title lang="es">Amigos De Armas</title>
     <desc lang="es">Con la guerra en Irak en toda su furia, un joven ofrece a su amigo de la infancia la oportunidad de ganar mucho dinero al convertirse en un vendedor internacional de armas. Juntos, explotan una iniciativa del gobierno que permite a las empresas de participar en contratos milit...</desc>
@@ -3125,27 +3067,6 @@
     <desc lang="es">Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técni...</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ff08d5e5ac678892aabfc9f35d6b5a9f?w=400" />
-  </programme>
-  <programme start="20261112030347 +0000" stop="20261112040222 +0000" channel="entdrama">
-    <title lang="es">Los Vigilantes</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <desc lang="es">Prez impresses the detail with what he's found out from Bodie's cell phone, information that sends McNulty and Greggs on a road trip. Colvin sees the benefits of his plan working. Carcetti confronts a hurdle he must clear if he wa...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/34d26b4b4588a2626457f20cd086ddaa?w=400" />
-  </programme>
-  <programme start="20261112040222 +0000" stop="20261112055959 +0000" channel="entdrama">
-    <title lang="es">Los Vigilantes</title>
-    <sub-title lang="es">Episodio 9</sub-title>
-    <desc lang="es">Responding to an officer's call for help, McNulty and Prez turn up the wrong alley with unanticipated results. Cutty is surprised to find help from within Baltimore's power structure for his proposed boxing gym. Omar decides to go...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3cdbca7caaa128230ea2e2abf8a8957e?w=400" />
-  </programme>
-  <programme start="20261112055959 +0000" stop="20261112065957 +0000" channel="entdrama">
-    <title lang="es">Banshee</title>
-    <sub-title lang="es">Episodio 2</sub-title>
-    <desc lang="es">Carrie Hopewell has her trial. She is sentenced to 30 days in prison. DA Hopewell does nothing to help. Tensions between the Longshadow's and Proctor's intensify. Deputy Kelly's abusive ex-husband returns to town with extreme cons...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9444ca3b8e75397ca28b718dccd30dcf?w=400" />
   </programme>
   <programme start="20261112065957 +0000" stop="20261112075836 +0000" channel="entdrama">
     <title lang="es">El visitante</title>
@@ -3799,18 +3720,6 @@
     <desc lang="es">La película explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker, su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de 20 años, desde el ascenso de Presle...</desc>
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7a54c90d7110d86cfe94a2d8c9fc82e4?w=400" />
-  </programme>
-  <programme start="20261112030222 +0000" stop="20261112050337 +0000" channel="entclassic">
-    <title lang="es">Tiempos De Gloria</title>
-    <desc lang="es">Entre 1861 y 1865 tuvo lugar la Guerra de Secesión que enfrentó al ejército confederado (Sur) con las tropas de la Unión (Norte). Los militares del Norte eran reacios a reclutar negros y armarlos para luchar contra el Sur; pero, finalmente, se aprobó una ley que lo permitía. E...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/07dc776717c1226aa6bc9b0917147d7f?w=400" />
-  </programme>
-  <programme start="20261112050337 +0000" stop="20261112070105 +0000" channel="entclassic">
-    <title lang="es">Asesinos por naturaleza</title>
-    <desc lang="es">Micky y Mallory son una poco convencional pareja de jovenes amantes que sienten que han nacido para matar: son dos despiadados criminales que tienen atemorizada a la población. Un presentador de un programa sensacionalista se aprovecha de la fascinación que su personalidad eje...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/22572a6667d5de38bcd83767e1302d6f?w=400" />
   </programme>
   <programme start="20261112070105 +0000" stop="20261112085957 +0000" channel="entclassic">
     <title lang="es">Historia Americana X</title>
@@ -4522,18 +4431,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/46fa80f1269ade7fa1f32aeccdae0ba5?w=400" />
   </programme>
-  <programme start="20261112030341 +0000" stop="20261112044420 +0000" channel="entlife">
-    <title lang="es">MaXXXine</title>
-    <desc lang="es">En los años 80 en Hollywood, la estrella de cine para adultos y aspirante a actriz Maxine Minx finalmente obtiene su gran oportunidad. Pero cuando un misterioso asesino acecha a las estrellas de Hollywood, un rastro de sangre amenaza con revelar su siniestro pasado.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/30c2001cf15588d40cb66edb962e4e3c?w=400" />
-  </programme>
-  <programme start="20261112044420 +0000" stop="20261112063513 +0000" channel="entlife">
-    <title lang="es">No hables con extraños</title>
-    <desc lang="es">Cuando una familia estadounidense es invitada a pasar el fin de semana en la idílica finca de una familia británica con la que hicieron amistad durante las vacaciones, lo que comienza como unas vacaciones de ensueño pronto se convierte en una pesadilla psicológica.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/33c21bd02c01142fa70936d9886ee84a?w=400" />
-  </programme>
   <programme start="20261112063513 +0000" stop="20261112090050 +0000" channel="entlife">
     <title lang="es">Perdida</title>
     <desc lang="es">El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte e...</desc>
@@ -5124,18 +5021,6 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0c88abb7cb9aabbea1a0a706498e8388?w=400" />
   </programme>
-  <programme start="20261112035957 +0000" stop="20261112054559 +0000" channel="entextreme">
-    <title lang="es">X</title>
-    <desc lang="es">En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e68bb5d3a2bfbbe0f0395be39513dce?w=400" />
-  </programme>
-  <programme start="20261112054559 +0000" stop="20261112073016 +0000" channel="entextreme">
-    <title lang="es">Oldboy: Días de Venganza</title>
-    <desc lang="es">Luego de estar preso durante años, repentinamente liberan a Joe Doucett. Ahora, su única misión es atrapar y castigar a sus captores.</desc>
-    <category lang="es">Misterio</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f3efee600e3dc729c99a5bc342b02a4c?w=400" />
-  </programme>
   <programme start="20261112073016 +0000" stop="20261112085820 +0000" channel="entextreme">
     <title lang="es">Silencio en el lago</title>
     <desc lang="es">Steve organiza una escapada romántica de fin de semana con su novia Jenny, a la que planea pedir matrimonio. Sin embargo, en el tranquilo Lago Edén se encuentran con un grupo de adolescentes problemáticos que convierten lo que pudo ser un fin de semana paradisíaco en su peor p...</desc>
@@ -5615,18 +5500,6 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <desc lang="es">Godzilla, fuerza destructiva insondable para el hombre, resucita en el Tokio de hoy en día para acosar de nuevo a la civilización. Un país aún atormentado por las secuelas de un desastre natural, experimenta de repente el horror catastrófico de Godzilla. Apremiado por la muert...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1b01e72ece164c9821c8665ec8603361?w=400" />
-  </programme>
-  <programme start="20261112025812 +0000" stop="20261112043041 +0000" channel="entcomedy">
-    <title lang="es">Wet Hot American Summer</title>
-    <desc lang="es">Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f7e4e6a6c0b4de5b78251810637c498c?w=400" />
-  </programme>
-  <programme start="20261112043041 +0000" stop="20261112064418 +0000" channel="entcomedy">
-    <title lang="es">El juego de las llaves</title>
-    <desc lang="es">Laura lleva toda la vida con Antonio y, justo cuando se empieza a plantear si realmente esa es la vida que quiere, Sergio y Siena se cruzan en sus vidas. Sergio es un excompañero de instituto y Siena, su novia millenial que llega para revolucionar las vidas de todos. Laura, Ra...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/226366fb91622310cf4b9673efad605c?w=400" />
   </programme>
   <programme start="20261112064418 +0000" stop="20261112085917 +0000" channel="entcomedy">
     <title lang="es">El Vicepresidente: Más allá del poder</title>
