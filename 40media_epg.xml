@@ -33,39 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261113025811 +0000" stop="20261113030931 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">¿Quién asesinó violentamente a Simon S. Salty?</sub-title>
-    <desc lang="es">¿Quién es el magnate de la comida rápida Simon S. Salty? ¿Por qué ha sido brutalmente asesinado en su restaurante? ¿Quién habrá sido el asesino?</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9556b7bf33cd17e3036496e6c12beebd?w=400" />
-  </programme>
-  <programme start="20261113030931 +0000" stop="20261113032843 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El bosque encantado</sub-title>
-    <desc lang="es">Pim y Charlie se adentran en el misterioso Bosque Encantado para ayudar a una princesa y se topan con todo tipo de personajes locos.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/57a8a2e144c1c500f495a1051a2ab698?w=400" />
-  </programme>
-  <programme start="20261113032843 +0000" stop="20261113040101 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">hjsakldfhlñ</sub-title>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d9d1082c93f8226a8a633a3e9ccb14a3?w=400" />
-  </programme>
-  <programme start="20261113040101 +0000" stop="20261113044912 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Di mi nombre</sub-title>
-    <desc lang="es">Walter intenta iniciar un trato con Declan, y Hank —quien tuvo que dejar ir a Mike— ahora tiene en la mira al abogado que ha estado pagando a los hombres de Mike.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e1dcbb0625efca1fed6918efe24f74c8?w=400" />
-  </programme>
-  <programme start="20261113044912 +0000" stop="20261113061516 +0000" channel="entchannel">
-    <title lang="es">Fuera de Control</title>
-    <desc lang="es">Rachel que está por llegar tarde a su trabajo, se encuentra en el semáforo con un conductor que no avanza. Luego de darle un bocinazo, el hombre la seguirá para que le pida disculpas por su acción, pero al no recibir lo que él espera desata una furia descontrolada contra ella...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f80bd553c80c7aab2ddfe829c07c08c3?w=400" />
-  </programme>
   <programme start="20261113061516 +0000" stop="20261113090234 +0000" channel="entchannel">
     <title lang="es">Fuego contra Fuego</title>
     <desc lang="es">Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vi...</desc>
@@ -724,18 +691,6 @@
     <desc lang="es">Cuando Bart falla en cuidar a Maggie y se escapa en el auto, Homero lo castiga: Bart no podrá ver la película de Tomy y Daly que es lo que el más quiere.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cd0945d09ab8af3ae3388777bcc6be6a?w=400" />
-  </programme>
-  <programme start="20261113030257 +0000" stop="20261113050940 +0000" channel="entfamily">
-    <title lang="es">El Quinto Elemento</title>
-    <desc lang="es">Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/763ea1897c8acd01ff51990b5a423102?w=400" />
-  </programme>
-  <programme start="20261113050940 +0000" stop="20261113063333 +0000" channel="entfamily">
-    <title lang="es">Reyes de las olas</title>
-    <desc lang="es">Seguido por un equipo que documenta su vida, Cody Maverick, un pingüino surfista, deja a su familia por participar en un campeonato de surf.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4f0a859b0a988a5756a87192b929cf2c?w=400" />
   </programme>
   <programme start="20261113063333 +0000" stop="20261113080511 +0000" channel="entfamily">
     <title lang="es">Intensa-Mente</title>
@@ -2633,18 +2588,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261113025857 +0000" stop="20261113045714 +0000" channel="entmovies">
-    <title lang="es">Prometeo</title>
-    <desc lang="es">Un equipo de exploradores descubre una pista a los orígenes de humanidad en la Tierra, conduciéndolos en un viaje a las esquinas más oscuras del universo. Allí, deben luchar una batalla aterradora para salvar el futuro de la raza humana.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b12b9f23100974d1dec63717111edc4e?w=400" />
-  </programme>
-  <programme start="20261113045714 +0000" stop="20261113065005 +0000" channel="entmovies">
-    <title lang="es">Miseria</title>
-    <desc lang="es">El novelista Paul Sheldon choca su auto en una carretera nevada de Colorado. Annie Wilkes, el "fanático número uno" de la heroína Misery Chastaine, lo encuentra. Annie también es algo inestable, y Paul se encuentra lisiado, drogado y a su merced.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/349bffa4d82792ef209f6b5c0b1c708c?w=400" />
-  </programme>
   <programme start="20261113065005 +0000" stop="20261113085843 +0000" channel="entmovies">
     <title lang="es">El Cabo del Miedo</title>
     <desc lang="es">Sam Bowden es un abogado corporativo de un pueblo pequeño. Max Cady es un violador psicótico tatuado, fumador de cigarros, que cita la Biblia. ¿Qué tienen en común? Hace catorce años, Sam era un defensor público asignado al juicio por violación de Max Cady, y cometió un grave...</desc>
@@ -3136,34 +3079,6 @@
     <desc lang="es">Reuben Feffer es un hombre meticuloso cuya vida cambia drásticamente cuando se encuentra con su antiguo amor, Polly Prince. Entre sus diferencias y excentricidades, Reuben se embarca en un viaje caótico hacia el amor y la autoaceptación, donde aprenderá que a veces lo inespera...</desc>
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7710136b6910453d00313505a19ef341?w=400" />
-  </programme>
-  <programme start="20261113030359 +0000" stop="20261113035957 +0000" channel="entdrama">
-    <title lang="es">The Last of Us</title>
-    <sub-title lang="es">Busca la luz</sub-title>
-    <desc lang="es">Una Anna embarazada deposita su confianza en una amiga de toda la vida. Más tarde, Joel y Ellie se acercan al final de su viaje.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8d65dc07ad6b8e7e14c7553f1a9dcc72?w=400" />
-  </programme>
-  <programme start="20261113035957 +0000" stop="20261113045825 +0000" channel="entdrama">
-    <title lang="es">MINDHUNTER</title>
-    <sub-title lang="es">Episodio 3</sub-title>
-    <desc lang="es">Por primera vez, las investigaciones de Holden y Tench conducen a un arresto, lo que convence a Tench de incorporar a la Dra. Wendy Carr al equipo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/02de2d7911d934b61a55e7151b844ffc?w=400" />
-  </programme>
-  <programme start="20261113045825 +0000" stop="20261113055816 +0000" channel="entdrama">
-    <title lang="es">Big Little Lies</title>
-    <sub-title lang="es">Episodio 3</sub-title>
-    <desc lang="es">Renata discovers that Amabella is experiencing a crisis at school; Madeleine and Ed go into couples therapy; Mary Louise sets her sights on Jane and Ziggy; Celeste struggles with the possibility that she was addicted to Perry.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/eef658a3fb95cccc305e2d5b7facba43?w=400" />
-  </programme>
-  <programme start="20261113055816 +0000" stop="20261113070048 +0000" channel="entdrama">
-    <title lang="es">Black Bird: Confesiones de un asesino</title>
-    <sub-title lang="es">Lo prometiste</sub-title>
-    <desc lang="es">Jimmy llega a su límite. Larry sospecha. McCauley y Miller hablan con una persona importante en la vida de Larry.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7515186f85c43fdd8b13c8b7a255fe2e?w=400" />
   </programme>
   <programme start="20261113070048 +0000" stop="20261113080004 +0000" channel="entdrama">
     <title lang="es">Legion</title>
@@ -3810,18 +3725,6 @@
     <desc lang="es">Andrew Beckett, un joven y prometedor abogado de Philadelphia, es despedido del prestigioso bufete en el que trabaja cuando sus jefes se enteran de que ha contraído el sida. Decide entonces demandar a la empresa por despido improcedente, pero en un principio ningún abogado ace...</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/702c73ad622f52d117a33c43c29cc9e9?w=400" />
-  </programme>
-  <programme start="20261113030303 +0000" stop="20261113044633 +0000" channel="entclassic">
-    <title lang="es">Ojos de serpiente</title>
-    <desc lang="es">Ricky Santoro es un turbio agente de policía de Atlantic City que, en la noche en que se disputa el combate de boxeo por el campeonato del mundo de los pesos pesados, debe evitar el asesinato del Secretario de Defensa de los Estados Unidos. Tiene la misión de ayudar a su amigo...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/47c2d619ed0f1d892b06076265ff2868?w=400" />
-  </programme>
-  <programme start="20261113044633 +0000" stop="20261113064533 +0000" channel="entclassic">
-    <title lang="es">Kalifornia</title>
-    <desc lang="es">Brian Kessler es un periodista que prepara un libro sobre los asesinos en serie más famosos de los Estados Unidos. Para ello decide emprender un viaje junto a su novia Karrie, para conocer los lugares donde los criminales vivieron y mataron. Para compensar los altos costes del...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3e8acdeed8a1a336054d2de2884d87fb?w=400" />
   </programme>
   <programme start="20261113064533 +0000" stop="20261113085905 +0000" channel="entclassic">
     <title lang="es">Terminator 2: El juicio final</title>
@@ -4552,18 +4455,6 @@
     <category lang="es">Fantasía</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ca2862fd6b91b03448e848ba8abb08d0?w=400" />
   </programme>
-  <programme start="20261113025828 +0000" stop="20261113045457 +0000" channel="entlife">
-    <title lang="es">Ni en sueños</title>
-    <desc lang="es">Cuando Fred Flarsky (Seth Rogen) se reencuentra inesperadamente con el primer amor de su vida, que ahora es una de las mujeres más influyentes del mundo, Charlotte Field (Charlize Theron), logra llamar su atención gracias a su peculiar sentido del humor y a su visión idealista...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b13ce1ca78ba952ce254cd13ffa808ca?w=400" />
-  </programme>
-  <programme start="20261113045457 +0000" stop="20261113065501 +0000" channel="entlife">
-    <title lang="es">Un día de furia</title>
-    <desc lang="es">En Los Ángeles, durante una jornada especialmente agobiante a causa del calor y del colapso del tráfico, de repente, un ciudadano normal se rebela de manera violenta y destructiva contra todo lo que lo rodea. Bill Foster (Michael Douglas) no es más que un hombre corriente que...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/be98d47441d5a04e54f390207eace8a7?w=400" />
-  </programme>
   <programme start="20261113065501 +0000" stop="20261113085956 +0000" channel="entlife">
     <title lang="es">Wall Street</title>
     <desc lang="es">Un corredor de bolsa joven e impaciente está dispuesto a hacer cualquier cosa para llegar a la cima, incluido el intercambio de información interna ilegal tomada a través de un asaltante corporativo despiadado y codicioso que toma al joven bajo su protección.</desc>
@@ -5153,12 +5044,6 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/58a2e0b1f42ff76ed43f53530824da11?w=400" />
   </programme>
-  <programme start="20261113035815 +0000" stop="20261113054858 +0000" channel="entextreme">
-    <title lang="es">No hables con extraños</title>
-    <desc lang="es">Cuando una familia estadounidense es invitada a pasar el fin de semana en la idílica finca de una familia británica con la que hicieron amistad durante las vacaciones, lo que comienza como unas vacaciones de ensueño pronto se convierte en una pesadilla psicológica.</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/33c21bd02c01142fa70936d9886ee84a?w=400" />
-  </programme>
   <programme start="20261113054858 +0000" stop="20261113072910 +0000" channel="entextreme">
     <title lang="es">El especialista: Resurrección</title>
     <desc lang="es">Arthur Bishop pensó que había dejado atrás su pasado asesino cuando su enemigo más formidable secuestró el amor de su vida. Ahora se ve obligado a viajar por el mundo para completar tres asesinatos imposibles, y hacer lo que mejor sabe hacer, hacer que parezcan accidentes.</desc>
@@ -5650,18 +5535,6 @@ House intenta convencer a la Dr. Cuddy sobre la realización de la autopsia del 
     <desc lang="es">La lealtad de James Bond a M se pone a prueba cuando su pasado vuelve para atormentarla. Cuando el MI6 es atacado, 007 debe rastrear y destruir la amenaza, sin importar cuán personal sea el costo.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/720213343fdd407c3d91f9d8b8b1b75d?w=400" />
-  </programme>
-  <programme start="20261113025957 +0000" stop="20261113043700 +0000" channel="entcomedy">
-    <title lang="es">Equipo Demolición</title>
-    <desc lang="es">Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a5267dbe9f119193de9883aa1805523?w=400" />
-  </programme>
-  <programme start="20261113043700 +0000" stop="20261113061952 +0000" channel="entcomedy">
-    <title lang="es">Wet Hot American Summer</title>
-    <desc lang="es">Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f7e4e6a6c0b4de5b78251810637c498c?w=400" />
   </programme>
   <programme start="20261113061952 +0000" stop="20261113085834 +0000" channel="entcomedy">
     <title lang="es">Tipos de gentileza</title>
