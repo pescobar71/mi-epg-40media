@@ -33,34 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261114025824 +0000" stop="20261114030939 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Amigos anti sonrisas</sub-title>
-    <desc lang="es">Para desgracia del jefe, una empresa rival se muda al otro lado de la calle. No hay nada más que agregar.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ddf1f0f9eedddae68429abdd69532d7?w=400" />
-  </programme>
-  <programme start="20261114030939 +0000" stop="20261114032832 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Charlie muere y no regresa</sub-title>
-    <desc lang="es">En el último episodio de la temporada, Charlie muere. De verdad.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ffac75f709ad98a2ed4935a317cb7a7?w=400" />
-  </programme>
-  <programme start="20261114032832 +0000" stop="20261114042821 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Recuerden</sub-title>
-    <desc lang="es">With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c7f8fed815ec823435c48e1a493d9be?w=400" />
-  </programme>
-  <programme start="20261114042821 +0000" stop="20261114051618 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Planeando sobre todos</sub-title>
-    <desc lang="es">Walt se encuentra con Lydia para conseguir los nombres de la gente de Mike que está en la cárcel. Skyler hace otro intento por convencer a Walt de que deje de cocinar.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/66189f0e6ccbab3aacfc4e3c421f5610?w=400" />
-  </programme>
   <programme start="20261114051618 +0000" stop="20261114070648 +0000" channel="entchannel">
     <title lang="es">El Conjuro 3: El diablo me obligó a hacerlo</title>
     <desc lang="es">Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.</desc>
@@ -731,12 +703,6 @@
     <desc lang="es">La casa de los Simpsons necesita una reparación de cimientos de $ 8.000, por lo que Marge consigue un trabajo en la planta nuclear. Pero las cosas se complican cuando Burns se enamora de ella.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1156ef450c669b0dcb5e98fd1bcd79e1?w=400" />
-  </programme>
-  <programme start="20261114030418 +0000" stop="20261114045849 +0000" channel="entfamily">
-    <title lang="es">Milagro en la Calle 34</title>
-    <desc lang="es">Durante un desfile navideño organizado por los grandes almacenes Macy, el hombre que encarna a Santa Claus es sustituido por indisposición. Un anciano llamado Kris se ofrece a la señora Walker, responsable del desfile, para encarnar a Santa Claus. Después del desfile es contra...</desc>
-    <category lang="es">Fantasía</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/feface03d1ad83e39b6e303ec20ab030?w=400" />
   </programme>
   <programme start="20261114045849 +0000" stop="20261114065115 +0000" channel="entfamily">
     <title lang="es">En un lugar del corazón</title>
@@ -2651,13 +2617,7 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261114025917 +0000" stop="20261114045431 +0000" channel="entmovies">
-    <title lang="es">Sicario: Tierra de nadie</title>
-    <desc lang="es">En México, SICARIO significa asesino a sueldo. En el área fronteriza y anárquica que se extiende entre los Estados Unidos y México, una agente idealista del FBI es reclutada por un funcionario gubernamental élite para ayudar en la creciente guerra contra las drogas. Dirigidos...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a6ae1624a4641c634746355e3d431cf7?w=400" />
-  </programme>
-  <programme start="20261114045431 +0000" stop="20261114065857 +0000" channel="entmovies">
+  <programme start="20261114045921 +0000" stop="20261114065857 +0000" channel="entmovies">
     <title lang="es">Una guerra de película</title>
     <desc lang="es">A través de una serie de sucesos extraños, un grupo de actores que filman una película de guerra de gran presupuesto son obligados a convertirse en los soldados que están retratando.</desc>
     <category lang="es">Comedia</category>
@@ -3160,20 +3120,6 @@
     <desc lang="es">El exagente más peligroso de la CIA sale de su escondite para descubrir más verdades explosivas sobre su pasado.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c5a8a6486ec4951617bb86bb941ba9a0?w=400" />
-  </programme>
-  <programme start="20261114030318 +0000" stop="20261114045840 +0000" channel="entdrama">
-    <title lang="es">Fallout</title>
-    <sub-title lang="es">La cabeza</sub-title>
-    <desc lang="es">El yermo tiene su propia regla de oro...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6f34ba5c8f5a770958efb241f6682d37?w=400" />
-  </programme>
-  <programme start="20261114045840 +0000" stop="20261114055902 +0000" channel="entdrama">
-    <title lang="es">Call of the Night</title>
-    <sub-title lang="es">3.ª noche: Estás sangrando mucho</sub-title>
-    <desc lang="es">Ko se reencuentra con Akira, una vieja amiga de la infancia quien le expresa su preocupación por no verlo en la escuela últimamente.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1bc7f7ec0a8e58aab8f705e49eefa7e2?w=400" />
   </programme>
   <programme start="20261114055902 +0000" stop="20261114063246 +0000" channel="entdrama">
     <title lang="es">Barry</title>
@@ -3842,12 +3788,6 @@
     <desc lang="es">Con los primeros rayos del sol iluminando la pradera, un nuevo príncipe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo juguetón, y Flor, la tímida y adorable mofeta. Pero la diversión de...</desc>
     <category lang="es">Animación</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d6ea6de327b9d5c133c488f44a4d46dd?w=400" />
-  </programme>
-  <programme start="20261114030329 +0000" stop="20261114045913 +0000" channel="entclassic">
-    <title lang="es">Cuerpos Ardientes</title>
-    <desc lang="es">Ned Racine, un joven abogado de Florida, lleva una vida normal hasta que conoce a Matty Walker, una tentadora y sensual mujer casada con un rico hombre de negocios. Ned pronto se da cuenta de que Matty es la clase de mujer por la que un hombre sería capaz de matar.</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/48a000a1d5280c0cfc4d1691e9c57e68?w=400" />
   </programme>
   <programme start="20261114045913 +0000" stop="20261114065453 +0000" channel="entclassic">
     <title lang="es">Taxi Driver</title>
@@ -4566,12 +4506,6 @@
     <category lang="es">Fantasía</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7f3c4afe027fa2e1a315ef29dc8f2457?w=400" />
   </programme>
-  <programme start="20261114030351 +0000" stop="20261114045603 +0000" channel="entlife">
-    <title lang="es">El gran golpe</title>
-    <desc lang="es">Inglaterra, 1971. Un grupo de ladrones planea y ejecuta un golpe maestro: un espectacular atraco a un banco. Además del dinero y las joyas, forman parte del botín ciertos documentos que permitirían sacar a la luz un escándalo de corrupción que involucra no sólo a altos funcion...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/784d49e43b3f09a89ab675753637bbb1?w=400" />
-  </programme>
   <programme start="20261114045603 +0000" stop="20261114073116 +0000" channel="entlife">
     <title lang="es">Tiempos Violentos</title>
     <desc lang="es">Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando lleg...</desc>
@@ -5158,12 +5092,6 @@
     <category lang="es">Historia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/952c9fd4daae91e40e783afaa983183c?w=400" />
   </programme>
-  <programme start="20261114035957 +0000" stop="20261114054913 +0000" channel="entextreme">
-    <title lang="es">Miseria</title>
-    <desc lang="es">El novelista Paul Sheldon choca su auto en una carretera nevada de Colorado. Annie Wilkes, el "fanático número uno" de la heroína Misery Chastaine, lo encuentra. Annie también es algo inestable, y Paul se encuentra lisiado, drogado y a su merced.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/349bffa4d82792ef209f6b5c0b1c708c?w=400" />
-  </programme>
   <programme start="20261114054913 +0000" stop="20261114073716 +0000" channel="entextreme">
     <title lang="es">Terminator: El exterminador</title>
     <desc lang="es">Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será elim...</desc>
@@ -5638,13 +5566,7 @@
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da6f11902a34a64f3127dc7f61ba52f3?w=400" />
   </programme>
-  <programme start="20261114025825 +0000" stop="20261114043536 +0000" channel="entcomedy">
-    <title lang="es">¿Qué Pasó Ayer? Parte III</title>
-    <desc lang="es">Tras la inesperada muerte de su padre, Alan es llevado por sus amigos Phil, Stu y Doug a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida, pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow… la suerte está ec...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8cbc7bbbe3738172e3e49345b5bc2bce?w=400" />
-  </programme>
-  <programme start="20261114043536 +0000" stop="20261114064108 +0000" channel="entcomedy">
+  <programme start="20261114044039 +0000" stop="20261114064108 +0000" channel="entcomedy">
     <title lang="es">The Birdcage</title>
     <desc lang="es">A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fiancée's right-wing, conservative parents.</desc>
     <category lang="es">Comedia</category>
