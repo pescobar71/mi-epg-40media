@@ -33,40 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261119025911 +0000" stop="20261119031017 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Pim se pone verde</sub-title>
-    <desc lang="es">Después de comerse un misterioso artefacto encontrado en un antiguo cementerio, Pim repentina y misteriosamente se vuelve verde brillante.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6fc7ae33975ed492246bd991a11886b6?w=400" />
-  </programme>
-  <programme start="20261119031017 +0000" stop="20261119032959 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Tonto Samuel</sub-title>
-    <desc lang="es">Pim y Charlie deben ayudar a un bicho raro, feo y estúpido que no le agrada a nadie. Mientras tanto, el Jefe y Allan... leer más.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/217f709b1cd5dd093267d84dfae4ed82?w=400" />
-  </programme>
-  <programme start="20261119032959 +0000" stop="20261119035949 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Sin título</sub-title>
-    <desc lang="es">Caine usa las ideas de la caja de sugerencias y guía a la pandilla a través de una serie de aventuras. Pomni está en una posición de poder.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3205dc501d4acdd50019b78d339ac76b?w=400" />
-  </programme>
-  <programme start="20261119035949 +0000" stop="20261119044959 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Tohajiilee</sub-title>
-    <desc lang="es">La presión aumenta para Walt, de un modo que nunca habría esperado</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/adffb769a754bc1b0349ded19de99fd0?w=400" />
-  </programme>
-  <programme start="20261119044959 +0000" stop="20261119064336 +0000" channel="entchannel">
-    <title lang="es">Riesgo en el aire</title>
-    <desc lang="es">Un grupo de presos peligrosos son trasladados a un nuevo centro penitenciario. En el avión viaja también Cameron Poe, que acaba de conseguir la libertad condicional y cuyo único deseo es reunirse de nuevo con su esposa e hija. Sin embargo, durante el trayecto, Poe se ve envuel...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b1710e59d1a5687a8b8a0009d9ecd1b9?w=400" />
-  </programme>
   <programme start="20261119064336 +0000" stop="20261119090328 +0000" channel="entchannel">
     <title lang="es">La tragedia de Macbeth</title>
     <desc lang="es">Nominada a tres premios Oscar, incluido el de Mejor Actor. Denzel Washington y Frances McDormand protagonizan esta adaptación, cruda y audaz, de Joel Coen. Un lord escocés es convencido por unas brujas de que se convertirá en el futuro rey de Escocia. Adaptación de "Macbeth",...</desc>
@@ -737,24 +703,6 @@
     <desc lang="es">Después de que Burns es multado con 3 millones de dólares por depósitos ilegales de desechos nucleares, la ciudad decide gastar el dinero en un monorriel, construido con materiales baratos.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/81c886a80a2d9923b1b61ad834fadb0c?w=400" />
-  </programme>
-  <programme start="20261119030028 +0000" stop="20261119044200 +0000" channel="entfamily">
-    <title lang="es">Lego Batman: la película</title>
-    <desc lang="es">Con el irreverente espíritu de diversión que convirtió a "The Lego Movie" en un fenómeno mundial, el autodenominado protagonista de ese conjunto, Lego Batman, protagoniza su propia aventura en la gran pantalla. Pero se están gestando grandes cambios en Ciudad Gótica, y si quie...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9898f9520664e4eb7f99ceffd21277e7?w=400" />
-  </programme>
-  <programme start="20261119044200 +0000" stop="20261119065032 +0000" channel="entfamily">
-    <title lang="es">Karate Kid</title>
-    <desc lang="es">Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia de...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f64831817bced2f0113038bc9a715c80?w=400" />
-  </programme>
-  <programme start="20261119065032 +0000" stop="20261119082906 +0000" channel="entfamily">
-    <title lang="es">Cars 3</title>
-    <desc lang="es">La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/10dec0a1546f5583a7f1f19d150d1a1e?w=400" />
   </programme>
   <programme start="20261119082906 +0000" stop="20261119100809 +0000" channel="entfamily">
     <title lang="es">Río 2</title>
@@ -2663,18 +2611,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261119025959 +0000" stop="20261119044047 +0000" channel="entmovies">
-    <title lang="es">Una loca aventura medieval</title>
-    <desc lang="es">Cuando Belladona, la prometida de Fabious, es secuestrada por el malvado brujo Leezar, el rey da un ultimátum a su hijo menor Thadeous: si no consigue rescatarla, no podrá seguir viviendo como un libertino. Entonces emprenden así un peligroso viaje en compañía de Fabious y de...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/78041ca1b6f2d7fdf7e109907df6c826?w=400" />
-  </programme>
-  <programme start="20261119044047 +0000" stop="20261119071953 +0000" channel="entmovies">
-    <title lang="es">Papillon: La gran fuga</title>
-    <desc lang="es">Henri “Papillon” Charrière está en la cárcel por un crimen que no ha cometido. Condenado a cadena perpetua y enviado a una prisión de la Guayana Francesa, salva la vida a otro preso, Louis Dega, un falsificador de documentos que decide ayudarle a escapar. Juntos planean el más...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b8e5b892748696627a6cbff757bba468?w=400" />
-  </programme>
   <programme start="20261119071953 +0000" stop="20261119085920 +0000" channel="entmovies">
     <title lang="es">Terror a bordo</title>
     <desc lang="es">John y Rae deciden hacer un viaje en su pequeño yate de vela para intentar olvidar la muerte de su hijo en un accidente. Pero la travesía se ve interrumpida cuando divisan un bote neumático que escapa de una goleta. El único ocupante del bote, un asustado joven, les explica qu...</desc>
@@ -3160,34 +3096,6 @@
     <desc lang="es">Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es mu...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6cab57a114df14a62945ea90ef8a65ce?w=400" />
-  </programme>
-  <programme start="20261119030059 +0000" stop="20261119035926 +0000" channel="entdrama">
-    <title lang="es">Los Vigilantes</title>
-    <sub-title lang="es">Episodio 10</sub-title>
-    <desc lang="es">Acting on Clay Davis' advice, Burrell seeks to burnish his reputation by ordering the department to double their street arrests. The mandate does not sit well with McNulty, who sets his sights instead on cracking a string of churc...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0f5d9c2dc5d5345bbf131157086745eb?w=400" />
-  </programme>
-  <programme start="20261119035926 +0000" stop="20261119055953 +0000" channel="entdrama">
-    <title lang="es">Los Vigilantes</title>
-    <sub-title lang="es">Episodio 11</sub-title>
-    <desc lang="es">After flexing his muscles around the city, Carcetti faces his first dilemma when a group of ministers protests Herc's mistreatment of one of their own. Randy gets the cold shoulder at school. Omar and Reynaldo pay a menacing visit...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0885c0191d7bc807a4a251257947a84e?w=400" />
-  </programme>
-  <programme start="20261119055953 +0000" stop="20261119065900 +0000" channel="entdrama">
-    <title lang="es">Banshee</title>
-    <sub-title lang="es">Episodio 7</sub-title>
-    <desc lang="es">Hood goes after Proctor with a vengeance after he discovers that Proctor was behind Jason's death. Max has a severe asthma attack. Gordon and Carrie discuss their options. Alex Longshadow faces a no-confidence vote by the Tribal C...</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b522b5f13f0beb66bcd52104790ffd8b?w=400" />
-  </programme>
-  <programme start="20261119065900 +0000" stop="20261119075910 +0000" channel="entdrama">
-    <title lang="es">El visitante</title>
-    <sub-title lang="es">Que viene el coco</sub-title>
-    <desc lang="es">Holly investiga una posible conexión con un caso inquietantemente parecido en Dayton (Ohio).</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/92e7d22c5c9ac221cdc9b2a0e77fa027?w=400" />
   </programme>
   <programme start="20261119075910 +0000" stop="20261119085955 +0000" channel="entdrama">
     <title lang="es">No te metas con los gatos: Un asesino en internet</title>
@@ -3804,18 +3712,6 @@
     <desc lang="es">En diciembre de 1941, el ejército japonés ocupa Shanghai. A partir de ese momento, la privilegiada vida que ha llevado James Graham, un niño inglés de clase alta, llega a su fin. Es separado de sus padres y confinado en un campo de concentración próximo a un aeropuerto militar...</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/05a166b711985d6163c5770dc308a610?w=400" />
-  </programme>
-  <programme start="20261119025957 +0000" stop="20261119043516 +0000" channel="entclassic">
-    <title lang="es">Perros de Reserva</title>
-    <desc lang="es">Una banda organizada formada por seis individuos es contratada para dar un golpe. Anteriormente varios de los miembros no se conocían entre sí, por lo que entre ellos usan nombres en clave. El objetivo: atracar una empresa para llevarse unos diamantes. Pero, antes de que suene...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a4ffc70d623596edfcbdf1a78048722?w=400" />
-  </programme>
-  <programme start="20261119043516 +0000" stop="20261119064809 +0000" channel="entclassic">
-    <title lang="es">Mente indomable</title>
-    <desc lang="es">Will Hunting, un conserje del M.I.T., tiene un don para las matemáticas, pero necesita la ayuda de un psicólogo para encontrar el rumbo de su vida.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/911e26583dcc5f348b6726d7b5401309?w=400" />
   </programme>
   <programme start="20261119064809 +0000" stop="20261119085959 +0000" channel="entclassic">
     <title lang="es">Enemigo Público</title>
@@ -4557,18 +4453,6 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5105f2a6fefd89ae1fa3d1ad208a4e3f?w=400" />
   </programme>
-  <programme start="20261119030223 +0000" stop="20261119050356 +0000" channel="entlife">
-    <title lang="es">Pollock: La vida de un creador</title>
-    <desc lang="es">Nueva York, años 40. Jackson Pollock y Lee Krasner, pintores y amantes, se encuentran en el centro del mundo artístico neoyorquino. Cuando contraen matrimonio, se trasladan al campo; ella abandona su trabajo para entregarse en cuerpo y alma al arte de Pollock, que empieza a cr...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/89f9b3b6ddb7e7ed2302b81563896dce?w=400" />
-  </programme>
-  <programme start="20261119050356 +0000" stop="20261119064231 +0000" channel="entlife">
-    <title lang="es">El Despertar de los Muertos</title>
-    <desc lang="es">La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local con su amigo íntimo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado. Shaun decide, finalmente, poner su vida en orden. Tiene que reconquistar el corazón de su novia...</desc>
-    <category lang="es">Terror</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/40305578a668e64c202695ba61ac3674?w=400" />
-  </programme>
   <programme start="20261119064231 +0000" stop="20261119085816 +0000" channel="entlife">
     <title lang="es">El Mundo Según Garp</title>
     <desc lang="es">A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.</desc>
@@ -5145,18 +5029,6 @@
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7fb177829ccc48e195becfe3dcd15d66?w=400" />
   </programme>
-  <programme start="20261119035959 +0000" stop="20261119054921 +0000" channel="entextreme">
-    <title lang="es">2 policias en apuros</title>
-    <desc lang="es">Two street-wise Chicago cops have to shake off some rust after returning from a Key West vacation to pursue a drug dealer who nearly killed them in the past.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/261b39cf9bef2789f29a042ffa9b14c7?w=400" />
-  </programme>
-  <programme start="20261119054921 +0000" stop="20261119072825 +0000" channel="entextreme">
-    <title lang="es">Presidio, la hora de los héroes</title>
-    <desc lang="es">Jay Austin, un policía de San Francisco debe investigar un asesinato cometido en una base militar. Para ello, cuenta con la ayuda del jefe de seguridad, un coronel con el que mantiene una tensa relación, que se agrava desde el momento en el que el policía se enamora de la hija...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c72e2a1c6b944902ad8372ba815dfc4?w=400" />
-  </programme>
   <programme start="20261119072825 +0000" stop="20261119085947 +0000" channel="entextreme">
     <title lang="es">París en la mira</title>
     <desc lang="es">A Charlie Wax, un singular agente secreto estadounidense, le ha sido encomendada en París una misión de alto riesgo relacionada con el terrorismo y el tráfico de cocaína. El problema es que tropezará con James Reece (Rhys Meyers), un empleado de la embajada norteamericana, nad...</desc>
@@ -5619,25 +5491,7 @@
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/170889da6b398ee93e4f8e24dd5fab0f?w=400" />
   </programme>
-  <programme start="20261119025841 +0000" stop="20261119044442 +0000" channel="entcomedy">
-    <title lang="es">Comando Especial 2</title>
-    <desc lang="es">Después de pasar por la escuela secundaria (dos veces), se esperan grandes cambios para los oficiales Schmidt y Jenko cuando se infiltran en una universidad local. Pero cuando Jenko se encuentra con un espíritu afín en el equipo de fútbol, ​​y Schmidt se infiltra en la escena...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5247666afefb0e3ea7a9fdd8add17891?w=400" />
-  </programme>
-  <programme start="20261119044442 +0000" stop="20261119064424 +0000" channel="entcomedy">
-    <title lang="es">Ted 2</title>
-    <desc lang="es">Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente recibe...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/43a203fd1bdcc728b92665e1ca50bb5f?w=400" />
-  </programme>
-  <programme start="20261119064424 +0000" stop="20261119085810 +0000" channel="entcomedy">
-    <title lang="es">La Guerra de los Roses</title>
-    <desc lang="es">La desintegración de un matrimonio perfecto, tan modélico que resultan insultantes sus vidas tan cómodas como vacías, se produce cuando la esposa, madre y ama de casa perfecta, con una eficaz y oronda sirvienta alemana que completa el cuadro familiar, cae en la cuenta de que d...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3a3c3af3e6736cf2a2788b484d886087?w=400" />
-  </programme>
-  <programme start="20261119085810 +0000" stop="20261119103909 +0000" channel="entcomedy">
+  <programme start="20261119083655 +0000" stop="20261119103909 +0000" channel="entcomedy">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar.</desc>
     <category lang="es">Comedia</category>
