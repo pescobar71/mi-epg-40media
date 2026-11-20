@@ -33,40 +33,6 @@
   <channel id="entcomedy">
     <display-name>ENT Comedy</display-name>
   </channel>
-  <programme start="20261120025929 +0000" stop="20261120031044 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">El viaje increíble</sub-title>
-    <desc lang="es">En este aclamado y galardonado episodio de "Smiling Friends", una rana que habla y camina cambiará tu vida y recalibrará tu cerebro.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f13c18d9f80bb5a49a52eb7278111fab?w=400" />
-  </programme>
-  <programme start="20261120031044 +0000" stop="20261120032814 +0000" channel="entchannel">
-    <title lang="es">Smiling Friends</title>
-    <sub-title lang="es">Hombre Topo</sub-title>
-    <desc lang="es">Al parecer, hay un personaje llamado "Hombre Topo" o algo así... Bueeeeeno, está bien. Allan y Glep se unen para emprender su propia aventura.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/072083cb81d550ac68ecde3b3484d6a4?w=400" />
-  </programme>
-  <programme start="20261120032814 +0000" stop="20261120040352 +0000" channel="entchannel">
-    <title lang="es">El asombroso circo digital</title>
-    <sub-title lang="es">Les dimos armas</sub-title>
-    <desc lang="es">Caine prepara al grupo para un juego brutal, en el que deben trabajar en parejas para buscar armas y sobrevivir a tres «muertes» para ganar.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/984abb51c65c0197569232d4c6146991?w=400" />
-  </programme>
-  <programme start="20261120040352 +0000" stop="20261120045139 +0000" channel="entchannel">
-    <title lang="es">Breaking Bad</title>
-    <sub-title lang="es">Ozymandias</sub-title>
-    <desc lang="es">Todos deben enfrentar circunstancias radicalmente distintas. Todos, sin excepción.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/be3300772558e9118254115d519c86e9?w=400" />
-  </programme>
-  <programme start="20261120045139 +0000" stop="20261120065240 +0000" channel="entchannel">
-    <title lang="es">Tiempos De Gloria</title>
-    <desc lang="es">Entre 1861 y 1865 tuvo lugar la Guerra de Secesión que enfrentó al ejército confederado (Sur) con las tropas de la Unión (Norte). Los militares del Norte eran reacios a reclutar negros y armarlos para luchar contra el Sur; pero, finalmente, se aprobó una ley que lo permitía. E...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/07dc776717c1226aa6bc9b0917147d7f?w=400" />
-  </programme>
   <programme start="20261120065240 +0000" stop="20261120085925 +0000" channel="entchannel">
     <title lang="es">Estación Zombie: tren a Busan</title>
     <desc lang="es">Un brote viral misterioso pone a Corea en estado de emergencia. Sok-woo y su hija Soo-ahn suben al KTX, un tren rápido que une los 442 km que separan Seúl de Busan, una ciudad que se defiende con éxito de la epidemia. Sin embargo, justo en el momento de su partida, la estación...</desc>
@@ -737,24 +703,6 @@
     <desc lang="es">Siguiendo el consejo de su fallecida tía Gladys, Selma decide que es momento de casarse y tener hijos.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b7d2ddd3dd4609849990e355424825e9?w=400" />
-  </programme>
-  <programme start="20261120030107 +0000" stop="20261120042926 +0000" channel="entfamily">
-    <title lang="es">Monster house: La casa de los sustos</title>
-    <desc lang="es">D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker,...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/177437625a0c5fdc179c82dff0bb6a02?w=400" />
-  </programme>
-  <programme start="20261120042926 +0000" stop="20261120055553 +0000" channel="entfamily">
-    <title lang="es">Mulán</title>
-    <desc lang="es">Mulan, una joven china hija única de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejército imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emis...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8465e9988ea13008c3a142b87d778b4a?w=400" />
-  </programme>
-  <programme start="20261120055553 +0000" stop="20261120072812 +0000" channel="entfamily">
-    <title lang="es">Rebeldes</title>
-    <desc lang="es">Una rivalidad entre pandillas provoca una tragedia en la década de los sesenta en Oklahoma entre los Soc y los Greasers. Un joven sensible enloquece cuando su mejor amigo mata a un miembro de una pandilla rival.</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7a21599e268a47eb572cabc803582f92?w=400" />
   </programme>
   <programme start="20261120072812 +0000" stop="20261120084819 +0000" channel="entfamily">
     <title lang="es">Chicken Little</title>
@@ -2663,18 +2611,6 @@
     <category lang="es">Música</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/fallback-f8cc82428240.png" />
   </programme>
-  <programme start="20261120025959 +0000" stop="20261120050645 +0000" channel="entmovies">
-    <title lang="es">La raíz del miedo</title>
-    <desc lang="es">Martin Vail, un ambicioso abogado de Chicago, es capaz de aceptar cualquier caso con tal de salir en la prensa. Un día decide ocuparse de uno que parece imposible de ganar: la defensa de Aaron, un joven que es acusado del asesinato del arzobispo de Chicago, tras ser detenido m...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/77725a3ecddaac8630ffc47b8a6820a0?w=400" />
-  </programme>
-  <programme start="20261120050645 +0000" stop="20261120071633 +0000" channel="entmovies">
-    <title lang="es">Sobreviviendo a Picasso</title>
-    <desc lang="es">Drama que retrata la vida del universal pintor, sus amores y pasiones. En 1943, la joven pintora Françoise Gilot conoce a Pablo Picasso. Durante los siguientes diez años será su musa y pareja, proporcionándole inspiración y dos hijos. También verá cómo otras mujeres aparecen e...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d82b360b8d4a52f27ff06b050f8bd2e0?w=400" />
-  </programme>
   <programme start="20261120071633 +0000" stop="20261120085845 +0000" channel="entmovies">
     <title lang="es">El peso del talento</title>
     <desc lang="es">Insatisfecho creativamente y en deudas de dinero, Nicolas Cage se ve forzado a aceptar 1 millón de dólares a cambio de asistir a la fiesta de cumpleaños de un obsesivo fanático: Javi. Las cosas cambian inesperadamente cuando Nicolas Cage es reclutado por la CIA para ayudar a a...</desc>
@@ -3160,41 +3096,6 @@
     <desc lang="es">Wolverine llega a Japón para conocer a un viejo amigo cuya vida salvó hace años, y se ve envuelto en una conspiración que involucra a la yakuza y a los mutantes.</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/903991094f4fb757efe8e3525d7eb60a?w=400" />
-  </programme>
-  <programme start="20261120030315 +0000" stop="20261120035938 +0000" channel="entdrama">
-    <title lang="es">The Last of Us</title>
-    <sub-title lang="es">Lo que Dejamos Atrás</sub-title>
-    <desc lang="es">Mientras Joel lucha por sobrevivir, Ellie recuerda la noche que lo cambió todo.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d2a581bcdc0e36f21c34acb60af43428?w=400" />
-  </programme>
-  <programme start="20261120035938 +0000" stop="20261120045838 +0000" channel="entdrama">
-    <title lang="es">MINDHUNTER</title>
-    <sub-title lang="es">Episodio 4</sub-title>
-    <desc lang="es">Bill y Holden consultan con la Dra. Wendy Carr para comenzar a clasificar a los sujetos. El equipo recibe impactantes noticias.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/19847ddacf802d09bd1dd6dbe4261e3d?w=400" />
-  </programme>
-  <programme start="20261120045838 +0000" stop="20261120055827 +0000" channel="entdrama">
-    <title lang="es">Big Little Lies</title>
-    <sub-title lang="es">Episodio 7</sub-title>
-    <desc lang="es">Celeste questions Mary Louise about a tragic event from Perry's childhood; Madeline worries their lie is tearing the Monterey Five apart.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/24595afd701e977ad9c7381ebcc31eea?w=400" />
-  </programme>
-  <programme start="20261120055827 +0000" stop="20261120065841 +0000" channel="entdrama">
-    <title lang="es">Black Bird: Confesiones de un asesino</title>
-    <sub-title lang="es">El lugar en el que yazco</sub-title>
-    <desc lang="es">El miedo y la paranoia en aumento de Jimmy lo llevan a provocar a Larry. McCauley y Miller descubren algo. La terapeuta de Larry se preocupa.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/26783bd8debab03f8f0c999e0540eaa9?w=400" />
-  </programme>
-  <programme start="20261120065841 +0000" stop="20261120074455 +0000" channel="entdrama">
-    <title lang="es">Legion</title>
-    <sub-title lang="es">Capítulo 17</sub-title>
-    <desc lang="es">Oliver convence a Melanie de que les ayude a él y a Farouk. Cary y Kerry llevan a cabo a regañadientes el plan de David con la ayuda de Lenny.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b9881300e4abf302b6ddfcdf707a405c?w=400" />
   </programme>
   <programme start="20261120074455 +0000" stop="20261120084510 +0000" channel="entdrama">
     <title lang="es">RIPLEY</title>
@@ -3817,18 +3718,6 @@
     <desc lang="es">Un grupo de sobrevivientes en San Francisco luchan por mantenerse vivos después de una plaga que está limpiando a la humanidad, mientras que César trata de mantener el dominio sobre su comunidad de monos inteligentes.</desc>
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4ec53abfd5e117ee4f8b01174d43f3e8?w=400" />
-  </programme>
-  <programme start="20261120030224 +0000" stop="20261120043504 +0000" channel="entclassic">
-    <title lang="es">Comando</title>
-    <desc lang="es">John Matrix es un ex-coronel de una unidad de Fuerzas Especiales del Ejército de los Estados Unidos y padre soltero, que se ha retirado a vivir en una cabaña en la montaña junto a su hija Jenny. Sin saberlo él, sus ex-compañeros en el ejército están siendo asesinados uno a uno...</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2165b7ddce48d5cbf6df32af07eb8b9c?w=400" />
-  </programme>
-  <programme start="20261120043504 +0000" stop="20261120060745 +0000" channel="entclassic">
-    <title lang="es">Vivir Rodando</title>
-    <desc lang="es">Película acerca de la filmación de películas. Tiene lugar durante un día de filmación en el set de una película de bajo presupuesto. Es un tributo a todas los cineastas independientes.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/696889a54233c848ddfef0060e55210e?w=400" />
   </programme>
   <programme start="20261120060745 +0000" stop="20261120090143 +0000" channel="entclassic">
     <title lang="es">Corazón Valiente</title>
@@ -4546,18 +4435,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/17d1b0813a8a44e77b98cd1775f6c1f7?w=400" />
   </programme>
-  <programme start="20261120030324 +0000" stop="20261120044004 +0000" channel="entlife">
-    <title lang="es">Sepultado vivo</title>
-    <desc lang="es">Clint Goodman (Tim Matheson) vive feliz sin saber que su mujer Joanna (Jennifer Jason Leigh) mantiene un romance con su ginecólogo. Cansada de su doble vida, Joanna le pide a su amante que le proporcione algo para matar a su marido. La mejor fórmula consiste en administrarle u...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bbbd5daa400bcf5f8fae2066d5297859?w=400" />
-  </programme>
-  <programme start="20261120044004 +0000" stop="20261120064947 +0000" channel="entlife">
-    <title lang="es">Frontera caníbal (Bone Tomahawk)</title>
-    <desc lang="es">A la localidad de Bright Hope llega un forastero que rápidamente despierta las sospechas del sheriff, que termina por arrestarlo tras dispararle en la pierna. Samantha O'Dwyer se encarga de extraerle la bala en el calabozo. Pero esa noche un joven en un establo es asesinado y...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/672c96bf07b2c46dd0088b3186c00f11?w=400" />
-  </programme>
   <programme start="20261120064947 +0000" stop="20261120085952 +0000" channel="entlife">
     <title lang="es">Los imperdonables</title>
     <desc lang="es">William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cort...</desc>
@@ -5147,12 +5024,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/58a2e0b1f42ff76ed43f53530824da11?w=400" />
   </programme>
-  <programme start="20261120035837 +0000" stop="20261120061916 +0000" channel="entextreme">
-    <title lang="es">Diamante de Sangre</title>
-    <desc lang="es">Un pescador, un contrabandista y un sindicato de empresarios coinciden en la posesión de un diamante de valor incalculable.</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3bf70f70a65f66bc13437c0eead00e78?w=400" />
-  </programme>
   <programme start="20261120061916 +0000" stop="20261120085838 +0000" channel="entextreme">
     <title lang="es">Tiempos Violentos</title>
     <desc lang="es">Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando lleg...</desc>
@@ -5614,24 +5485,6 @@
     <desc lang="es">El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en “El hombre de hierro”, un héroe que se ded...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c6c7c2f7ca80d4b273522b5589ae2d3?w=400" />
-  </programme>
-  <programme start="20261120025846 +0000" stop="20261120043550 +0000" channel="entcomedy">
-    <title lang="es">Equipo Demolición</title>
-    <desc lang="es">Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.</desc>
-    <category lang="es">Acción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a5267dbe9f119193de9883aa1805523?w=400" />
-  </programme>
-  <programme start="20261120043550 +0000" stop="20261120060557 +0000" channel="entcomedy">
-    <title lang="es">Idiocracia</title>
-    <desc lang="es">Tras un experimento militar fallido, el oficial Joe Bawers y la prostituta Rita despiertan quinientos años adelante en el futuro, en un mundo distópico en el que la selección natural ha favorecido a los más idiotas, debido a que se reproducen más. Esto ha resultado en una huma...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/13640cc93865e763cfdaac0943759ad3?w=400" />
-  </programme>
-  <programme start="20261120060557 +0000" stop="20261120073745 +0000" channel="entcomedy">
-    <title lang="es">Sunshine Cleaning</title>
-    <desc lang="es">Rose y Norah Lorkowski son dos hermanas en paro que encuentran una particular forma de ganarse la vida: limpiar las escenas de crimen después de que la policía haya hecho su trabajo. Durante años, Rose (Amy Adams) fue líder de las animadoras y parecía tener un futuro prometedo...</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9d483664b06d524e65989da5199a0273?w=400" />
   </programme>
   <programme start="20261120073745 +0000" stop="20261120085855 +0000" channel="entcomedy">
     <title lang="es">Espía por error</title>
