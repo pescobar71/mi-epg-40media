@@ -1,4 +1,3 @@
-
 $ErrorActionPreference = "Stop"
 
 # ==========================================
@@ -34,9 +33,8 @@ $ElDestapeName = "El Destape"
 $ElDestapeUrl  = "https://www.stremiar.tv/canales/el-destape"
 $DiasElDestape = 3
 
-# Si se ejecuta como script, usa $PSScriptRoot; si se pega en consola, usa el directorio actual
 $BaseDir = if ($PSScriptRoot) { $PSScriptRoot } else { (Get-Location).Path }
-$Out     = Join-Path $BaseDir "epg.xml"
+$Out     = Join-Path $BaseDir "40media_epg.xml"
 
 # ==========================================
 # 2. FUNCIONES AUXILIARES
@@ -59,14 +57,18 @@ function Add-El($parent, $name, $text, $lang) {
 }
 
 function Get-ArgentinaNow {
-  $tz = [TimeZoneInfo]::FindSystemTimeZoneById("Argentina Standard Time")
-  return [TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $tz)
+  foreach ($tzId in @("America/Argentina/Buenos_Aires", "Argentina Standard Time")) {
+    try {
+      $tz = [TimeZoneInfo]::FindSystemTimeZoneById($tzId)
+      return [TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $tz)
+    } catch { }
+  }
+  return [DateTime]::UtcNow.AddHours(-3)
 }
 
 function Get-ElDestapeProgrammes {
   param([int]$Dias = 3)
 
-  # Grilla semanal de respaldo (hora de Argentina -03:00)
   $grillaFallback = @(
     @{ Titulo = "Habrá Consecuencias";      Dias = @(1,2,3,4,5); Inicio = "07:00"; Fin = "10:00" }
     @{ Titulo = "El pase";                   Dias = @(1,2,3,4,5); Inicio = "10:00"; Fin = "12:00" }
@@ -103,9 +105,10 @@ function Get-ElDestapeProgrammes {
       $fin     = $m.Groups[4].Value
 
       $diasActivos = @()
-      if ($diasTxt -match '^([a-záé]+)\s+a\s+([a-záé]+)$') {
-        $d1 = $mapaDias[$matches[1]]
-        $d2 = $mapaDias[$matches[2]]
+      $mDias = [Regex]::Match($diasTxt, '^([a-záé]+)\s+a\s+([a-záé]+)$')
+      if ($mDias.Success) {
+        $d1 = $mapaDias[$mDias.Groups[1].Value]
+        $d2 = $mapaDias[$mDias.Groups[2].Value]
         if ($null -ne $d1 -and $null -ne $d2) {
           for ($d = $d1; $d -le $d2; $d++) { $diasActivos += $d }
         }
