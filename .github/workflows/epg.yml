@@ -1,19 +1,10 @@
-name: epg
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: pwsh -NoProfile -File epg_40media.ps1
-      - run: |
-          git config user.name "epg-bot"
-          git config user.email "epg-bot@users.noreply.github.com"
-          gzip -kfn 40media_epg.xml
-          git add 40media_epg.xml 40media_epg.xml.gz
-          git diff --cached --quiet || (git commit -m "EPG update" && git push)
+function Get-ArgentinaNow {
+  foreach ($tzId in @("America/Argentina/Buenos_Aires", "Argentina Standard Time")) {
+    try {
+      $tz = [TimeZoneInfo]::FindSystemTimeZoneById($tzId)
+      return [TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $tz)
+    } catch { }
+  }
+  # Respaldo directo si ninguna zona está registrada en el sistema
+  return [DateTime]::UtcNow.AddHours(-3)
+}
