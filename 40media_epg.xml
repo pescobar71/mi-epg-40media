@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="epg-40media">
+<tv generator-info-name="epg-unificado">
   <channel id="entchannel">
     <display-name>ENT Channel</display-name>
   </channel>
@@ -35,6 +35,9 @@
   </channel>
   <channel id="TYC-SPORTS-FAN">
     <display-name>TyC Sports FAN</display-name>
+  </channel>
+  <channel id="el-destape">
+    <display-name>El Destape</display-name>
   </channel>
   <programme start="20261122064715 +0000" stop="20261122090307 +0000" channel="entchannel">
     <title lang="es">Ambulance: Plan de huida</title>
@@ -708,12 +711,6 @@
     <desc lang="es">Es el día de San Valentín y Lisa, sintiendo pena por Rafa le regala una tarjeta amistosa. Esto hace que se enamore de Lisa y la siga a todas partes, hasta que ella explota y le deja claro que no siente ningún interés por él, destrozando su corazón.</desc>
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/517052e30bd4cf2c521ea0eaf0bb3f58?w=400" />
-  </programme>
-  <programme start="20261122065613 +0000" stop="20261122083014 +0000" channel="entfamily">
-    <title lang="es">Mi villano favorito</title>
-    <desc lang="es">En una alegre urbanización con cuidados jardines rodeados por verjas de madera pintadas de blanco y llenos de rosales, sobresale una casa negra con el césped amarillento. Los vecinos ignoran que debajo de la vivienda hay un enorme escondite secreto. Allí está Gru, rodeado por...</desc>
-    <category lang="es">Animación</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/436a6854a4725bef73c982a61d4bed07?w=400" />
   </programme>
   <programme start="20261122083014 +0000" stop="20261122102240 +0000" channel="entfamily">
     <title lang="es">Los increíbles 2</title>
@@ -3103,20 +3100,6 @@
     <category lang="es">Ciencia ficción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0cd4edf937a50e8b29e3e89e1210678e?w=400" />
   </programme>
-  <programme start="20261122061158 +0000" stop="20261122070959 +0000" channel="entdrama">
-    <title lang="es">The Pacific</title>
-    <sub-title lang="es">Okinawa</sub-title>
-    <desc lang="es">Sledge y los Marines de la primera división socorren a otros en combate contra los japoneses.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e6dc29c238530406e00b93e7d8454c6a?w=400" />
-  </programme>
-  <programme start="20261122070959 +0000" stop="20261122075607 +0000" channel="entdrama">
-    <title lang="es">El Escudo</title>
-    <sub-title lang="es">Episodio 11</sub-title>
-    <desc lang="es">Vic pits Antwon's henchmen against each other in an effort to find the cop killers; Dutch and Claudette suspect Detective Billings of failing to stop a deadly carjacking.</desc>
-    <category lang="es">Serie</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/337e73c54f8592d3169edfdb499acb16?w=400" />
-  </programme>
   <programme start="20261122075607 +0000" stop="20261122090425 +0000" channel="entdrama">
     <title lang="es">Por mandato del cielo</title>
     <sub-title lang="es">Cuando Dios era amor</sub-title>
@@ -3736,12 +3719,6 @@
     <desc lang="es">Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.</desc>
     <category lang="es">Drama</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/74420c7497da60347ed78268846b8e92?w=400" />
-  </programme>
-  <programme start="20261122063419 +0000" stop="20261122085912 +0000" channel="entclassic">
-    <title lang="es">Tráfico</title>
-    <desc lang="es">El juez Robert Wakefield es nombrado por el Presidente de los Estados Unidos supervisor de los grupos de lucha contra la droga y de su coordinación con las autoridades mexicanas. Sin embargo, su satisfacción inicial por su prestigioso cargo se esfumará cuando descubra que su h...</desc>
-    <category lang="es">Suspense</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/730c3b1672c0b1cda3cbdff3f8cc4baf?w=400" />
   </programme>
   <programme start="20261122085912 +0000" stop="20261122103554 +0000" channel="entclassic">
     <title lang="es">Sólo falta el asesino</title>
@@ -4441,13 +4418,7 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/549fda48b94c0061fb48f14a14f8a088?w=400" />
   </programme>
-  <programme start="20261122072156 +0000" stop="20261122085808 +0000" channel="entlife">
-    <title lang="es">Juegos sexuales</title>
-    <desc lang="es">Kathryn  y su hermanastro Sebastian, todavía estudiantes de bachillerato en un elitista instituto de Nueva York, deciden hacer una maquiavélica apuesta. Se trata de que Sebastian, un consumado Don Juan, se acueste con Annette, una joven que quiere permanecer virgen hasta su ma...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c8c6761cd186ec6d8eb7acd406858cab?w=400" />
-  </programme>
-  <programme start="20261122085808 +0000" stop="20261122110803 +0000" channel="entlife">
+  <programme start="20261122085653 +0000" stop="20261122110803 +0000" channel="entlife">
     <title lang="es">Cruella</title>
     <desc lang="es">"Cruella" se sumerge en la juventud rebelde de uno de los villanos más conocidos -y más de moda-, nada menos que la legendaria Cruella de Vil. Emma Stone encarna a Estella, alias Cruella, junto a Emma Thompson como la Baronesa, la directora de una prestigiosa firma de moda que...</desc>
     <category lang="es">Comedia</category>
@@ -5025,12 +4996,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7710136b6910453d00313505a19ef341?w=400" />
   </programme>
-  <programme start="20261122054548 +0000" stop="20261122072532 +0000" channel="entextreme">
-    <title lang="es">Fargo: Secuestro Voluntario</title>
-    <desc lang="es">Un hombre apocado y tímido, casado con la hija de un millonario que le impide disfrutar de su fortuna, decide contratar a dos delincuentes para que secuestren a su mujer con el fin de montar un negocio propio con el dinero del rescate. Pero, por una serie de azarosas circunsta...</desc>
-    <category lang="es">Crimen</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1405076588e77a0ff546fc9f2f67a3da?w=400" />
-  </programme>
   <programme start="20261122072532 +0000" stop="20261122085818 +0000" channel="entextreme">
     <title lang="es">Londres bajo fuego</title>
     <desc lang="es">En un mundo gobernado por la injusticia y el caos, aparece la figura del Presidente de los Estados Unidos que junto a su portavoz Trumbull, liderarán una lucha interna por las libertades de todos los americanos. Sin embargo, se producirá un intento de derrocamiento por parte d...</desc>
@@ -5498,12 +5463,6 @@
     <desc lang="es">Soldados aliados de Bélgica, el Imperio Británico y Francia están rodeados por el ejército alemán y se intenta evacuarlos en una feroz batalla en Dunkerque, Francia, durante la Segunda Guerra Mundial.</desc>
     <category lang="es">Bélica</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/348f6d3bcb0c71a48acce605f6933745?w=400" />
-  </programme>
-  <programme start="20261122062759 +0000" stop="20261122085940 +0000" channel="entcomedy">
-    <title lang="es">Boogie Nights: Juegos de placer</title>
-    <desc lang="es">A finales de los 70, Jack Horner, un director de cine porno que considera su trabajo una forma de arte descubre a Eddie Adams, un joven ingenuo que desea triunfar y que tiene unas características físicas muy adecuadas para ese tipo de cine. Eddie cambia su nombre por el de Dir...</desc>
-    <category lang="es">Drama</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/90d04971f8949981945efc99d8006252?w=400" />
   </programme>
   <programme start="20261122085940 +0000" stop="20261122102652 +0000" channel="entcomedy">
     <title lang="es">Hotel Transylvania</title>
@@ -6370,27 +6329,7 @@
     <category lang="es">Serie</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/221e2cd91b30494f4b454605f9204612?w=400" />
   </programme>
-  <programme start="20261122133814 +0000" stop="20261122134846 +0000" channel="TYC-SPORTS-FAN">
-    <title lang="es">VAR 5: Falaschi 1</title>
-    <desc lang="es">Los mejores especiales de Automovilismo de TyC Sports</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261122134846 +0000" stop="20261122141744 +0000" channel="TYC-SPORTS-FAN">
-    <title lang="es">VAR 5: Falaschi 2</title>
-    <desc lang="es">Los mejores especiales de Automovilismo de TyC Sports</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261122141744 +0000" stop="20261122144442 +0000" channel="TYC-SPORTS-FAN">
-    <title lang="es">VAR 5: Falaschi 3</title>
-    <desc lang="es">Los mejores especiales de Automovilismo de TyC Sports</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261122144442 +0000" stop="20261122145644 +0000" channel="TYC-SPORTS-FAN">
-    <title lang="es">VAR 5: Falaschi 4</title>
-    <desc lang="es">Los mejores especiales de Automovilismo de TyC Sports</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261122145644 +0000" stop="20261122161532 +0000" channel="TYC-SPORTS-FAN">
+  <programme start="20261122150904 +0000" stop="20261122161532 +0000" channel="TYC-SPORTS-FAN">
     <title lang="es">1 Atletico Tucuman vs. Platense 2026 Copa Argentina</title>
     <desc lang="es">Platense se levantó, llevó el encuentro a los penales y clasificó a las final de la Copa Argentina</desc>
     <category lang="es">Deportes</category>
@@ -6519,5 +6458,73 @@
     <title lang="es">VAR 5: Falaschi 4</title>
     <desc lang="es">Los mejores especiales de Automovilismo de TyC Sports</desc>
     <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261123000000 +0000" channel="el-destape">
+    <title lang="es">Te toman por boludo</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123013000 +0000" channel="el-destape">
+    <title lang="es">Detrás de lo que vemos</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123130000 +0000" channel="el-destape">
+    <title lang="es">Habrá Consecuencias</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123150000 +0000" channel="el-destape">
+    <title lang="es">El pase</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123170000 +0000" channel="el-destape">
+    <title lang="es">Verdades Afiladas</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123200000 +0000" channel="el-destape">
+    <title lang="es">Maldita Suerte</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="el-destape">
+    <title lang="es">Palo y Zanahoria</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="el-destape">
+    <title lang="es">El pase de la tarde</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124010000 +0000" channel="el-destape">
+    <title lang="es">Batalla Cultural</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="el-destape">
+    <title lang="es">SAD</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124130000 +0000" channel="el-destape">
+    <title lang="es">Habrá Consecuencias</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124150000 +0000" channel="el-destape">
+    <title lang="es">El pase</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124170000 +0000" channel="el-destape">
+    <title lang="es">Verdades Afiladas</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124200000 +0000" channel="el-destape">
+    <title lang="es">Maldita Suerte</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124220000 +0000" channel="el-destape">
+    <title lang="es">Palo y Zanahoria</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="el-destape">
+    <title lang="es">El pase de la tarde</title>
+    <category lang="es">Noticias / Política</category>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="el-destape">
+    <title lang="es">Batalla Cultural</title>
+    <category lang="es">Noticias / Política</category>
   </programme>
 </tv>
